@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About-simbas on Simba Tango</title>
+    <link>https://simbatango.github.io/about-simba/index.xml</link>
+    <description>Recent content in About-simbas on Simba Tango</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
+    <webMaster>simbatango@gmail.com (Simba)</webMaster>
+    <lastBuildDate>Sat, 31 May 2008 17:15:25 +0000</lastBuildDate>
+    <atom:link href="https://simbatango.github.io/about-simba/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>https://simbatango.github.io/about-simba/about-simba/</link>
+      <pubDate>Sat, 31 May 2008 17:15:25 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/about-simba/about-simba/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/&#34;&gt;&lt;img src=&#34;http://simbatango.com/wp-content/uploads/2008/11/simba-blogging.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;A tango dancer since &lt;sup&gt;1998&lt;/sup&gt;&amp;frasl;&lt;sub&gt;1999&lt;/sub&gt;, I have been consumed by learning, dancing, teaching and djing as well as community building in my small tango community.&lt;/p&gt;
+
+&lt;p&gt;Always thinking a lot about the tango and why it means so much to me, but not always time to write or discuss with the equally tango crazy, I have had the intention to blog for some time, but after I became a father quite recently, there is much less time for dancing, but some time for  blogging in between.&lt;/p&gt;
+
+&lt;p&gt;This blog is pseudo-anonymous; if you know me, you will probably easily guess who I am, but I ask you to use the nick Simba to my real name nevertheless. Comments are most welcome.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

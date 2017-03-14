@@ -1,0 +1,1713 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tango Research on Simba Tango</title>
+    <link>https://simbatango.github.io/tags/tango-research/index.xml</link>
+    <description>Recent content in Tango Research on Simba Tango</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
+    <webMaster>simbatango@gmail.com (Simba)</webMaster>
+    <atom:link href="https://simbatango.github.io/tags/tango-research/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Perfect Embrace</title>
+      <link>https://simbatango.github.io/2015/02/14/the-perfect-embrace/</link>
+      <pubDate>Sat, 14 Feb 2015 19:22:52 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/2015/02/14/the-perfect-embrace/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/virgoh/8413961643/&#34;&gt;&lt;img src=&#34;https://farm9.static.flickr.com/8364/8413961643_62e7a83368.jpg&#34; alt=&#34;the dark side of the embrace by virgoh, on Flickr&#34; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://creativecommons.org/licenses/by-nc/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc/2.0/80x15.png&#34; alt=&#34;Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;https://www.flickr.com/people/virgoh/&#34;&gt; &lt;/a&gt;&lt;a href=&#34;https://www.flickr.com/people/virgoh/&#34;&gt;virgoh&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Of course, this is nothing new to tango dancers, but understanding the mechanisms is interesting:&lt;/p&gt;
+
+&lt;blockquote&gt;A caress feels best when it is delivered with a small amount of force and a speed of about 1 inch per second. Stroke slower, and it feels like an unwelcome crawling bug; faster, and it feels perfunctory rather than loving. &lt;/blockquote&gt;
+
+&lt;blockquote&gt;Perform your caress not on the glabrous skin of the palm or sole, but on the hairy skin of the limbs where the caress sensing fibers are found. Move your hand at about 1 inch per second, exert moderate force, don’t clutch a cold drink immediately beforehand, and you will optimally activate your partner’s caress-sensing fibers and then strongly excite the posterior insular region of your sweetheart’s brain. And for a moment, all will be right with the world.&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.slate.com/articles/health_and_science/science/2015/02/touch_research_how_to_perform_the_ideal_caress_for_valentine_s_day.single.html&#34;&gt;Read the full article @ Slate.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BPM</title>
+      <link>https://simbatango.github.io/2013/03/29/bpm/</link>
+      <pubDate>Fri, 29 Mar 2013 19:41:20 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/2013/03/29/bpm/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/armchairanarchist/2325370364/&#34;&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2114/2325370364_098779f75d.jpg&#34; alt=&#34;Oil-wheel kick drum by Paul Graham Raven, on Flickr&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt;  by &lt;a href=&#34;http://www.flickr.com/people/armchairanarchist/&#34;&gt; &lt;/a&gt;&lt;a href=&#34;http://www.flickr.com/people/armchairanarchist/&#34;&gt;Paul Graham Raven&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The advances in DSP and processing power since I started ripping my cds to store all my music on a computer drive are enormous.&lt;/p&gt;
+
+&lt;p&gt;Sometimes having an estimate of the BPM of a tango song can be useful, e.g. when searching for &amp;ldquo;slow&amp;rdquo; milongas, sorting by BPM would be useful. But tapping each song individually to store in tags &amp;ndash; no way it&amp;rsquo;s worth the effort. I remember doing some experiments years and years ago with automatic BPM calculation, and the results were useless.&lt;/p&gt;
+
+&lt;p&gt;Now, on the other hand, there are open source solutions available. The one I tried got good results, better than I could achieve manually, I think. I used Sonic Annotator with a vamp plugin from Queen Mary:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://code.soundsoftware.ac.uk/projects/sonic-annotator/files&#34;&gt;http://code.soundsoftware.ac.uk/projects/sonic-annotator/files&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The command line I used was this:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt; ./sonic-annotator -d vamp:qm-vamp-plugins:qm-tempotracker:tempo -w csv --csv-stdout ../test.wav
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;And I did a small script to calculate for my collection. I probably should have used different parameters for vals and milonga, but I haven&amp;rsquo;t had the time to try this out (it is already a long time since I did this, trying to cope with the blog post drafts queue).&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;TMP=$HOME/vamp/tmp.wav
+flac -d &amp;quot;$1&amp;quot; -f -o &amp;quot;$TMP&amp;quot; 2&amp;gt;/dev/null
+BPM=$(sonic-annotator -d vamp:qm-vamp-plugins:qm-tempotracker:tempo -w csv --csv-stdout &amp;quot;$TMP&amp;quot; 2&amp;gt;/dev/null |head -n 1 |cut -d&amp;quot;,&amp;quot; -f3)
+metaflac --remove-tag=BPM &amp;quot;$1&amp;quot;
+metaflac --set-tag=BPM=$BPM &amp;quot;$1&amp;quot;
+rm &amp;quot;$TMP&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;In Sonic Visualiser I could have the software play along the detected beats to see if the timing was ok. Depending on your sense of humour, this could be a funny version of what seems to be my favourite test track: &lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2012/02/al-verla-pasar-kick.mp3&#34;&gt;Al verla pasar + kick drum&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Audio Restoration from Multiple Copies</title>
+      <link>https://simbatango.github.io/2013/03/27/audio-restoration-from-multiple-copies/</link>
+      <pubDate>Wed, 27 Mar 2013 18:53:20 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/2013/03/27/audio-restoration-from-multiple-copies/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2013/03/SprBroMorSapICASSP13-figure1.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2013/03/SprBroMorSapICASSP13-figure1.png&#34; alt=&#34;SprBroMorSapICASSP13-figure&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I was pondering the usefulness of noise removal based on several copies of a recording, possibly from different physical copies. A Google search reveals that such a technique is &lt;a href=&#34;http://www.google.com/patents/US5740146&#34;&gt;already patented&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;The present invention provides a method for reducing noise using a plurality of recording copies. The present invention produces a master file with lower noise than the available recording copies, and avoids the problems of losing musical content caused by prior art pop and click removers. The system comprises a recording playback unit, a computer system with a sound input capability, and a high capacity storage system such as a CD recorder. In operation, a plurality of recording copies of a single recording are played on the playback unit. These recordings are digitized by the computer and a separate recording file is formed for each copy of the recording. The recording files are then synchronized. The samples from each of the recording files are then averaged to reduce the noise components. A variety of threshold comparison techniques can be employed to eliminate samples and/or recording files that are outside of a computed range for that sample.&lt;/blockquote&gt;
+
+&lt;p&gt;After doing a little more research I found the &lt;a href=&#34;http://www.eecs.qmul.ac.uk/~simond/match/index.html&#34;&gt;MATCH&lt;/a&gt; &lt;a href=&#34;http://www.sonicvisualiser.org/doc/tutorial/en/sv-alignment.pdf&#34;&gt;plugin for Sonic Visualiser&lt;/a&gt;, which sort of does what I had in mind, but I haven&amp;rsquo;t figured out how to process the aligned audio to get two aligned files:&lt;/p&gt;
+
+&lt;p&gt;This method is described in a 2005 &lt;a href=&#34;http://www.eecs.qmul.ac.uk/~simond/pub/2005/dafx05.pdf&#34;&gt;paper by Simon Dixon&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;Dynamic time warping ﬁnds the optimal alignment of two time series, but it is not suitable for on-line applications because it requires complete knowledge of both series before the alignment can be computed. Further, the quadratic time and space requirements are limiting factors even for off-line systems. We present a novel on-line time warping algorithm which has linear time and space costs, and performs incremental alignment of two series as one is received in real time. This algorithm is applied to the alignment of audio signals in order to follow musical performances of arbitrary length. Each frame of audio is represented by a positive spectral difference vector, emphasising note onsets. The system was tested on various test sets, including recordings of 22 pianists playing music by Chopin, where the average alignment error was 59ms (median 20ms). We demonstrate one application of the system: the analysis and visualisation of musical expression in real time.&lt;/blockquote&gt;
+
+&lt;p&gt;I also found&lt;a href=&#34;http://vista.eng.tau.ac.il/publications/SprBroMorSapICASSP13.pdf&#34;&gt; another paper by Pablo Sprechmann, Alex Bronstein, Jean-Michel Morel and Guillermo Sapiro&lt;/a&gt; who seem to do exactly what I had in mind. This is fresh stuff, and I found no reference to any available software implementation:&lt;/p&gt;
+
+&lt;blockquote&gt;A method for removing impulse noise from audio signals by fusing multiple copies of the same recording is introduced in this paper. The proposed algorithm exploits the fact that while in general multiple copies of a given recording are available, all sharing the same master, most degradations in audio signals are record-dependent. Our method ﬁrst seeks for the optimal non-rigid alignment of the signals that is robust to the presence of sparse outliers with arbitrary magnitude. Unlike previous approaches, we simultaneously ﬁnd the optimal alignment of the signals and impulsive degradation. This is obtained via continuous dynamic time warping computed solving an Eikonal equation. We propose to use our approach in the derivative domain, reconstructing the signal by solving an inverse problem that resembles the Poisson image editing technique. The proposed framework is here illustrated and tested in the restoration of old gramophone recordings showing promising results; however, it can be used in other applications where different copies of the signal of interest are available and the degradations are copy-dependent.&lt;/blockquote&gt;
+
+&lt;p&gt;If you happen to be in Vancouver in the end of May, you can attend &lt;a href=&#34;http://www.icassp2013.com/Papers/ViewPapers.asp?PaperNum=4586&#34;&gt;their presentation at ICASSP 2013&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m curious as to how much difference this would make in practice compared with traditional statistical approaches. Theoretically, it would be very interesting for getting the most out of tango recordings where the masters are long gone and  would reduce less man hours for manual restoration. However, it would require extra effort as each track would have to be digitized from multiple physical copies, not to mention that you would need access to more than one physical copy of each recording. Something to think of for a project like&lt;a href=&#34;http://tangovia.org/&#34;&gt; TangoVia&lt;/a&gt;, that multiple copies of the same material might actually be useful.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Letras de Non-Tango</title>
+      <link>https://simbatango.github.io/2011/06/30/letras-de-non-tango/</link>
+      <pubDate>Thu, 30 Jun 2011 18:23:53 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/2011/06/30/letras-de-non-tango/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2011/06/hip-hop-e1309458007832.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Maybe you remember my &lt;a href=&#34;http://simbatango.com/2010/03/29/letras-de-tango/&#34;&gt;Letras de Tango&lt;/a&gt; post a while back, showing the most used words in tango lyrics.  The possibility of doing something similar for other genres/pop music was raised in the comments. And the guys over at last.fm just did exactly that. So head over and have a look at their &lt;a href=&#34;http://blog.last.fm/2011/06/22/lyric-clouds-genre-maps-and-distinctive-words&#34;&gt;graphics for Blues, Country, Electronic, Folk, Goth, Hip-Hop, Indie, Metal, Rap, Rock and Soul&lt;/a&gt;. They also did some interesting distance charts, showing graphically how similar the lyrics of different genres are. Unfortunately they assume it&amp;rsquo;s all in English, so they need to sort out the language barrier before we could include tango in that in any meaningful way.&lt;/p&gt;
+
+&lt;p&gt;Using different fonts for each genre was a nice touch, maybe I should redo mine with an Art Deco font or something :-).&lt;/p&gt;
+
+&lt;p&gt;They also have some other interesting research going on, more on that later if ever I find the time&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tango Recordings Through the Year</title>
+      <link>https://simbatango.github.io/2011/04/05/tango-recordings-through-the-year/</link>
+      <pubDate>Tue, 05 Apr 2011 19:22:59 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/2011/04/05/tango-recordings-through-the-year/</guid>
+      <description>&lt;p&gt;[](&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2011/04/monthly.png)[![](http://simbatango.com/blog/wp-content/uploads/2011/04/monthly1.png)](http://simbatango.com/blog/wp-content/uploads/2011/04/monthly1.png&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2011/04/monthly.png)[![](http://simbatango.com/blog/wp-content/uploads/2011/04/monthly1.png)](http://simbatango.com/blog/wp-content/uploads/2011/04/monthly1.png&lt;/a&gt;)
+When were the different tangos recorded? From the 9233 unique recordings identified with exact recording date in the tango.info database we can see that not surprisingly there is low activity during summer, more specifically during January and February, it then picks up with peaks in June, September and December. Splitting the numbers over the decades makes a slightly more confusing picture.&lt;/p&gt;
+
+&lt;p&gt;If you want to check out the recordings for one specific date, there is now a nifty feature over at tango.info that will do just that for you: see for instance the recordings for today: &lt;a href=&#34;http://www.tango.info/04-05&#34;&gt;http://www.tango.info/04-05&lt;/a&gt; . Simply change the date at the end of the url for any day in tango.&lt;/p&gt;
+
+&lt;p&gt;Anyone cares to guess if there are any days with no recordings in the database, and if so, which dates?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Letras de tango</title>
+      <link>https://simbatango.github.io/2010/03/29/letras-de-tango/</link>
+      <pubDate>Mon, 29 Mar 2010 09:14:50 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/2010/03/29/letras-de-tango/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2010/03/letras-de-tango.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2010/03/letras-de-tango.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We all know that tango is about lost love, broken hearts, right? Well &amp;ndash; now we can check it out.  Hans at &lt;a href=&#34;http://www.amsterdamclubdetango.nl/&#34;&gt;Amsterdam tango club &lt;/a&gt;put all the &lt;a href=&#34;http://www.amsterdamclubdetango.nl/single.html&#34;&gt;13,000 lyrics they got in their online database in a single html file&lt;/a&gt;, which made it rather easy to do some statistics. I wrote a small script, counting the occurrences of each word, and the figure above is a representation of the results, but leaving the very shortest words like y, o, el, lo etc out. The illustration is made with the &lt;a href=&#34;http://www.wordle.net&#34;&gt;wordle&lt;/a&gt; tool that was popular among bloggers a while back. If you really like it, &lt;a href=&#34;http://www.zazzle.com/letras_de_tango_tshirt-235150358548760830&#34;&gt;get the t-shirt&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It is not perfect, there are some peculiarities in the formatting, misspellings etc, but we get the idea. I removed the most obvious error sources, but there is still room for improvement. If you want to improve the analysis, you can &lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2010/03/freq.zip&#34;&gt;download it&lt;/a&gt; and improve it yourself :-) If you do, please publish your results, your modifications and link back here. The python script and the raw results from the analysis can be found in &lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2010/03/freq.zip&#34;&gt;the zip file&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The top 100 words were (with counts):&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;amor : 13000&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;como : 11511&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;para : 9413&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;tango : 8942&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;vida : 8018&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;cuando : 7199&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;más : 6601&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;corazón : 6554&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;porque : 5534&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;pero : 5264&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;quiero : 4987&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;todo : 4857&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;esta : 4689&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;noche : 4411&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;alma : 4286&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;siempre : 4014&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;este : 3666&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;solo : 3461&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;donde : 3347&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;nunca : 3307&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ojos : 3052&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;dolor : 3043&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;entre : 3038&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;hasta : 2735&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;bien : 2496&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;así : 2449&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;tengo : 2436&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;tiempo : 2411&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;triste : 2408&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;día : 2382&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;nada : 2318&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;mujer : 2293&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;qué : 2235&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ella : 2202&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;tanto : 2194&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;viejo : 2163&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;aquel : 2132&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;cielo : 2130&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;está : 2122&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;canta : 2068&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ayer : 2048&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;quien : 2037&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;tiene : 2012&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;canción : 2005&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;milonga : 2000&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;dios : 1997&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;buenos : 1980&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;desde : 1952&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;mundo : 1948&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;flor : 1919&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;aires : 1910&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;estoy : 1879&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;pena : 1864&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;querer : 1836&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;otra : 1831&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;pobre : 1828&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;hace : 1818&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;vivir : 1752&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;recuerdo : 1747&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;vals : 1701&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;también : 1695&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;aunque : 1685&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;luna : 1628&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;canto : 1618&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;todos : 1611&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;cada : 1602&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;sobre : 1547&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;barrio : 1543&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;puedo : 1521&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;sueño : 1516&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;otro : 1501&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;gardel : 1470&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;llorar : 1461&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;nadie : 1447&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;cariño : 1441&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ilusión : 1405&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;gran : 1401&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;lado : 1387&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;boca : 1370&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;tierra : 1368&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;hombre : 1365&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ahora : 1364&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;cosas : 1357&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;tarde : 1353&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;camino : 1350&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;años : 1337&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;cantar : 1321&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;noches : 1312&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;eres : 1312&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;siento : 1311&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;dulce : 1300&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;madre : 1297&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;mismo : 1295&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;después : 1289&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;toda : 1284&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;sólo : 1277&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;nuestro : 1265&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;beso : 1263&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;viento : 1255&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;aquí : 1244&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Performance Insights</title>
+      <link>https://simbatango.github.io/2009/11/16/performance-insights/</link>
+      <pubDate>Mon, 16 Nov 2009 13:52:37 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/2009/11/16/performance-insights/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/dispari-hot-spots.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/dispari-hot-spots.png&#34; alt=&#34;dispari-hot-spots&#34; /&gt;&lt;/a&gt;As I was uploading a couple of &lt;a href=&#34;http://www.youtube.com/watch?v=7VT5x1Ncaf8&#34;&gt;new&lt;/a&gt; &lt;a href=&#34;http://www.youtube.com/watch?v=V1VsJhCfKS8&#34;&gt;videos&lt;/a&gt; at youtube, I noticed the &amp;lsquo;Attention&amp;rsquo; ranking of my videos in the &amp;lsquo;Insights&amp;rsquo; section. The video with most attention (showed by a red bar like in the illustration top centre) is a video showing Jorge Dispari and María &amp;lsquo;La Turca&amp;rsquo; del Carmen at Confitería Ideal. At the time of writing, this video has been viewed 11 852 times.&lt;/p&gt;
+
+&lt;p&gt;Youtube describes the calculation of the video &amp;lsquo;hot spots&amp;rsquo; like this:  &amp;rdquo;The ups-and-downs of viewership at each moment in your video, compared to videos of similar length. The higher the graph, the hotter your video: fewer viewers are leaving your video and they may also be rewinding to watch that point in the video again. Audience attention is an overall measure of your video&amp;rsquo;s ability to retain its audience.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;I found this very interesting, as this graph shows a very nice development through the piece, like you would tell a good story. An interesting opening to catch your listener&amp;rsquo;s attention, then taking a long breath before you add details to build up towards the climax. Rounding off while it is still interesting. It correponds well with the structure of the music, Dispari saves his most elaborate tricks for the final variation.&lt;/p&gt;
+
+&lt;p&gt;I couldn&amp;rsquo;t find a way to share the nice setup pictured above where you can move the red line to change the part of the video to see what is happening at that moment in time, but you can watch the video here:&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/EXuGqzS4zYk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The Golden Age Visualized</title>
+      <link>https://simbatango.github.io/2009/10/17/the-golden-age-visualized/</link>
+      <pubDate>Sat, 17 Oct 2009 03:28:44 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/2009/10/17/the-golden-age-visualized/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/10/golden.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/10/golden.png&#34; alt=&#34;golden&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;When was the Golden Age of tango, exactly? It is fairly common to say 1935-1955 mas o menos, but while I was playing around with the data at &lt;a href=&#34;http://eng.tango.info/&#34;&gt;tango.info&lt;/a&gt;, I thought it would be fun to make a plot to **&lt;em&gt;see&lt;/em&gt; when the Golden Age was. And here it is. **&lt;/p&gt;
+
+&lt;p&gt;These are the number of unique recordings in the database, so if a recording is issued on several cds, it is only counted once. I only used data with a positive genre identification and positive year, not necessarily month or exact date, so there may still be some small errors, but it should be fine, I think. This gave about 12k data points, which if the number of 100k tango records in total is correct, gives us a sample of about 12%.&lt;/p&gt;
+
+&lt;p&gt;I was a bit surprised that the Guardia Vieja had such a large number of recordings, as I suspected the data, if skewed, would over represent the golden age. It is quite telling, that the interest for tango seems to fade away at the end of the Old Guard, then suddenly comes back in the early 1930s with a new spike in the 1940s. The interest is certainly vaning again by the end of the 1950s, so I&amp;rsquo;d say the usual definition is a good rule of thumb.&lt;/p&gt;
+
+&lt;p&gt;It is also interesting to see that the number of recordings of valses and milongas is so small compared with tango. And that the valses start coming earlier than the milongas, which had a comeback in the tango world in the early 1930s.&lt;/p&gt;
+
+&lt;p&gt;The data quality is steadily getting better at &lt;a href=&#34;http://eng.tango.info/&#34;&gt;tango.info&lt;/a&gt;, so I should revisit this in a couple of years, or if someone knows about a better source, I&amp;rsquo;d be happy to know. If you  have time to investigate discographies for an album where some information (e.g. dates) is missing, I know Tobias is very happy to receive contributions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coming up are plots by orchestra, they become very messy when mixing too many, so three or four at the time seems to be the sweet spot. Any wishes for artist combinations you&amp;rsquo;d like to see?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/10/canaro-darienzo-disarli1.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/10/canaro-darienzo-disarli1.png&#34; alt=&#34;canaro-darienzo-disarli&#34; /&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is one example, Canaro, D&amp;rsquo;Arienzo and Di Sarli. I knew Canaro was very productive, but wow, over 70 recordings in one year!&lt;/p&gt;
+
+&lt;p&gt;The raw data are available at &lt;a href=&#34;http://open.tango.info/&#34;&gt;open.tango.info&lt;/a&gt;. I thought it would be a nice subtle tango reference in my work environment to have a &lt;a href=&#34;http://www.cafepress.com/Simbatango.412483555&#34;&gt;coffee mug with this graph&lt;/a&gt;. Now you can have one, too ;-)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From &#39;Band Union&#39; to bandoneón?</title>
+      <link>https://simbatango.github.io/2009/07/28/from-band-union-to-bandone%C3%B3n/</link>
+      <pubDate>Tue, 28 Jul 2009 14:54:28 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/2009/07/28/from-band-union-to-bandone%C3%B3n/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/ruedi/1109596068/&#34;&gt;&lt;img src=&#34;http://farm2.static.flickr.com/1421/1109596068_976729dbd3.jpg&#34; alt=&#34;(19.05.07-11.02) - Bandoneon (3) by RÃ¼dis Fotos, on Flickr&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-nd/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/ruedi/&#34;&gt; Rüdis Fotos&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;What is the origin of the word bandoneón? Two competing theories exist. They both agree that the instrument is somehow named after the assumed inventor, Heinrich Band.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;The name &amp;lsquo;Band Union&amp;rsquo; was used by Heinrich Band and partners, and it got mispronounced and reinterpreted in  Argentina as bandoneón.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The name was invented by Band or others based on the naming of other instruments such as the accordion, Band + ion was transformed into bandonion, which in turn became bandoneón in Argentina.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In the discussion following Ms Hedgehog&amp;rsquo;s good &lt;a href=&#34;http://mshedgehog.blogspot.com/2009/07/bandoneon-seen-spelled-pronounced-and.html&#34;&gt;introduction to the bandoneón&lt;/a&gt;, the validity of theory one was questioned, but the German Wikipedia didn&amp;rsquo;t really occur to me as an authoritative source on the subject.&lt;/p&gt;
+
+&lt;p&gt;Alas, time for a little research. Would it be possible to find early sources referring to this  &amp;rsquo;Band Union&amp;rsquo; or Heinrich Band and the naming of his instrument?&lt;/p&gt;
+
+&lt;p&gt;With respect to the last matter, I found this, dating back to 1895:&lt;/p&gt;
+
+&lt;blockquote&gt;**Bando&#39;nion **A kind of Concertina with square ends (keyboards), inv. by  C.F. Uhlig of Chemniz, about 1830, and since then much improved and enlarged. It takes it name from Heinrich Band of Crefeld, a dealer in the instr. --- Comp. art. Harmonicum.
+
+&gt; 
+&gt; _[A dictionary of musical terms](http://books.google.com/books?id=7hoQAAAAYAAJ&amp;pg=PA23)_ by Theodore Baker 10th edition, 1895
+&gt; 
+&gt; 
+&lt;/blockquote&gt;
+
+&lt;p&gt;An even earlier source of the same is mentioned by Ramon Pelinski in &lt;a href=&#34;http://www.jstor.org/stable/780143&#34;&gt;Latin American Music Review / Revista de Música Latinoamericana&lt;/a&gt; that the name of the instrument was &amp;ldquo;Bandonion&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;And that is actually also available online:&lt;/p&gt;
+
+&lt;blockquote&gt;
+
+&gt; 
+&gt; Auf veranlassung von Band sowie einiger Spieler wurden nun auch Instrumente mit 88 Tönen gebaut, an denen Band einige Töne unterstimmte und ein Schild mit dem Namen Bandonion anbrachte. Unter diesem Namen wurde das Instrument mehr und mehr bekannt, so dass man jetzt alle Concertinas mit 88 bis 260 Tönen Bandonion nennt.
+&gt; 
+&gt; 
+
+&gt; 
+&gt; [Zeitschrift für Instrumentenbau](http://daten.digitale-sammlungen.de/~db/bsb00004237/images/index.html?id=00004237&amp;fip=24.128.198.225&amp;no=1&amp;seite=25) [1890]: pp. 19-21
+&gt; 
+&gt; &lt;/blockquote&gt;
+
+&lt;p&gt;As there is some evidence that Band himself named the instrument bandonion, that strenghtens theory 2 considerably. So where did the Band Union theory come from, and why is it so widespread?&lt;/p&gt;
+
+&lt;p&gt;A search on books.google.com suggests an answer. It appears this theory is mentioned in several works on the history of tango. Unfortunately, Google books only gives a snippet view of these books, but in some snippets the historian Zucchi is mentioned, and in others the dictionary &lt;a href=&#34;http://en.wikipedia.org/wiki/Enciclopedia_universal_ilustrada_europeo-americana&#34;&gt;Enciclopedia universal ilustrada europeo-americana&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Zucchi himself &lt;a href=&#34;http://www.todotango.com/english/biblioteca/cronicas/el_bandoneon.asp&#34;&gt;seems to be open for both possibilities&lt;/a&gt;, and cites another scholar, Manuel Román, that found a advertisment by Band from 1850 saying:&lt;/p&gt;
+
+&lt;blockquote&gt;
+To accordion lovers: about a new invention, once again we have notably improved our accordions, and these newly made, of round or octagonal shape with 88 or 104 tones are available in our shop&lt;/blockquote&gt;
+
+&lt;p&gt;He also writes that Román does not believe that Band himself created the bandoneón, rather that it was Carl Zim(m)erman, concluding from said advertisment that Band was neither the inventor of the intstrument, nor the name, although somewhat contradictory he also dismisses the Band Union theory based on there being no records of this company in Krefeld.&lt;/p&gt;
+
+&lt;p&gt;Alberto Camaño &lt;a href=&#34;http://www.elportaldeltango.com/especial/InfoBandoneon2.htm&#34;&gt;cites another newspaper notice&lt;/a&gt; dates the first mention of the bandonion to 1856 (I don&amp;rsquo;t know the original source of this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+
+&gt; 
+&gt; &#34;Band Accordion Konzertinen”, por algunos llamado “Bandonion&#34;.
+&gt; 
+&gt; &lt;/blockquote&gt;
+
+&lt;p&gt;This information seems to be confirmed by the &lt;a href=&#34;http://www.inorg.chem.ethz.ch/tango/band/band_node11.html&#34;&gt;this website&lt;/a&gt;, giving a Joh. Schmitz, Krefeld as the source. If that is correct, it shows that the name was established before the instrument &lt;a href=&#34;http://www.todotango.com/english/biblioteca/cronicas/cronica_bandoneon_2.asp&#34;&gt;arrived in Argentina&lt;/a&gt; some time around 1863-1884.&lt;/p&gt;
+
+&lt;p&gt;Which leaves us with the Spanish encyclopedia as the primary suspect for the Band Union theory.&lt;/p&gt;
+
+&lt;h2 id=&#34;to-summarize-the-findings&#34;&gt;To summarize the findings:&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;The bandoneón was based on the concertina, invented by Uhlig of Chemniz around 1830.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The concertina was refined into the bandoneón, probably by Zimmermann, not Band.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Heinrich Band was an instrument trader, and the instrument is named after him.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The name bandonion was established in Germany, and the name bandoneón is the Spanish version of this, not Band Union.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;loose-ends&#34;&gt;Loose ends&lt;/h2&gt;
+
+&lt;p&gt;Some loose ends remain, though, I appreciate help in resolving any of these:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;If you have access to _Enciclopedia universal ilustrada europeo-americana,__ look up bandoneón and check what it says, and for possible Band Union references._&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;If you have access to e.g &lt;a href=&#34;http://books.google.com/books?id=L3lQAAAAMAAJ&amp;amp;q=%22band+union%22+%22Heinrich+Band%22&amp;amp;dq=%22band+union%22+%22Heinrich+Band%22&amp;amp;lr=&#34;&gt;Acuerdos acercaa del idioma&lt;/a&gt; (1947, p. 144) or Boletín de la &lt;a href=&#34;http://books.google.com/books?id=P6MwAAAAYAAJ&amp;amp;q=&amp;quot;band+union&amp;quot;+&amp;quot;Heinrich+Band&amp;quot;&amp;amp;dq=&amp;quot;band+union&amp;quot;+&amp;quot;Heinrich+Band&amp;quot;&amp;amp;lr=&#34;&gt;Academia Argentina de de Letras&lt;/a&gt; (1978, p. 303) &amp;ndash; search &lt;a href=&#34;http://books.google.com/books?lr=&amp;amp;q=&amp;quot;band+union&amp;quot;+&amp;quot;Heinrich+Band&amp;quot;&amp;amp;btnG=Search+Books&#34;&gt;books.google.com&lt;/a&gt; for &amp;ldquo;Heinrich Band&amp;rdquo; and &amp;ldquo;bandoneon&amp;rdquo; to find more. &amp;ndash; verify that the Spanish Encyclopedia mentioned above is cited as the source for the Band Union story.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Der Bandonionverein Carlsfeld mentions Band Union in their &lt;a href=&#34;http://www.bandonion.de/cms/index.php?id=18&#34;&gt;Beginn der Musikinstrumentenproduktion in Carlsfeld&lt;/a&gt; &amp;ldquo;Vermutlich hat der Musikalienhändler Heinrich Band aus Krefeld diesen Instrumenten den Namen Bandonion -aus Accord ion = Band Union -gegeben).&amp;rdquo; Which I can&amp;rsquo;t really make much sense of. Anyone?&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;If you are in NYC, you migh want to check out the &lt;a href=&#34;http://www.alexmusical.com/accordionmuseum.html&#34;&gt;Accordionmuseum&lt;/a&gt; On their website, they say they have: &amp;ldquo;Band Union: Third model of the first prototype before they were called Bandoneon. Hand made in Germany in the year 1890&amp;rdquo; I was thinking maybe it said Band Union on some early instruments, maybe, but that is mere speculation from my part.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Check if the source material for the advertisment of 1850 and/or the newspaper notice of 1856 is available in e.g. Zucchi&amp;rsquo;s book (El tango, el bandoneón y sus intérpretes) or in Román&amp;rsquo;s article cited there.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On circulation</title>
+      <link>https://simbatango.github.io/2009/05/11/on-circulation/</link>
+      <pubDate>Mon, 11 May 2009 00:57:56 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/2009/05/11/on-circulation/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/pdcawley/2220859/&#34;&gt;&lt;img src=&#34;http://farm1.static.flickr.com/1/2220859_55540cbb1f.jpg&#34; alt=&#34;Mallory Bugatti by pdcawley, on Flickr&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/pdcawley/&#34;&gt; pdcawley&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ms Hedgehog is researching the dynamics of flow in the ronda, comparing with traffic and pondering about the &lt;a href=&#34;http://mshedgehog.blogspot.com/2009/05/floorcraft-and-length-of-tangos.html&#34;&gt;importance of song length&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;While song length can probably have some influence, I believe other factors are much more significant. And it is kind of hard to perform real experiments, even though she deserves credit for the attempt.&lt;/p&gt;
+
+&lt;p&gt;According to Jorge Dispari, the flow on the dance floors of Buenos Aires used to be much better than today. At Canning, for instance, during the peak hours, the circulation almost stops completely. While it is still possible to dance, it is not as enjoyable as when there is good circulation. And if he is to be believed, there was more people on the floor at that time as well, so floors being more crowded is not the reason.&lt;/p&gt;
+
+&lt;p&gt;He explained it by two factors:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Dancers today don&amp;rsquo;t have the necessary skills&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Dancers interpreted the music more in the same fashion earlier&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;While it is impossible for me to compare earlier times in Buenos Aires today, my experience from milongas all over the world largely supports the main idea that navigation skills and interpreting the music in a similar fashion improves the flow on the dancefloor.&lt;/p&gt;
+
+&lt;p&gt;Here is why: I know from teaching and observations on practicas and milongas support that &amp;lsquo;too few&amp;rsquo; have the ability to dance a) in a straight line b) on the spot c) change between  these when necessary. Dancers also observe the need to keep moving and not moving counter to the line of dance. Which I attribute to a lack of skill. If they know how, but choose not to, I attribute it more to musical interpretation. If dancers cannot keep within their own space, they are likely to cause a congestion or at least interrupt the other dancers.&lt;/p&gt;
+
+&lt;p&gt;If dancers are generally in agreement that they need to move at  certain speed around the dance floor, congestion is less likely. Anyone stopping while the others keep moving easily clogs the entire floor in less than a minute,  which is easy to show by experiment (yes I have done this on several occations). When dancers are generally in agreement of which parts in the music are for moving around/walking, and which are for more stationary repertoire like giros (the final variation for instance), the flow improves.&lt;/p&gt;
+
+&lt;p&gt;Hmm &amp;ndash; a little more work, and we might have the proof here :-). Assume we have enough dancers to achieve a crowded dance floor. (Too much space, and everybody can move wherever they like, and no significant interaction occurs.) Lack of skills imply congestion. Heterogenous musical interpretation implies congestion. Skills and homogenous musical interpretation are necessary, but not sufficient conditions for good flow of the ronda.&lt;/p&gt;
+
+&lt;p&gt;Of course,  you could show experimentally that the three minute theory is true, at best you could show that it is a necessary condition given sufficiently crowded floor. I do believe it occurs, but I believe it mainly covers the corner case where both conditions above are satisfied, but the floor is extremely crowded and good dance music with songs significantly longer than three minutes being played.&lt;/p&gt;
+
+&lt;p&gt;Say we have all three confirmed by experiment, how do we establish their relative importance? One could do a large survey of milongas, estimating the skills of dancers etc and do a regression, I suppose. For me, it is enough to know that the tree minute song limit is pretty much satisfied for all golden age tango music, so it is hard to imagine when it would be significant. I.e actually affecting the flow of the ronda. (If you play other music with longer songs, I belive other factors than song length destroys the ronda flow.)&lt;/p&gt;
+
+&lt;p&gt;As to how to improve the skills and musical interpretation, I don&amp;rsquo;t have the answer. Not allowing unskilled dancers is not exactly how to achieve a milonga with good attendance these days, I&amp;rsquo;m afraid.&lt;/p&gt;
+
+&lt;p&gt;If only it were possible to create a milonga ouside Bs As where you could feel that the entire dance floor was dancing and breathing together, making the old adage true: You have three dance partners in tango: 1) Your partner 2) The music 3) The dance floor.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Song numbers</title>
+      <link>https://simbatango.github.io/2009/03/11/song-numbers/</link>
+      <pubDate>Wed, 11 Mar 2009 20:12:58 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/2009/03/11/song-numbers/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/stewf/2026818238/&#34;&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2171/2026818238_5436f5a54c.jpg&#34; alt=&#34;Spiekermann House Numbers by Stewf, on Flickr&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/stewf/&#34;&gt; Stewf&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Some songs are more popular than others, and some are harder to find than others. Sometimes you have to buy an entire disc full of songs you already have to get just that song. So my library of tango music has a lot of duplicates. And more, is there a word like elevenicates?&lt;/p&gt;
+
+&lt;p&gt;So the most popular songs are probably available on a lot of records, I figured, and out of curiosity, I checked which were the most popular in my collection, this is for all songs that I have the recording date (from &lt;a href=&#34;http://eng.tango.info&#34;&gt;tango.info&lt;/a&gt;). The ten most available songs in my library are:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;     11 1944-08-29 Soñar y nada más Alfredo De Angelis
+     10 1942-09-02 Pedacito de cielo Miguel Caló
+      9 1944-08-23 Saludos Miguel Caló
+      9 1941-11-21 Del tiempo guapo Aníbal Troilo
+      8 1944-07-07 Sans souci Miguel Caló
+      8 1942-12-14 Barrio de tango Aníbal Troilo
+      8 1941-06-17 Milongueando en el cuarenta Aníbal Troilo
+      8 1938-07-14 Reliquias porteñas Francisco Canaro
+      7 1947-08-19 Romance de barrio Aníbal Troilo
+      7 1947-04-29 Flor de lino Aníbal Troilo
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;If I disregard the recording date, the list is more or less the same, counting only title gives most popular song ever, regardless of orchestra:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;     11 Soñar y nada más
+     10 Pobre flor
+     10 Pedacito de cielo
+      9 Saludos
+      9 Del tiempo guapo
+      8 Sans souci
+      8 Reliquias porteñas
+      8 Milongueando en el cuarenta
+      8 La yumba
+      8 Barrio de tango
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Finally, the most popular song, counting recordings by different orchestras once (giving the number of &amp;ldquo;covers&amp;rdquo;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    23 La cumparsita
+     11 A media luz
+      9 Quejas de bandoneón
+      9 Alma de bohemio
+      8 El entrerriano
+      8 Desde el alma
+      7 Inspiración
+      7 El once (A divertirse)
+      7 Cuando llora la milonga
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Not surprisingly, La cumparsita on the top of this list, with 23 orchestras doing a version.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rose in mouth</title>
+      <link>https://simbatango.github.io/2009/02/13/rose-in-mouth/</link>
+      <pubDate>Fri, 13 Feb 2009 22:00:54 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/2009/02/13/rose-in-mouth/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alyssathiele/272762443/&#34;&gt;&lt;img src=&#34;http://farm1.static.flickr.com/95/272762443_db45eead93.jpg&#34; alt=&#34;Mouth Rose by alyssathiele, on Flickr&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;http://creativecommons.org/licenses/by/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/alyssathiele/&#34;&gt; alyssathiele&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The tango cliché of dancing with a rose in the mouth is quite fascinating. It is everywhere, and everybody doing argentine tango wants &lt;em&gt;absolutely nothing to do with it&lt;/em&gt;. But where does it come from?&lt;/p&gt;
+
+&lt;p&gt;I have often seen it associated with the silent movie star Rudolph Valentino, and suggested that it first appeared in the movie &lt;em&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0012190/&#34;&gt;Four Horsemen of the Apocalypse&lt;/a&gt;&lt;/em&gt; (1921). So being curious, I had to check this out. Which was not so easy, as the Four Horsemen was not easily obtainable on DVD. Until I one day found out it was published as a bonus disc on the Valentino documentary &lt;a href=&#34;http://www.amazon.com/Rudolph-Valentino-Great-Lover-Documentary/dp/B000EGDCGO/ref=sr_1_2?ie=UTF8&amp;amp;s=dvd&amp;amp;qid=1230081144&amp;amp;sr=8-2&#34;&gt;The Great Lover&lt;/a&gt; (The documentary turned out to be quite interesting as well, leading to more Valentino movies for me).&lt;/p&gt;
+
+&lt;p&gt;The most famous scene from The Four Horsemen is when the young hero in the film dances tango in a bar in La Boca. This scene is quite interesting, and while not exactly correct, the tango in this scene is much better than what people usually associate with Hollywood tango in general and with Valentino&amp;rsquo;s tango in particular. Just don&amp;rsquo;t try those sacadas with spores on&amp;hellip;   But no rose in mouth.&lt;/p&gt;
+
+&lt;p&gt;There is also a scene from Paris, where our hero dances tango in a much more sober fashion. And a scene involving a rose, but nobody ever puts it into anyone&amp;rsquo;s mouth.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://simbatango.com/wp-content/uploads/2009/02/vlcsnap-503547.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/wp-content/uploads/2009/02/vlcsnap-503547.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;So where does the rose and the Hollywood cliché then come from? It is certainly established in the Hollywood comedy _&lt;a href=&#34;http://www.imdb.com/title/tt0053291/&#34;&gt;Some Like it Hot&lt;/a&gt;__ (1959)_&lt;em&gt;,&lt;/em&gt; and Tom Lehrer sings about it in his song _Masochism Tango. _Both of these also suffer from a severe mix-up with flamenco, featuring castanets, which to my knowledge has never been used in Argentine tango. Possibly the flamenco &lt;em&gt;tangos&lt;/em&gt; have something to do with the mix up, or perhaps the rule that Argentines had to perform in gaucho costumes in Paris in the early 20th century.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://simbatango.com/wp-content/uploads/2009/02/vlcsnap-505672.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/wp-content/uploads/2009/02/vlcsnap-505672.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Enter another Valentino movie. Featuring flamenco, a whip, a bullfighter, and &lt;strong&gt;&lt;em&gt;a rose in the mouth&lt;/em&gt;&lt;/strong&gt;_. _The movie is &lt;em&gt;&lt;a href=&#34;http://www.imdb.com/title/tt0012952/&#34;&gt;Blood And Sand&lt;/a&gt;&lt;/em&gt; (1924), and Valentino plays the matador, the bullfighter. It features a scene where a woman puts a rose in her mouth after doing a flamenco. So this cliché probably stems from there.&lt;/p&gt;
+
+&lt;p&gt;Who first mixed the two together I have no idea, but I can&amp;rsquo;t say I think it is fair to blame it all on Valentino.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Volume adjustments for tango music</title>
+      <link>https://simbatango.github.io/2009/01/07/volume-adjustments-for-tango-music/</link>
+      <pubDate>Wed, 07 Jan 2009 13:55:36 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/2009/01/07/volume-adjustments-for-tango-music/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/wp-content/uploads/2009/01/histogram-rg-track.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/wp-content/uploads/2009/01/histogram-rg-track.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;There was some discussion on the tangodj mailing list about the use of &lt;a href=&#34;http://wiki.hydrogenaudio.org/index.php?title=Replaygain&#34;&gt;Replay Gain&lt;/a&gt; for tango music. I have used it for several years, and found it to be immensely useful. As you can see from the histogram above, the loudness of cd releases varies a lot, and Replay Gain makes automatic adjustments to make the loundess more or less the same. It does a lot better than I do, that&amp;rsquo;s for sure, and frees up time for the more interesting parts of the djing.&lt;/p&gt;
+
+&lt;p&gt;Now, the reason to create this histogram was to show what range of adjustment Replay Gain will lead to in general. This is based on more than 5000 tracks, old and new, from my collection of tango music, all in &lt;a href=&#34;http://flac.sourceforge.net/&#34;&gt;flac&lt;/a&gt; format. As you can see, almost all tracks are attenuated. The ones that are not, are generally very silent tracks like tracks with someone talking etc. So there is little reason to be afraid of introducing clipping due to the use of Replay Gain for the tango dj.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Popularity contest: dancers@youtube</title>
+      <link>https://simbatango.github.io/2008/12/07/popularity-contest-dancersyoutube/</link>
+      <pubDate>Sun, 07 Dec 2008 21:24:26 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/2008/12/07/popularity-contest-dancersyoutube/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/stollerdos/183613210/&#34;&gt;&lt;img src=&#34;http://farm1.static.flickr.com/61/183613210_b03877947f.jpg&#34; alt=&#34;Westminster tube station by strollerdos, on Flickr&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;http://creativecommons.org/licenses/by-nc/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/stollerdos/&#34;&gt; strollerdos&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Following up on the &lt;a href=&#34;http://simbatango.com/2008/12/01/popularity-contest-dancersgoogle/&#34;&gt;first popularity contest&lt;/a&gt;, I wanted to check how popular these dancers are on YouTube&amp;hellip; I used the 20 most popular from the &lt;a href=&#34;http://simbatango.com/2008/12/01/popularity-contest-dancersgoogle/&#34;&gt;google search numbers&lt;/a&gt;. Searching first for name and tango, then selecting the number of views from the most viewed video.&lt;/p&gt;
+
+&lt;p&gt;Here are the results:
+&lt;table cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; style=&#34;border-collapse: &lt;br /&gt;
+ collapse; table-layout: fixed; width: 237pt;&amp;rdquo; border=&amp;ldquo;0&amp;rdquo; width=&amp;ldquo;315&amp;rdquo; &amp;gt;
+&lt;tbody &gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td width=&#34;70&#34; style=&#34;height: 12.75pt; width: 53pt;&#34; align=&#34;left&#34; height=&#34;17&#34; &gt;1
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td width=&#34;12&#34; style=&#34;width: 9pt;&#34; &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td width=&#34;169&#34; style=&#34;width: 127pt;&#34; &gt;Julio Balmaceda
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; &gt;520,941
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;3D&#34; height=&#34;3D17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;3D&#34; align=&#34;3Dright&#34; height=&#34;3D17&#34; &gt;2
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Juan Carlos Copes
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;3Dxl24&#34; &gt;484,201
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;3D&#34; height=&#34;3D17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;3D&#34; align=&#34;3Dright&#34; height=&#34;3D17&#34; &gt;3
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Gustavo Naveira
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;3Dxl24&#34; &gt;403,774
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;3D&#34; height=&#34;3D17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;3D&#34; align=&#34;3Dright&#34; height=&#34;3D17&#34; &gt;4
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Osvaldo Zotto
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;3Dxl24&#34; &gt;288,131
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;3D&#34; height=&#34;3D17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;3D&#34; align=&#34;3Dright&#34; height=&#34;3D17&#34; &gt;5
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Javier Rodriguez
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;3Dxl24&#34; &gt;272,420
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;3D&#34; height=&#34;3D17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;3D&#34; align=&#34;3Dright&#34; height=&#34;3D17&#34; &gt;5
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Geraldine Rojas
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;text-align: right;&#34; class=&#34;3Dxl24&#34; &gt;272,420
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;3D&#34; height=&#34;3D17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;3D&#34; align=&#34;3Dright&#34; height=&#34;3D17&#34; &gt;7
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Miguel Angel Zotto
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;text-align: right;&#34; class=&#34;3Dxl24&#34; &gt;188,302
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;3D&#34; height=&#34;3D17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;3D&#34; align=&#34;3Dright&#34; height=&#34;3D17&#34; &gt;8
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Chicho
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;text-align: right;&#34; class=&#34;3Dxl24&#34; &gt;145,227
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;3D&#34; height=&#34;3D17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;3D&#34; align=&#34;3Dright&#34; height=&#34;3D17&#34; &gt;9
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Pablo Veron
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;text-align: right;&#34; class=&#34;3Dxl24&#34; &gt;115,767
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;3D&#34; height=&#34;3D17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;3D&#34; align=&#34;3Dright&#34; height=&#34;3D17&#34; &gt;10
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Sebastian Arce
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;text-align: right;&#34; class=&#34;3Dxl24&#34; &gt;112,359
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;3D&#34; height=&#34;3D17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;3D&#34; align=&#34;3Dright&#34; height=&#34;3D17&#34; &gt;11
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Roberto Herrera
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;text-align: right;&#34; class=&#34;3Dxl24&#34; &gt;105,506
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;3D&#34; height=&#34;3D17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;3D&#34; align=&#34;3Dright&#34; height=&#34;3D17&#34; &gt;12
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Carlos Gavito
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;text-align: right;&#34; class=&#34;3Dxl24&#34; &gt;98,145
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;3D&#34; height=&#34;3D17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;3D&#34; align=&#34;3Dright&#34; height=&#34;3D17&#34; &gt;13
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Andrea Missé
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;text-align: right;&#34; class=&#34;3Dxl24&#34; &gt;94,431
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;3D&#34; height=&#34;3D17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;3D&#34; align=&#34;3Dright&#34; height=&#34;3D17&#34; &gt;14
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Milena Plebs
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;text-align: right;&#34; class=&#34;3Dxl24&#34; &gt;75,963
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;3D&#34; height=&#34;3D17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;3D&#34; align=&#34;3Dright&#34; height=&#34;3D17&#34; &gt;15
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Fabian Salas
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;text-align: right;&#34; class=&#34;3Dxl24&#34; &gt;42,649
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;3D&#34; height=&#34;3D17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;3D&#34; align=&#34;3Dright&#34; height=&#34;3D17&#34; &gt;16
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Esteban Moreno
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;text-align: right;&#34; class=&#34;3Dxl24&#34; &gt;30,045
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;3D&#34; height=&#34;3D17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;3D&#34; align=&#34;3Dright&#34; height=&#34;3D17&#34; &gt;17
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;El Cachafaz
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;text-align: right;&#34; class=&#34;3Dxl24&#34; &gt;20,560
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;3D&#34; height=&#34;3D17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;3D&#34; align=&#34;3Dright&#34; height=&#34;3D17&#34; &gt;18
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Maria Nieves
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;text-align: right;&#34; class=&#34;3Dxl24&#34; &gt;16,024
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;3D&#34; height=&#34;3D17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;3D&#34; align=&#34;3Dright&#34; height=&#34;3D17&#34; &gt;19
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Maria del Carmen
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;text-align: right;&#34; class=&#34;3Dxl24&#34; &gt;14,847
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;3D&#34; height=&#34;3D17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;3D&#34; align=&#34;3Dright&#34; height=&#34;3D17&#34; &gt;20
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Carlos Perez
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;text-align: right;&#34; class=&#34;3Dxl24&#34; &gt;9,566
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;3D&#34; height=&#34;3D0&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td width=&#34;3D64&#34; style=&#34;3D&#34; &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td width=&#34;3D14&#34; style=&#34;3D&#34; &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td width=&#34;3D117&#34; style=&#34;3D&#34; &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td width=&#34;3D64&#34; style=&#34;3D&#34; &gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Popularity contest: dancers@google</title>
+      <link>https://simbatango.github.io/2008/11/30/popularity-contest-dancersgoogle/</link>
+      <pubDate>Sun, 30 Nov 2008 22:48:20 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/2008/11/30/popularity-contest-dancersgoogle/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/geckoam/2723280142/&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3078/2723280142_bb7c192bbc.jpg&#34; alt=&#34;Go World!! by geckoam, on Flickr&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-nd/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/geckoam/&#34;&gt; geckoam&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Out of curiosity I started googling some more and less famous dancers, to compare popularity on the web. Some interesting results&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Methodology: I simply searched for the complete name (exact phrase) as listed below and the word &amp;ldquo;tango&amp;rdquo; and made a note of the number of hits. Suggestions for improvements and important omissions are welcome. The ones best known by their first name or nickname are a bit tricky, but this is the result so far. Enjoy:
+&lt;table cellpadding=&#34;0&#34; cellspacing=&#34;0&#34; style=&#34;border-collapse: &lt;br /&gt;
+ collapse; table-layout: fixed; width: 237pt;&amp;rdquo; border=&amp;ldquo;0&amp;rdquo; width=&amp;ldquo;315&amp;rdquo; &amp;gt;
+&lt;tbody &gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td width=&#34;70&#34; style=&#34;height: 12.75pt; width: 53pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;1
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td width=&#34;12&#34; style=&#34;width: 9pt;&#34; &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td width=&#34;169&#34; style=&#34;width: 127pt;&#34; &gt;Roberto Herrera
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td width=&#34;64&#34; style=&#34;width: 48pt;&#34; class=&#34;xl24&#34; align=&#34;right&#34; &gt;37,700
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;2
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Gustavo Naveira
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;32,000
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;3
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Juan Carlos Copes
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;29,500
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;4
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Sebastian Arce
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;28,600
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;5
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Miguel Angel Zotto
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;26,100
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;6
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Javier Rodriguez
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;22,500
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;7
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Maria del Carmen
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;22,000
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;8
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Carlos Gavito
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;20,500
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;9
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Carlos Perez
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;19,400
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;10
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Milena Plebs
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;18,700
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;11
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Fabian Salas
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;18,400
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;12
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Pablo Veron
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;18,200
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;13
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Julio Balmaceda
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;17,200
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;14
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Chicho Frumboli
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;15,000
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;15
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Geraldine Rojas
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;13,000
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;16
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Osvaldo Zotto
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;12,700
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;17
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;El Cachafaz
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;11,900
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;18
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Andrea Missé
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;10,600
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;19
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Esteban Moreno
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;8,820
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;20
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Maria Nieves
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;8,360
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;21
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Carlos Copello
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;7,910
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;22
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Pablo Inza
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;7,290
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;23
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Eduardo Arquimbau
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;6,470
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;24
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Cecilia Gonzalez
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;5,960
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;25
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Lucia Mazer
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;5,620
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;26
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Ezequiel Paludi
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;5,230
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;27
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Fabian Peralta
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;5,040
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;28
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Susana Miller
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;4,940
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;29
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Luna Palacios
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;4,660
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;30
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Maria Plazaola
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;4,540
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;31
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Nancy Lozuan
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;4,260
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;32
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Graciela Gonzalez
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;4,100
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;33
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Damian Esell
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;4,090
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;34
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Virulazo
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;3,980
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;35
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Vanina Bilous
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;3,870
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;36
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Gabriel Missé
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;3,650
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;37
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Flaco Dany
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;3,540
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;38
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Fernando Galera
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;3,450
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;39
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Puppy Castello
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;3,330
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;40
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Vilma Vega
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;3,070
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;41
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Rodolfo Dinzel
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;2,990
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;42
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Sebastián Missé
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;2,910
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;43
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Sebastian Achaval
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;2,810
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;44
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Pedro Rusconi
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;2,530
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;45
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Gabriel Angio
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;2,450
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;46
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Jorge Dispari
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;2,230
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;47
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Carmencita Calderon
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;1,870
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;48
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Gerardo Portalea
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;1,340
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;49
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Alejandro Hermida
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;1,060
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;50
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Veronica Alvarenga
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;,992
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;51
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Miguel Balmaceda
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;,873
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;height: 12.75pt;&#34; height=&#34;17&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td style=&#34;height: 12.75pt;&#34; align=&#34;right&#34; height=&#34;17&#34; &gt;52
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td &gt;Osvaldo Cartery
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td align=&#34;right&#34; class=&#34;xl24&#34; &gt;,506
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style=&#34;display:none&#34; height=&#34;0&#34; &gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td width=&#34;70&#34; style=&#34;width: 53pt;&#34; &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td width=&#34;12&#34; style=&#34;width: 9pt;&#34; &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td width=&#34;169&#34; style=&#34;width: 127pt;&#34; &gt;
+&lt;/td&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;td width=&#34;64&#34; style=&#34;width: 48pt;&#34; &gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tango Structure on Simba Tango</title>
+    <link>https://simbatango.github.io/tags/tango-structure/index.xml</link>
+    <description>Recent content in Tango Structure on Simba Tango</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
+    <webMaster>simbatango@gmail.com (Simba)</webMaster>
+    <atom:link href="https://simbatango.github.io/tags/tango-structure/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Performance Insights</title>
+      <link>https://simbatango.github.io/2009/11/16/performance-insights/</link>
+      <pubDate>Mon, 16 Nov 2009 13:52:37 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/2009/11/16/performance-insights/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/dispari-hot-spots.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/dispari-hot-spots.png&#34; alt=&#34;dispari-hot-spots&#34; /&gt;&lt;/a&gt;As I was uploading a couple of &lt;a href=&#34;http://www.youtube.com/watch?v=7VT5x1Ncaf8&#34;&gt;new&lt;/a&gt; &lt;a href=&#34;http://www.youtube.com/watch?v=V1VsJhCfKS8&#34;&gt;videos&lt;/a&gt; at youtube, I noticed the &amp;lsquo;Attention&amp;rsquo; ranking of my videos in the &amp;lsquo;Insights&amp;rsquo; section. The video with most attention (showed by a red bar like in the illustration top centre) is a video showing Jorge Dispari and María &amp;lsquo;La Turca&amp;rsquo; del Carmen at Confitería Ideal. At the time of writing, this video has been viewed 11 852 times.&lt;/p&gt;
+
+&lt;p&gt;Youtube describes the calculation of the video &amp;lsquo;hot spots&amp;rsquo; like this:  &amp;rdquo;The ups-and-downs of viewership at each moment in your video, compared to videos of similar length. The higher the graph, the hotter your video: fewer viewers are leaving your video and they may also be rewinding to watch that point in the video again. Audience attention is an overall measure of your video&amp;rsquo;s ability to retain its audience.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;I found this very interesting, as this graph shows a very nice development through the piece, like you would tell a good story. An interesting opening to catch your listener&amp;rsquo;s attention, then taking a long breath before you add details to build up towards the climax. Rounding off while it is still interesting. It correponds well with the structure of the music, Dispari saves his most elaborate tricks for the final variation.&lt;/p&gt;
+
+&lt;p&gt;I couldn&amp;rsquo;t find a way to share the nice setup pictured above where you can move the red line to change the part of the video to see what is happening at that moment in time, but you can watch the video here:&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/EXuGqzS4zYk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

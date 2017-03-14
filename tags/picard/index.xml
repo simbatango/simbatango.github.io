@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Picard on Simba Tango</title>
+    <link>https://simbatango.github.io/tags/picard/index.xml</link>
+    <description>Recent content in Picard on Simba Tango</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
+    <webMaster>simbatango@gmail.com (Simba)</webMaster>
+    <atom:link href="https://simbatango.github.io/tags/picard/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Updated MusicBrainz Picard Plugins for tango.info</title>
+      <link>https://simbatango.github.io/2010/07/23/updated-musicbrainz-picard-plugins-for-tango.info/</link>
+      <pubDate>Fri, 23 Jul 2010 17:09:30 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/2010/07/23/updated-musicbrainz-picard-plugins-for-tango.info/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/42311564@N00/2355590274/&#34;&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2177/2355590274_a8fea439dd.jpg&#34; alt=&#34;Green Tree Python by Sebastian Niedlich (Grabthar), on Flickr&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/42311564@N00/&#34;&gt; Sebastian Niedlich (Grabthar)&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I had a couple of requests for the plugins for &lt;a href=&#34;http://musicbrainz.org/doc/MusicBrainz_Picard&#34;&gt;MusicBrainz Picard&lt;/a&gt; in the last months. I haven&amp;rsquo;t used them much myself, as there sadly are few contributers on tango music to the &lt;a href=&#34;http://musicbrainz.org/&#34;&gt;MusicBrainz metadata database&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;However, I just checked whether they worked with the current format of &lt;a href=&#34;http://open.tango.info/tracks.csv&#34;&gt;tracks.csv from tango.info&lt;/a&gt; and the newest release of Picard (0.12.1). With one minor adjustment, they now do, and I uploaded the new versions to be found on the&lt;a href=&#34;http://simbatango.com/tangodj/tagging-with-musicbrainz-picard/&#34;&gt; tagging with MusicBrainz Picard page&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

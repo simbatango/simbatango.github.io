@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tint Filing on Simba Tango</title>
+    <link>https://simbatango.github.io/tags/tint-filing/index.xml</link>
+    <description>Recent content in Tint Filing on Simba Tango</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
+    <webMaster>simbatango@gmail.com (Simba)</webMaster>
+    <atom:link href="https://simbatango.github.io/tags/tint-filing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>TINT based filing and human readable with FUSE and pytagsfs</title>
+      <link>https://simbatango.github.io/2011/09/20/tint-based-filing-and-human-readable-with-fuse-and-pytagsfs/</link>
+      <pubDate>Tue, 20 Sep 2011 19:28:49 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/2011/09/20/tint-based-filing-and-human-readable-with-fuse-and-pytagsfs/</guid>
+      <description>&lt;p&gt;├── Canaro, Rafael
+    │   ├── HQCD 99 Buenos Aires to Paris - Argentine tango performers in France 1924-1938
+    │   │   └── La mélodie de notre adieu.flac
+    │   ├── ORQ 232 Rafael Canaro en Francia (1936-1939)
+    │   │   ├── 01 Alma de bandoneón (Mario Beltrán).flac
+    │   │   ├── 02 Campanas del recuerdo.flac&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;│   │   ├── 21 Olvidame (Luis Mariano).flac
+│   │   └── 22 Callecita de mi novia (Luis Mariano).flac
+│   └── ORQ 233 1929-1945
+│       ├── 01 Las vueltas de la vida.flac
+│       ├── 02 Zaraza (Rafael Canaro, Carlos Dante).flac
+│       ├── 03 Caminito.flac
+
+│       ├── 21 Garúa (Jorge Cardozo).flac
+│       └── 22 Tortazos (Jorge Cardozo).flac
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;As part of restoring from a disk crash, I am moving to &lt;a href=&#34;http://www.tango.info/wiki/TINT-based_filing&#34;&gt;TINT based filing&lt;/a&gt;, which is a neat way to sort out duplicates, and useful if you want to share playlists or just make sure your playlists will keep working in the future. However it is not very convenient when you want to browse your file system for a particular file or album, in that case you need to use an application which reads the tags of the audio files or an inclination to remember barcodes.&lt;/p&gt;
+
+&lt;p&gt;It turns out that I browse my files for specific music a lot, as part of the user experience of my Squeezebox setup (my preference for tango music, not the only option). I&amp;rsquo;ve been aware of the &lt;a href=&#34;http://www.pytagsfs.org/&#34;&gt;pytagsfs&lt;/a&gt; project for a while, and this prompted me to finally give it a spin. It seems to work quite well, and at least for the time being that will be the setup on my server.&lt;/p&gt;
+
+&lt;p&gt;Two things caused me a bit of head scratching, though:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;One has to enable allow_other for fuse in /etc/fuse.conf and set read permissions for that file allowing the user mounting the pytagsfs to read it. Without allow_other, the squeezeboxserver would not be allowed to see the virtual file system, neatly organized by artist, album and title.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;pytagsfs does not support tags containing slashes (obvious in retrospect, took me a while to figure out), and in my first attempts lots of files simply didn&amp;rsquo;t show up.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Now it works just fine with the following options (tint based files in directory tint and the new mount point is tango):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ pytagsfs -o allow_other -o format=&#39;%?%{artistsort}%:%{artist}%?/%?%{catalognumber} %?%{album}/%?%{TRACKNUMBER} %?%{title}.%{extension}&#39; ../tint/ tango/
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I can think of a few other use cases that could be useful, too, for example if you&amp;rsquo;re happy with your current layout but want the TINT filing for canonical playlists, you should be able to do something like the following (I did not test this):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ pytagsfs -o allow_other -o format=&#39;%{TIN}/%{discnumber}/%{tracknumber}.%{extension} tango-dir/ tint-dir/
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;You could list all albums from a series, list songs alphabetically or chronologically by artist etc. I have been thinking about a nice way to combine files from different trees, some which are processed and some that are originals  with the srcfilter option, but I haven&amp;rsquo;t really had time to work it out yet.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

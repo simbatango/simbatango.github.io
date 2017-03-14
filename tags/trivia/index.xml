@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trivia on Simba Tango</title>
+    <link>https://simbatango.github.io/tags/trivia/index.xml</link>
+    <description>Recent content in Trivia on Simba Tango</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
+    <webMaster>simbatango@gmail.com (Simba)</webMaster>
+    <atom:link href="https://simbatango.github.io/tags/trivia/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tango Recordings Through the Year</title>
+      <link>https://simbatango.github.io/2011/04/05/tango-recordings-through-the-year/</link>
+      <pubDate>Tue, 05 Apr 2011 19:22:59 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/2011/04/05/tango-recordings-through-the-year/</guid>
+      <description>&lt;p&gt;[](&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2011/04/monthly.png)[![](http://simbatango.com/blog/wp-content/uploads/2011/04/monthly1.png)](http://simbatango.com/blog/wp-content/uploads/2011/04/monthly1.png&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2011/04/monthly.png)[![](http://simbatango.com/blog/wp-content/uploads/2011/04/monthly1.png)](http://simbatango.com/blog/wp-content/uploads/2011/04/monthly1.png&lt;/a&gt;)
+When were the different tangos recorded? From the 9233 unique recordings identified with exact recording date in the tango.info database we can see that not surprisingly there is low activity during summer, more specifically during January and February, it then picks up with peaks in June, September and December. Splitting the numbers over the decades makes a slightly more confusing picture.&lt;/p&gt;
+
+&lt;p&gt;If you want to check out the recordings for one specific date, there is now a nifty feature over at tango.info that will do just that for you: see for instance the recordings for today: &lt;a href=&#34;http://www.tango.info/04-05&#34;&gt;http://www.tango.info/04-05&lt;/a&gt; . Simply change the date at the end of the url for any day in tango.&lt;/p&gt;
+
+&lt;p&gt;Anyone cares to guess if there are any days with no recordings in the database, and if so, which dates?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

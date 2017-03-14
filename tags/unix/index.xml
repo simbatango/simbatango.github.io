@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unix on Simba Tango</title>
+    <link>https://simbatango.github.io/tags/unix/index.xml</link>
+    <description>Recent content in Unix on Simba Tango</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
+    <webMaster>simbatango@gmail.com (Simba)</webMaster>
+    <atom:link href="https://simbatango.github.io/tags/unix/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reinvention</title>
+      <link>https://simbatango.github.io/2009/01/16/reinvention/</link>
+      <pubDate>Fri, 16 Jan 2009 15:31:30 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/2009/01/16/reinvention/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/pallotron/631554319/&#34;&gt;&lt;img src=&#34;http://farm2.static.flickr.com/1088/631554319_199a6788d3.jpg&#34; alt=&#34;Poetry HackLab by pallotron, on Flickr&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/pallotron/&#34;&gt; pallotron&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;&#34;Those who don&#39;t understand [Tango] are condemned to reinvent it, poorly.&#34;
+
+&gt; 
+&gt; – Henry Spencer (about Unix)
+&gt; 
+&gt; 
+&lt;/blockquote&gt;
+
+&lt;p&gt;I believe Miguel Angel Zotto to have said something along the same lines, that if you do not understand tango, how can you possibly improve it? I can&amp;rsquo;t seem to find the reference, though.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

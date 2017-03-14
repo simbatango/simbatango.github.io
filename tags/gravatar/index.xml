@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gravatar on Simba Tango</title>
+    <link>https://simbatango.github.io/tags/gravatar/index.xml</link>
+    <description>Recent content in Gravatar on Simba Tango</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
+    <webMaster>simbatango@gmail.com (Simba)</webMaster>
+    <atom:link href="https://simbatango.github.io/tags/gravatar/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to get that nice picture next to your comment</title>
+      <link>https://simbatango.github.io/2009/07/17/how-to-get-that-nice-picture-next-to-your-comment/</link>
+      <pubDate>Fri, 17 Jul 2009 00:54:48 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/2009/07/17/how-to-get-that-nice-picture-next-to-your-comment/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/danielsemper/374168396/&#34;&gt;&lt;img src=&#34;http://farm1.static.flickr.com/176/374168396_a553b5dfd7.jpg&#34; alt=&#34;Gravatar 2.0 - retouched by Daniel Semper, on Flickr&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-nd/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/danielsemper/&#34;&gt; Daniel Semper&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Some weeks ago, I got a question from another blog how I got the picture next to my comment on their site. It is really easy, all you have to do is to sign up for free at &lt;a href=&#34;http://en.gravatar.com/&#34;&gt;gravatar&lt;/a&gt;, upload your photo, and it will appear next to your comments on a wide range of sites, including most blogs powered by &lt;a href=&#34;http://wordpress.org/&#34;&gt;Wordpress&lt;/a&gt; (like this is). From the gravatar site:&lt;/p&gt;
+
+&lt;blockquote&gt;What is a gravatar?
+
+A gravatar, or globally recognized avatar, is quite simply an image that follows you from site to site appearing beside your name when you do things. Avatars help identify your posts on blogs and web forums, so why not on any site?&lt;/blockquote&gt;
+
+&lt;p&gt;What it essentially does is to look up the picture based on the email address you provide when you post your comment. So why not do like some of my readers have already done and add some extra color to the comments here at Simba tango and lots of other places while you are at it?&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

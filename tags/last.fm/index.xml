@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Last.Fm on Simba Tango</title>
+    <link>https://simbatango.github.io/tags/last.fm/index.xml</link>
+    <description>Recent content in Last.Fm on Simba Tango</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
+    <webMaster>simbatango@gmail.com (Simba)</webMaster>
+    <atom:link href="https://simbatango.github.io/tags/last.fm/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Letras de Non-Tango</title>
+      <link>https://simbatango.github.io/2011/06/30/letras-de-non-tango/</link>
+      <pubDate>Thu, 30 Jun 2011 18:23:53 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/2011/06/30/letras-de-non-tango/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2011/06/hip-hop-e1309458007832.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Maybe you remember my &lt;a href=&#34;http://simbatango.com/2010/03/29/letras-de-tango/&#34;&gt;Letras de Tango&lt;/a&gt; post a while back, showing the most used words in tango lyrics.  The possibility of doing something similar for other genres/pop music was raised in the comments. And the guys over at last.fm just did exactly that. So head over and have a look at their &lt;a href=&#34;http://blog.last.fm/2011/06/22/lyric-clouds-genre-maps-and-distinctive-words&#34;&gt;graphics for Blues, Country, Electronic, Folk, Goth, Hip-Hop, Indie, Metal, Rap, Rock and Soul&lt;/a&gt;. They also did some interesting distance charts, showing graphically how similar the lyrics of different genres are. Unfortunately they assume it&amp;rsquo;s all in English, so they need to sort out the language barrier before we could include tango in that in any meaningful way.&lt;/p&gt;
+
+&lt;p&gt;Using different fonts for each genre was a nice touch, maybe I should redo mine with an Art Deco font or something :-).&lt;/p&gt;
+
+&lt;p&gt;They also have some other interesting research going on, more on that later if ever I find the time&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last.fm cleaning up</title>
+      <link>https://simbatango.github.io/2009/01/29/last.fm-cleaning-up/</link>
+      <pubDate>Thu, 29 Jan 2009 21:45:30 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>https://simbatango.github.io/2009/01/29/last.fm-cleaning-up/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/aldask/2313594798/&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3039/2313594798_8cbd507273.jpg&#34; alt=&#34;Last.fm spy records on my mp3 tastes (1 by aldask, on Flickr&#34; /&gt;&lt;/a&gt;
+&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-nd/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/aldask/&#34;&gt; aldask&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://last.fm&#34;&gt;Last.fm&lt;/a&gt; are finally &lt;a href=&#34;http://blog.last.fm/2009/01/29/closing-in-on-clean-metadata-artist-and-track-spelling-auto-correction-is-here&#34;&gt;cleaning up their metadata&lt;/a&gt;, or at least they have started. If you are on last.fm, why don&amp;rsquo;t you help out by voting for &lt;a href=&#34;http://www.last.fm/music/Rodolpho+Biagi&#34;&gt;Rodolpho Biagi&lt;/a&gt; to redirect to &lt;a href=&#34;http://www.last.fm/music/Rodolfo+Biagi&#34;&gt;Rodolfo Biagi&lt;/a&gt;? (follow the link to faulty spelling, vote at the bottom right). And while you are at it, if you are also a tango dj, why don&amp;rsquo;t join the group &lt;a href=&#34;http://www.last.fm/group/TangoDJ&#34;&gt;tangodj&lt;/a&gt;?&lt;/p&gt;
+
+&lt;p&gt;Information on tango music has gotten better lately, and a sample from top &lt;a href=&#34;http://www.last.fm/music/Osvaldo+Pugliese&#34;&gt;Pugliese&lt;/a&gt; tracks seems reasonable:&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
