@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistics on Simba Tango</title>
-    <link>https://simbatango.github.io/tags/statistics/index.xml</link>
+    <link>http://simbatango.com/tags/statistics/index.xml</link>
     <description>Recent content in Statistics on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="https://simbatango.github.io/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://simbatango.com/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Letras de tango</title>
-      <link>https://simbatango.github.io/2010/03/29/letras-de-tango/</link>
+      <link>http://simbatango.com/2010/03/29/letras-de-tango/</link>
       <pubDate>Mon, 29 Mar 2010 09:14:50 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>https://simbatango.github.io/2010/03/29/letras-de-tango/</guid>
+      <guid>http://simbatango.com/2010/03/29/letras-de-tango/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2010/03/letras-de-tango.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2010/03/letras-de-tango.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;We all know that tango is about lost love, broken hearts, right? Well &amp;ndash; now we can check it out.  Hans at &lt;a href=&#34;http://www.amsterdamclubdetango.nl/&#34;&gt;Amsterdam tango club &lt;/a&gt;put all the &lt;a href=&#34;http://www.amsterdamclubdetango.nl/single.html&#34;&gt;13,000 lyrics they got in their online database in a single html file&lt;/a&gt;, which made it rather easy to do some statistics. I wrote a small script, counting the occurrences of each word, and the figure above is a representation of the results, but leaving the very shortest words like y, o, el, lo etc out. The illustration is made with the &lt;a href=&#34;http://www.wordle.net&#34;&gt;wordle&lt;/a&gt; tool that was popular among bloggers a while back. If you really like it, &lt;a href=&#34;http://www.zazzle.com/letras_de_tango_tshirt-235150358548760830&#34;&gt;get the t-shirt&lt;/a&gt;.&lt;/p&gt;

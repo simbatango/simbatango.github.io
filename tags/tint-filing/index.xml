@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tint Filing on Simba Tango</title>
-    <link>https://simbatango.github.io/tags/tint-filing/index.xml</link>
+    <link>http://simbatango.com/tags/tint-filing/index.xml</link>
     <description>Recent content in Tint Filing on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="https://simbatango.github.io/tags/tint-filing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://simbatango.com/tags/tint-filing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>TINT based filing and human readable with FUSE and pytagsfs</title>
-      <link>https://simbatango.github.io/2011/09/20/tint-based-filing-and-human-readable-with-fuse-and-pytagsfs/</link>
+      <link>http://simbatango.com/2011/09/20/tint-based-filing-and-human-readable-with-fuse-and-pytagsfs/</link>
       <pubDate>Tue, 20 Sep 2011 19:28:49 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>https://simbatango.github.io/2011/09/20/tint-based-filing-and-human-readable-with-fuse-and-pytagsfs/</guid>
+      <guid>http://simbatango.com/2011/09/20/tint-based-filing-and-human-readable-with-fuse-and-pytagsfs/</guid>
       <description>&lt;p&gt;├── Canaro, Rafael
     │   ├── HQCD 99 Buenos Aires to Paris - Argentine tango performers in France 1924-1938
     │   │   └── La mélodie de notre adieu.flac

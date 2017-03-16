@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tango Research on Simba Tango</title>
-    <link>https://simbatango.github.io/tags/tango-research/index.xml</link>
+    <link>http://simbatango.com/tags/tango-research/index.xml</link>
     <description>Recent content in Tango Research on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="https://simbatango.github.io/tags/tango-research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://simbatango.com/tags/tango-research/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Perfect Embrace</title>
-      <link>https://simbatango.github.io/2015/02/14/the-perfect-embrace/</link>
+      <link>http://simbatango.com/2015/02/14/the-perfect-embrace/</link>
       <pubDate>Sat, 14 Feb 2015 19:22:52 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>https://simbatango.github.io/2015/02/14/the-perfect-embrace/</guid>
+      <guid>http://simbatango.com/2015/02/14/the-perfect-embrace/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/virgoh/8413961643/&#34;&gt;&lt;img src=&#34;https://farm9.static.flickr.com/8364/8413961643_62e7a83368.jpg&#34; alt=&#34;the dark side of the embrace by virgoh, on Flickr&#34; /&gt;&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;http://creativecommons.org/licenses/by-nc/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc/2.0/80x15.png&#34; alt=&#34;Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;https://www.flickr.com/people/virgoh/&#34;&gt; &lt;/a&gt;&lt;a href=&#34;https://www.flickr.com/people/virgoh/&#34;&gt;virgoh&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
 
@@ -31,10 +31,10 @@
     
     <item>
       <title>BPM</title>
-      <link>https://simbatango.github.io/2013/03/29/bpm/</link>
+      <link>http://simbatango.com/2013/03/29/bpm/</link>
       <pubDate>Fri, 29 Mar 2013 19:41:20 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>https://simbatango.github.io/2013/03/29/bpm/</guid>
+      <guid>http://simbatango.com/2013/03/29/bpm/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/armchairanarchist/2325370364/&#34;&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2114/2325370364_098779f75d.jpg&#34; alt=&#34;Oil-wheel kick drum by Paul Graham Raven, on Flickr&#34; /&gt;&lt;/a&gt;
 &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt;  by &lt;a href=&#34;http://www.flickr.com/people/armchairanarchist/&#34;&gt; &lt;/a&gt;&lt;a href=&#34;http://www.flickr.com/people/armchairanarchist/&#34;&gt;Paul Graham Raven&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
 
@@ -67,10 +67,10 @@ rm &amp;quot;$TMP&amp;quot;
     
     <item>
       <title>Audio Restoration from Multiple Copies</title>
-      <link>https://simbatango.github.io/2013/03/27/audio-restoration-from-multiple-copies/</link>
+      <link>http://simbatango.com/2013/03/27/audio-restoration-from-multiple-copies/</link>
       <pubDate>Wed, 27 Mar 2013 18:53:20 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>https://simbatango.github.io/2013/03/27/audio-restoration-from-multiple-copies/</guid>
+      <guid>http://simbatango.com/2013/03/27/audio-restoration-from-multiple-copies/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2013/03/SprBroMorSapICASSP13-figure1.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2013/03/SprBroMorSapICASSP13-figure1.png&#34; alt=&#34;SprBroMorSapICASSP13-figure&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I was pondering the usefulness of noise removal based on several copies of a recording, possibly from different physical copies. A Google search reveals that such a technique is &lt;a href=&#34;http://www.google.com/patents/US5740146&#34;&gt;already patented&lt;/a&gt;:&lt;/p&gt;
@@ -95,10 +95,10 @@ rm &amp;quot;$TMP&amp;quot;
     
     <item>
       <title>Letras de Non-Tango</title>
-      <link>https://simbatango.github.io/2011/06/30/letras-de-non-tango/</link>
+      <link>http://simbatango.com/2011/06/30/letras-de-non-tango/</link>
       <pubDate>Thu, 30 Jun 2011 18:23:53 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>https://simbatango.github.io/2011/06/30/letras-de-non-tango/</guid>
+      <guid>http://simbatango.com/2011/06/30/letras-de-non-tango/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2011/06/hip-hop-e1309458007832.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Maybe you remember my &lt;a href=&#34;http://simbatango.com/2010/03/29/letras-de-tango/&#34;&gt;Letras de Tango&lt;/a&gt; post a while back, showing the most used words in tango lyrics.  The possibility of doing something similar for other genres/pop music was raised in the comments. And the guys over at last.fm just did exactly that. So head over and have a look at their &lt;a href=&#34;http://blog.last.fm/2011/06/22/lyric-clouds-genre-maps-and-distinctive-words&#34;&gt;graphics for Blues, Country, Electronic, Folk, Goth, Hip-Hop, Indie, Metal, Rap, Rock and Soul&lt;/a&gt;. They also did some interesting distance charts, showing graphically how similar the lyrics of different genres are. Unfortunately they assume it&amp;rsquo;s all in English, so they need to sort out the language barrier before we could include tango in that in any meaningful way.&lt;/p&gt;
@@ -111,10 +111,10 @@ rm &amp;quot;$TMP&amp;quot;
     
     <item>
       <title>Tango Recordings Through the Year</title>
-      <link>https://simbatango.github.io/2011/04/05/tango-recordings-through-the-year/</link>
+      <link>http://simbatango.com/2011/04/05/tango-recordings-through-the-year/</link>
       <pubDate>Tue, 05 Apr 2011 19:22:59 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>https://simbatango.github.io/2011/04/05/tango-recordings-through-the-year/</guid>
+      <guid>http://simbatango.com/2011/04/05/tango-recordings-through-the-year/</guid>
       <description>&lt;p&gt;[](&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2011/04/monthly.png)[![](http://simbatango.com/blog/wp-content/uploads/2011/04/monthly1.png)](http://simbatango.com/blog/wp-content/uploads/2011/04/monthly1.png&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2011/04/monthly.png)[![](http://simbatango.com/blog/wp-content/uploads/2011/04/monthly1.png)](http://simbatango.com/blog/wp-content/uploads/2011/04/monthly1.png&lt;/a&gt;)
 When were the different tangos recorded? From the 9233 unique recordings identified with exact recording date in the tango.info database we can see that not surprisingly there is low activity during summer, more specifically during January and February, it then picks up with peaks in June, September and December. Splitting the numbers over the decades makes a slightly more confusing picture.&lt;/p&gt;
 
@@ -126,10 +126,10 @@ When were the different tangos recorded? From the 9233 unique recordings identi
     
     <item>
       <title>Letras de tango</title>
-      <link>https://simbatango.github.io/2010/03/29/letras-de-tango/</link>
+      <link>http://simbatango.com/2010/03/29/letras-de-tango/</link>
       <pubDate>Mon, 29 Mar 2010 09:14:50 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>https://simbatango.github.io/2010/03/29/letras-de-tango/</guid>
+      <guid>http://simbatango.com/2010/03/29/letras-de-tango/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2010/03/letras-de-tango.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2010/03/letras-de-tango.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;We all know that tango is about lost love, broken hearts, right? Well &amp;ndash; now we can check it out.  Hans at &lt;a href=&#34;http://www.amsterdamclubdetango.nl/&#34;&gt;Amsterdam tango club &lt;/a&gt;put all the &lt;a href=&#34;http://www.amsterdamclubdetango.nl/single.html&#34;&gt;13,000 lyrics they got in their online database in a single html file&lt;/a&gt;, which made it rather easy to do some statistics. I wrote a small script, counting the occurrences of each word, and the figure above is a representation of the results, but leaving the very shortest words like y, o, el, lo etc out. The illustration is made with the &lt;a href=&#34;http://www.wordle.net&#34;&gt;wordle&lt;/a&gt; tool that was popular among bloggers a while back. If you really like it, &lt;a href=&#34;http://www.zazzle.com/letras_de_tango_tshirt-235150358548760830&#34;&gt;get the t-shirt&lt;/a&gt;.&lt;/p&gt;
@@ -344,10 +344,10 @@ When were the different tangos recorded? From the 9233 unique recordings identi
     
     <item>
       <title>Performance Insights</title>
-      <link>https://simbatango.github.io/2009/11/16/performance-insights/</link>
+      <link>http://simbatango.com/2009/11/16/performance-insights/</link>
       <pubDate>Mon, 16 Nov 2009 13:52:37 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>https://simbatango.github.io/2009/11/16/performance-insights/</guid>
+      <guid>http://simbatango.com/2009/11/16/performance-insights/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/dispari-hot-spots.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/dispari-hot-spots.png&#34; alt=&#34;dispari-hot-spots&#34; /&gt;&lt;/a&gt;As I was uploading a couple of &lt;a href=&#34;http://www.youtube.com/watch?v=7VT5x1Ncaf8&#34;&gt;new&lt;/a&gt; &lt;a href=&#34;http://www.youtube.com/watch?v=V1VsJhCfKS8&#34;&gt;videos&lt;/a&gt; at youtube, I noticed the &amp;lsquo;Attention&amp;rsquo; ranking of my videos in the &amp;lsquo;Insights&amp;rsquo; section. The video with most attention (showed by a red bar like in the illustration top centre) is a video showing Jorge Dispari and María &amp;lsquo;La Turca&amp;rsquo; del Carmen at Confitería Ideal. At the time of writing, this video has been viewed 11 852 times.&lt;/p&gt;
 
 &lt;p&gt;Youtube describes the calculation of the video &amp;lsquo;hot spots&amp;rsquo; like this:  &amp;rdquo;The ups-and-downs of viewership at each moment in your video, compared to videos of similar length. The higher the graph, the hotter your video: fewer viewers are leaving your video and they may also be rewinding to watch that point in the video again. Audience attention is an overall measure of your video&amp;rsquo;s ability to retain its audience.&amp;rdquo;&lt;/p&gt;
@@ -366,10 +366,10 @@ When were the different tangos recorded? From the 9233 unique recordings identi
     
     <item>
       <title>The Golden Age Visualized</title>
-      <link>https://simbatango.github.io/2009/10/17/the-golden-age-visualized/</link>
+      <link>http://simbatango.com/2009/10/17/the-golden-age-visualized/</link>
       <pubDate>Sat, 17 Oct 2009 03:28:44 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>https://simbatango.github.io/2009/10/17/the-golden-age-visualized/</guid>
+      <guid>http://simbatango.com/2009/10/17/the-golden-age-visualized/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/10/golden.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/10/golden.png&#34; alt=&#34;golden&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;When was the Golden Age of tango, exactly? It is fairly common to say 1935-1955 mas o menos, but while I was playing around with the data at &lt;a href=&#34;http://eng.tango.info/&#34;&gt;tango.info&lt;/a&gt;, I thought it would be fun to make a plot to **&lt;em&gt;see&lt;/em&gt; when the Golden Age was. And here it is. **&lt;/p&gt;
@@ -394,10 +394,10 @@ When were the different tangos recorded? From the 9233 unique recordings identi
     
     <item>
       <title>From &#39;Band Union&#39; to bandoneón?</title>
-      <link>https://simbatango.github.io/2009/07/28/from-band-union-to-bandone%C3%B3n/</link>
+      <link>http://simbatango.com/2009/07/28/from-band-union-to-bandone%C3%B3n/</link>
       <pubDate>Tue, 28 Jul 2009 14:54:28 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>https://simbatango.github.io/2009/07/28/from-band-union-to-bandone%C3%B3n/</guid>
+      <guid>http://simbatango.com/2009/07/28/from-band-union-to-bandone%C3%B3n/</guid>
       <description>
 
 &lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/ruedi/1109596068/&#34;&gt;&lt;img src=&#34;http://farm2.static.flickr.com/1421/1109596068_976729dbd3.jpg&#34; alt=&#34;(19.05.07-11.02) - Bandoneon (3) by RÃ¼dis Fotos, on Flickr&#34; /&gt;&lt;/a&gt;
@@ -497,10 +497,10 @@ To accordion lovers: about a new invention, once again we have notably improved 
     
     <item>
       <title>On circulation</title>
-      <link>https://simbatango.github.io/2009/05/11/on-circulation/</link>
+      <link>http://simbatango.com/2009/05/11/on-circulation/</link>
       <pubDate>Mon, 11 May 2009 00:57:56 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>https://simbatango.github.io/2009/05/11/on-circulation/</guid>
+      <guid>http://simbatango.com/2009/05/11/on-circulation/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/pdcawley/2220859/&#34;&gt;&lt;img src=&#34;http://farm1.static.flickr.com/1/2220859_55540cbb1f.jpg&#34; alt=&#34;Mallory Bugatti by pdcawley, on Flickr&#34; /&gt;&lt;/a&gt;
 &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/pdcawley/&#34;&gt; pdcawley&lt;/a&gt;&lt;/p&gt;
 
@@ -538,10 +538,10 @@ To accordion lovers: about a new invention, once again we have notably improved 
     
     <item>
       <title>Song numbers</title>
-      <link>https://simbatango.github.io/2009/03/11/song-numbers/</link>
+      <link>http://simbatango.com/2009/03/11/song-numbers/</link>
       <pubDate>Wed, 11 Mar 2009 20:12:58 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>https://simbatango.github.io/2009/03/11/song-numbers/</guid>
+      <guid>http://simbatango.com/2009/03/11/song-numbers/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/stewf/2026818238/&#34;&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2171/2026818238_5436f5a54c.jpg&#34; alt=&#34;Spiekermann House Numbers by Stewf, on Flickr&#34; /&gt;&lt;/a&gt;
 &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/stewf/&#34;&gt; Stewf&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
 
@@ -594,10 +594,10 @@ To accordion lovers: about a new invention, once again we have notably improved 
     
     <item>
       <title>Rose in mouth</title>
-      <link>https://simbatango.github.io/2009/02/13/rose-in-mouth/</link>
+      <link>http://simbatango.com/2009/02/13/rose-in-mouth/</link>
       <pubDate>Fri, 13 Feb 2009 22:00:54 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>https://simbatango.github.io/2009/02/13/rose-in-mouth/</guid>
+      <guid>http://simbatango.com/2009/02/13/rose-in-mouth/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/alyssathiele/272762443/&#34;&gt;&lt;img src=&#34;http://farm1.static.flickr.com/95/272762443_db45eead93.jpg&#34; alt=&#34;Mouth Rose by alyssathiele, on Flickr&#34; /&gt;&lt;/a&gt;
 &lt;a href=&#34;http://creativecommons.org/licenses/by/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/alyssathiele/&#34;&gt; alyssathiele&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
 
@@ -623,10 +623,10 @@ To accordion lovers: about a new invention, once again we have notably improved 
     
     <item>
       <title>Volume adjustments for tango music</title>
-      <link>https://simbatango.github.io/2009/01/07/volume-adjustments-for-tango-music/</link>
+      <link>http://simbatango.com/2009/01/07/volume-adjustments-for-tango-music/</link>
       <pubDate>Wed, 07 Jan 2009 13:55:36 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>https://simbatango.github.io/2009/01/07/volume-adjustments-for-tango-music/</guid>
+      <guid>http://simbatango.com/2009/01/07/volume-adjustments-for-tango-music/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/wp-content/uploads/2009/01/histogram-rg-track.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/wp-content/uploads/2009/01/histogram-rg-track.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;There was some discussion on the tangodj mailing list about the use of &lt;a href=&#34;http://wiki.hydrogenaudio.org/index.php?title=Replaygain&#34;&gt;Replay Gain&lt;/a&gt; for tango music. I have used it for several years, and found it to be immensely useful. As you can see from the histogram above, the loudness of cd releases varies a lot, and Replay Gain makes automatic adjustments to make the loundess more or less the same. It does a lot better than I do, that&amp;rsquo;s for sure, and frees up time for the more interesting parts of the djing.&lt;/p&gt;
@@ -637,10 +637,10 @@ To accordion lovers: about a new invention, once again we have notably improved 
     
     <item>
       <title>Popularity contest: dancers@youtube</title>
-      <link>https://simbatango.github.io/2008/12/07/popularity-contest-dancersyoutube/</link>
+      <link>http://simbatango.com/2008/12/07/popularity-contest-dancersyoutube/</link>
       <pubDate>Sun, 07 Dec 2008 21:24:26 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>https://simbatango.github.io/2008/12/07/popularity-contest-dancersyoutube/</guid>
+      <guid>http://simbatango.com/2008/12/07/popularity-contest-dancersyoutube/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/stollerdos/183613210/&#34;&gt;&lt;img src=&#34;http://farm1.static.flickr.com/61/183613210_b03877947f.jpg&#34; alt=&#34;Westminster tube station by strollerdos, on Flickr&#34; /&gt;&lt;/a&gt;
 &lt;a href=&#34;http://creativecommons.org/licenses/by-nc/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/stollerdos/&#34;&gt; strollerdos&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
 
@@ -950,10 +950,10 @@ To accordion lovers: about a new invention, once again we have notably improved 
     
     <item>
       <title>Popularity contest: dancers@google</title>
-      <link>https://simbatango.github.io/2008/11/30/popularity-contest-dancersgoogle/</link>
+      <link>http://simbatango.com/2008/11/30/popularity-contest-dancersgoogle/</link>
       <pubDate>Sun, 30 Nov 2008 22:48:20 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>https://simbatango.github.io/2008/11/30/popularity-contest-dancersgoogle/</guid>
+      <guid>http://simbatango.com/2008/11/30/popularity-contest-dancersgoogle/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/geckoam/2723280142/&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3078/2723280142_bb7c192bbc.jpg&#34; alt=&#34;Go World!! by geckoam, on Flickr&#34; /&gt;&lt;/a&gt;
 &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-nd/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/geckoam/&#34;&gt; geckoam&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
 

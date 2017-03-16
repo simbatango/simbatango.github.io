@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tangodj on Simba Tango</title>
-    <link>https://simbatango.github.io/tags/tangodj/index.xml</link>
+    <link>http://simbatango.com/tags/tangodj/index.xml</link>
     <description>Recent content in Tangodj on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="https://simbatango.github.io/tags/tangodj/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://simbatango.com/tags/tangodj/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>DJing again</title>
-      <link>https://simbatango.github.io/2010/03/04/djing-again/</link>
+      <link>http://simbatango.com/2010/03/04/djing-again/</link>
       <pubDate>Thu, 04 Mar 2010 22:01:51 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>https://simbatango.github.io/2010/03/04/djing-again/</guid>
+      <guid>http://simbatango.com/2010/03/04/djing-again/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/unnamed/47093922/&#34;&gt;&lt;img src=&#34;http://farm1.static.flickr.com/31/47093922_7b4f35f1d5.jpg&#34; alt=&#34;Dj by The unnamed, on Flickr&#34; /&gt;&lt;/a&gt;
 &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/unnamed/&#34;&gt; The unnamed&lt;/a&gt;&lt;/p&gt;
 
@@ -25,10 +25,10 @@
     
     <item>
       <title>fb2k for the tangoDJ</title>
-      <link>https://simbatango.github.io/2008/12/26/fb2k-for-the-tangodj/</link>
+      <link>http://simbatango.com/2008/12/26/fb2k-for-the-tangodj/</link>
       <pubDate>Fri, 26 Dec 2008 20:57:09 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>https://simbatango.github.io/2008/12/26/fb2k-for-the-tangodj/</guid>
+      <guid>http://simbatango.com/2008/12/26/fb2k-for-the-tangodj/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/duncan/99863803/&#34;&gt;&lt;img src=&#34;http://farm1.static.flickr.com/41/99863803_f67e61253d.jpg&#34; alt=&#34;fubar by duncan, on Flickr&#34; /&gt;&lt;/a&gt;
 &lt;a href=&#34;http://creativecommons.org/licenses/by-nc/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/duncan/&#34;&gt; duncan&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;
 &lt;a href=&#34;http://foobar2000.org&#34;&gt;Foobar2000&lt;/a&gt; just came out in version 0.9.6, making it a lot easier to configure for tangodjing purposes. I have written a short &lt;a href=&#34;http://simbatango.com/tangodj/foobar2000-for-the-tangodj/&#34;&gt;guide on how to configure fb2k for the tangoDJ&lt;/a&gt;. I will update the main article with new information, and suggestions for improvements are most welcome.&lt;/p&gt;

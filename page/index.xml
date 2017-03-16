@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Simba Tango</title>
+    <link>http://simbatango.com/page/index.xml</link>
+    <description>Recent content in Pages on Simba Tango</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
+    <webMaster>simbatango@gmail.com (Simba)</webMaster>
+    <lastBuildDate>Wed, 04 Nov 2009 14:18:48 +0000</lastBuildDate>
+    <atom:link href="http://simbatango.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Useful foobar2000 formatting strings</title>
+      <link>http://simbatango.com/useful-foobar2000-formatting-strings/</link>
+      <pubDate>Wed, 04 Nov 2009 14:18:48 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>http://simbatango.com/useful-foobar2000-formatting-strings/</guid>
+      <description>
+
+&lt;h2 id=&#34;formatting-for-djing&#34;&gt;Formatting for djing&lt;/h2&gt;
+
+&lt;h3 id=&#34;tint&#34;&gt;TINT&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;$num(%barcode%,14)-$num($max(1.%disc%),2)-$num(%track%,2)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;date&#34;&gt;Date&lt;/h3&gt;
+
+&lt;p&gt;To display dates from tango.info properly (only confirmed dates with correct formatting)&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$if2($greater($strstr(%date%,&#39;--&#39;),0),$date($left(%date%,10)))
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;album&#34;&gt;Album&lt;/h3&gt;
+
+&lt;p&gt;To get album names including catalognumber and artist, e.g. &amp;lsquo;CTA261 Adolfo Carabelli Vol.1 (1931-1933)&amp;lsquo; I use this formatting string with the %album_pubcode% and %album_name% and %artist% from tango.info:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$replace($replace(%catalognumber%,&#39; &#39;,),&#39;-&#39;,) %artist% %album%
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Use the above with the automatically fill values tool from the properties dialogue. Choose source &amp;lsquo;Other&amp;rsquo; and set the above as source. Use it to fill the album tag. (Assumes you have tagged your files with catalognumber, of course.)&lt;/p&gt;
+
+&lt;h2 id=&#34;file-structure&#34;&gt;File structure&lt;/h2&gt;
+
+&lt;p&gt;Set all artists with more than one album artist (containing &amp;lsquo;,&amp;rsquo;) to Varios:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$if($strstr(%album artist%,&#39;,&#39;),Varios,%album artist%)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Use Varios for Various Artists albums, %artistsort% for the rest (included in the following formatting string):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$if($strstr(%album artist%,Varios),Varios,%artistsort%)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Use for file structure (copy/move, assumes Various Artists albums are tagged with %album artist% Varios and others have %artistsort% defined) :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$lower(%codec%)\$ascii($if($strstr(%album artist%,Varios),Varios,%artistsort%))\$ascii(%album%)[ if2(%catalognumber%,%barcode%)]\$ifgreater(%totaldiscs%,1,[$num(%disc%,2).],%track%) $ascii(%title%)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;tagging-from-tango-info&#34;&gt;Tagging from tango.info&lt;/h2&gt;
+
+&lt;p&gt;query string to use with &lt;a href=&#34;http://tools.tango.info/tagger1.3.2.php&#34;&gt;http://tools.tango.info/tagger1.3.2.php&lt;/a&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;%tin%;%album_name%;%album_artist%;%track_orch%;%discnumber%;%track%;%title%;%genre%;%date%;%album_pubcode%;%track_voca%;%album_dqty%
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Corresponding string to use in fb2k (fill from values):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;%tin%;%album%;%album artist%;%artist%;%disc number%;%track number%;%title%;%genre%;%date%;%catalognumber%;%performer%;%totaldiscs%
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;for-submission-to-tango-info&#34;&gt;&lt;strong&gt;For submission to tango.info&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Following the &lt;a href=&#34;http://wiki.tango.info/mul/tango.info_add_track_listing&#34;&gt;metadata submission guidelines at tango.info&lt;/a&gt;. Useful in combination with &lt;a href=&#34;http://www.foobar2000.org/components/view/foo_texttools&#34;&gt;text tools module&lt;/a&gt;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[$num(%barcode%,14)];%album%;$if2(%ALBUMARTIST%,%artist%);cd;%discnumber%;%track%;%title%;[%genre%];%artist%;[%performer%];[%date%];%_length%
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;misc&#34;&gt;Misc&lt;/h2&gt;
+
+&lt;p&gt;To put the singer in parenthesis after track title (saving screen real estate):&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;%title%[ &#39;(&#39;$ifgreater($len(%performer%),1,%performer%,)&#39;)&#39;]
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tagging with MusicBrainz Picard</title>
+      <link>http://simbatango.com/tagging-with-musicbrainz-picard/</link>
+      <pubDate>Fri, 26 Dec 2008 22:11:00 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>http://simbatango.com/tagging-with-musicbrainz-picard/</guid>
+      <description>&lt;p&gt;As your tango collection grows, the need to get more accurate and consistant meta information increases. To tag your music from an online database greatly reduces your effort.&lt;/p&gt;
+
+&lt;p&gt;I prefer using &lt;a href=&#34;http://musicbrainz.org/doc/PicardDownload&#34;&gt;MusicBrainz Picard&lt;/a&gt;, as it provides data for my non-tango music as well. The &lt;a href=&#34;http://www.tango.info&#34;&gt;tango.info&lt;/a&gt; database provides a wealth of information and a &lt;a href=&#34;http://wiki.tango.info/mul/tagging&#34;&gt;guide for masstagging&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To combine MusicBrainz Picard with genre and recording dates from tango.info, you can use these plugins for MusicBrainz Picard:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2008/12/tango-info.zip&#34;&gt;tango-info-plugins&lt;/a&gt; (zip file with both plugins)&lt;/p&gt;
+
+&lt;p&gt;put in the plugins directory of PicardQt together with &lt;a href=&#34;http://open.tango.info/tracks.csv&#34;&gt;http://open.tango.info/tracks.csv&lt;/a&gt; and enable the tango.info (date) and/or tango.info (genre) plugin under Options.&lt;/p&gt;
+
+&lt;p&gt;Note that due to a bug in Picard, both the release date from MusicBrainz and the date from tango.info will be set if both exist. The tango-info-date plugin  also sets the tag recordingdate as a workaround.&lt;/p&gt;
+
+&lt;p&gt;Some TaggerScript may be useful to customize the formatting of artist etc, and other plugins that I have found useful are Disc Numbers and Cover Art Downloader from &lt;a href=&#34;http://musicbrainz.org/doc/PicardQt/Plugins&#34;&gt;http://musicbrainz.org/doc/PicardQt/Plugins&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ripping CDs for the tangoDJ</title>
+      <link>http://simbatango.com/ripping-cds-for-the-tangodj/</link>
+      <pubDate>Fri, 26 Dec 2008 21:48:59 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>http://simbatango.com/ripping-cds-for-the-tangodj/</guid>
+      <description>
+
+&lt;h2 id=&#34;windows&#34;&gt;Windows&lt;/h2&gt;
+
+&lt;p&gt;For &lt;strong&gt;Windows&lt;/strong&gt;, I would recommend &lt;a href=&#34;http://wiki.hydrogenaudio.org/index.php?title=DBpowerAMP_with_AccurateRip&#34;&gt;dbPoweramp&lt;/a&gt;, &lt;a href=&#34;http://www.foobar2000.org/&#34;&gt;foobar2000&lt;/a&gt; or &lt;a href=&#34;http://wiki.hydrogenaudio.org/index.php?title=Exact_Audio_Copy&#34;&gt;EAC&lt;/a&gt;. Both support &lt;a href=&#34;http://www.accuraterip.com/&#34;&gt;AccurateRip&lt;/a&gt;, which makes sure your rip is good (provided it already exists in the database). A new and interesting project is &lt;a href=&#34;http://www.cuetools.net/doku.php/cuetools:cuetools&#34;&gt;CUETools&lt;/a&gt; which also supports error correction if the disc is in their database (unfortunately not so likely with most tango cds at this time).&lt;/p&gt;
+
+&lt;p&gt;Both CUETools and foobar2000 support checking previously ripped tracks against the AccurateRip database. (If ripped to a &lt;a href=&#34;http://wiki.hydrogenaudio.org/index.php?title=Lossless&#34;&gt;lossless&lt;/a&gt; format, that is.)&lt;/p&gt;
+
+&lt;h2 id=&#34;mac&#34;&gt;Mac&lt;/h2&gt;
+
+&lt;p&gt;For &lt;strong&gt;Mac&lt;/strong&gt;, &lt;a href=&#34;http://tmkk.hp.infoseek.co.jp/xld/index_e.html&#34;&gt;XLD&lt;/a&gt; looks very promising, but I am not a Mac user, so I haven&amp;rsquo;t tried it myself.&lt;/p&gt;
+
+&lt;h2 id=&#34;linux&#34;&gt;Linux&lt;/h2&gt;
+
+&lt;p&gt;For &lt;strong&gt;Linux&lt;/strong&gt;, you may use dbPoweramp under &lt;a href=&#34;http://www.winehq.org/&#34;&gt;Wine&lt;/a&gt;, or try the relatively new &lt;a href=&#34;https://thomas.apestaart.org/morituri/trac&#34;&gt;morituri&lt;/a&gt; project.&lt;/p&gt;
+
+&lt;h2 id=&#34;general&#34;&gt;General&lt;/h2&gt;
+
+&lt;p&gt;Unless you are &lt;strong&gt;really&lt;/strong&gt; pressed on space, make sure you rip to a &lt;a href=&#34;http://wiki.hydrogenaudio.org/index.php?title=Lossless&#34;&gt;lossless format&lt;/a&gt; such as &lt;a href=&#34;http://flac.sourceforge.net/&#34;&gt;flac&lt;/a&gt; or equivalent (e.g. &lt;a href=&#34;http://wiki.hydrogenaudio.org/index.php?title=ALAC&#34;&gt;alac&lt;/a&gt;, supported by iTunes). This way you won&amp;rsquo;t have to worry about sound quality or ever ripping your music again, as &lt;a href=&#34;http://wiki.hydrogenaudio.org/index.php?title=Transcoding&#34;&gt;transcoding&lt;/a&gt; between lossy formats is not recommended. And do make a backup.&lt;/p&gt;
+
+&lt;p&gt;If you go for &lt;a href=&#34;http://wiki.hydrogenaudio.org/index.php?title=Lossy&#34;&gt;lossy compression&lt;/a&gt; (which should be good enough for most purposes), &lt;a href=&#34;http://wiki.hydrogenaudio.org/index.php?title=MP3&#34;&gt;mp3&lt;/a&gt; is most widely supported, &lt;a href=&#34;http://wiki.hydrogenaudio.org/index.php?title=Advanced_Audio_Coding&#34;&gt;aac&lt;/a&gt;/&lt;a href=&#34;http://wiki.hydrogenaudio.org/index.php?title=Windows_Media_Audio&#34;&gt;wma&lt;/a&gt; or &lt;a href=&#34;http://wiki.hydrogenaudio.org/index.php?title=Vorbis&#34;&gt;vorbis&lt;/a&gt; are more modern codecs and in general provide better quality at the same bitrate, at least for lower bitrates.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TangoDJ</title>
+      <link>http://simbatango.com/tangodj/</link>
+      <pubDate>Fri, 26 Dec 2008 20:58:37 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>http://simbatango.com/tangodj/</guid>
+      <description>
+
+&lt;p&gt;Useful online resources for the tangoDJ:&lt;/p&gt;
+
+&lt;h3 id=&#34;discussion-list&#34;&gt;Discussion list&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://tangodj.org&#34;&gt;TangoDJ&lt;/a&gt; mailing list&lt;/p&gt;
+
+&lt;h3 id=&#34;about-tango-music&#34;&gt;About tango music&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://tejastango.com/classic_tangos.html&#34;&gt;Stephen Brown&amp;rsquo;s pages about tango music&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://milonga.co.uk/tango/advice.shtml&#34;&gt;Michael Lavocha&amp;rsquo;s guide to tango music&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;about-audio-formats&#34;&gt;About audio formats&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://hydrogenaudio.org/&#34;&gt;Hydrogenadio&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;where-to-buy-tango-music&#34;&gt;Where to buy tango music&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.tangostore.com/&#34;&gt;Tango store (Zival&amp;rsquo;s)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.emusic.com/lists/showlist.html?lid=798617&amp;amp;p=1&#34;&gt;Tango music at emusic&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Foobar2000 for the TangoDJ</title>
+      <link>http://simbatango.com/foobar2000-for-the-tangodj/</link>
+      <pubDate>Fri, 26 Dec 2008 20:57:48 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>http://simbatango.com/foobar2000-for-the-tangodj/</guid>
+      <description>
+
+&lt;h3 id=&#34;about-foobar2000&#34;&gt;About Foobar2000&lt;/h3&gt;
+
+&lt;p&gt;Foobar2000 is a lightweight audio player that is excellent for the tangodj on Windows. Free as in beer and quite usable out of the box, the possibilities for customizations are endless.&lt;/p&gt;
+
+&lt;h3 id=&#34;prelistening&#34;&gt;Prelistening&lt;/h3&gt;
+
+&lt;p&gt;For prelistening, install two instances of the player, and configure one for each sound device. If the sound from the internal sound card is good (which is often the case with recent laptops), you can use a usb headset, which is cheaper than buying an extra soundcard. If the internal soundcard is not good enough, buy an extra sound card.&lt;/p&gt;
+
+&lt;p&gt;Both options give you the possibility to install two players, and configuring them to play to different outputs. One for checking your tandas in advance, the other (with best quality) for the audience.&lt;/p&gt;
+
+&lt;h3 id=&#34;installation&#34;&gt;Installation&lt;/h3&gt;
+
+&lt;p&gt;Download the installer from &lt;a href=&#34;http://foobar2000.org/&#34;&gt;http://foobar2000.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Select portable mode when you install, and install twice into two different directories, e.g. fb2k-prelisten and fb2k-live.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Basic configuration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I prefer a quite simple layout, for instance &amp;ldquo;Simple playlist + Tabs&amp;rdquo;,  &amp;rdquo;System Default&amp;rdquo; and &amp;ldquo;Default Playlist&amp;rdquo; in the Quick Appearance setup.&lt;/p&gt;
+
+&lt;p&gt;Next you have to setup your music library, as foobar2000 has a powerful database interface to your music collection, like most current audio players. Add your music folder under File-&amp;gt;Preferences-&amp;gt;Media Library-&amp;gt;Music Folders Activate the Search media library viewer in the same settings pane.&lt;/p&gt;
+
+&lt;p&gt;For the player to use for the audience output (foobar-live), set the &amp;ldquo;Sort incoming files by&amp;rdquo; blank under File-&amp;gt;Preferences-&amp;gt;General.&lt;/p&gt;
+
+&lt;p&gt;This is really all you need to get going, compose your tandas in the prelisten player, and drag and drop to the live player. To add the new tanda at the end of the playlist, you can drop it at the end, or at the playlist tab.&lt;/p&gt;
+
+&lt;p&gt;Some tips for further customization follow below.&lt;/p&gt;
+
+&lt;h3 id=&#34;trimming-adding-silence&#34;&gt;Trimming/adding silence&lt;/h3&gt;
+
+&lt;p&gt;Tracks from different cds typically are spaced with variable amount of silence. For equal silence spacing, use the remove silence dsp that comes with foobar2000.  Under File-&amp;gt;Preferences-&amp;gt;Playback-&amp;gt;DSP Manager, add the dsp &amp;ldquo;Skip silence&amp;rdquo;. You have to set parameters for the plugin, a threshold of 54 dB and a minimum length of silence of 750ms works for me.&lt;/p&gt;
+
+&lt;p&gt;To add silence between tracks you need the additional plug-in &lt;a href=&#34;http://www.foobar2000.org/components/view/foo_dsp_silence&#34;&gt;Post-track silence&lt;/a&gt;. Configure it to add an apropriate amount of silence between tracks, 1-4 seconds. Not too short, not too long. I use 1250ms.&lt;/p&gt;
+
+&lt;h3 id=&#34;volume-adjustment-with-replaygain-ebu-r128&#34;&gt;Volume adjustment with ReplayGain/EBU R128&lt;/h3&gt;
+
+&lt;p&gt;With &lt;a href=&#34;http://wiki.hydrogenaudio.org/index.php?title=Replaygain&#34;&gt;ReplayGain&lt;/a&gt;, you can reduce and almost eliminate the need to manually adjust volumes on individual tracks. You calculate an adjustment to each track, and this information is stored in tags with no modification to the stored waveform. Use foobar2000 to add gain information and enable track gain for playback under File-&amp;gt;Preferences-&amp;gt;Playback-&amp;gt;ReplayGain.&lt;/p&gt;
+
+&lt;p&gt;Generally, ReplayGain reduces playback volume, so you may want to add a few dB of preamp, but be careful so you don&amp;rsquo;t add too much, as this may lead to clipping. I have used +2.0 dB without problems, but it depends on your music collection.&lt;/p&gt;
+
+&lt;p&gt;Also consider using the more recent &lt;a href=&#34;http://simbatango.com/2011/01/18/improved-loudness-correction-with-ebu-r128/&#34;&gt;EBU R128&lt;/a&gt; specification for calculating the gain values (this is now the default with Foobar2000).&lt;/p&gt;
+
+&lt;h3 id=&#34;last-fm&#34;&gt;Last.fm&lt;/h3&gt;
+
+&lt;p&gt;To keep track of your statistics, create a user at last.fm, install the plugin for audioscrobbler and join the &lt;a href=&#34;http://www.last.fm/group/tangoDJ/&#34;&gt;tangoDJ group&lt;/a&gt; at Last.fm&lt;/p&gt;
+
+&lt;h3 id=&#34;tagging&#34;&gt;Tagging&lt;/h3&gt;
+
+&lt;p&gt;I use separate tags for djing, to separate from my other music. For instance, I use my own genre tag, tdj_genre with categories IS_TANGO, IS_VALS and IS_MILONGA (etc) which makes it possible to search only the genre tag and not the title, removing false hits, eg. tangos with milonga in the title.&lt;/p&gt;
+
+&lt;h3 id=&#34;example&#34;&gt;Example&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://simbatango.com/wp-content/uploads/2008/12/fb2k1.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/wp-content/uploads/2008/12/fb2k1-300x179.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I have used standard dark palettes in this example for use in the often dark environment of a milonga.&lt;/p&gt;
+
+&lt;p&gt;If you want to try (or improve) this setup, you can download the setupfiles below, install under File-&amp;gt;Preferences-&amp;gt;Display-&amp;gt;Default User Interface-&amp;gt;Import Theme:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://simbatango.com/wp-content/uploads/2008/12/fb2k-prelisten.fth&#34;&gt;fb2k-prelisten&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://simbatango.com/wp-content/uploads/2008/12/fb2k-live.fth&#34;&gt;fb2k-live&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;comments&#34;&gt;Comments&lt;/h3&gt;
+
+&lt;p&gt;Was this useful for you? Do you have suggestions for improvements? Please comment below.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://simbatango.com/about-simba/</link>
+      <pubDate>Sat, 31 May 2008 17:15:25 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>http://simbatango.com/about-simba/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/&#34;&gt;&lt;img src=&#34;http://simbatango.com/wp-content/uploads/2008/11/simba-blogging.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;A tango dancer since &lt;sup&gt;1998&lt;/sup&gt;&amp;frasl;&lt;sub&gt;1999&lt;/sub&gt;, I have been consumed by learning, dancing, teaching and djing as well as community building in my small tango community.&lt;/p&gt;
+
+&lt;p&gt;Always thinking a lot about the tango and why it means so much to me, but not always time to write or discuss with the equally tango crazy, I have had the intention to blog for some time, but after I became a father quite recently, there is much less time for dancing, but some time for  blogging in between.&lt;/p&gt;
+
+&lt;p&gt;This blog is pseudo-anonymous; if you know me, you will probably easily guess who I am, but I ask you to use the nick Simba to my real name nevertheless. Comments are most welcome.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

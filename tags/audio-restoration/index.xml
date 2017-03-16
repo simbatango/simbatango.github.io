@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Audio Restoration on Simba Tango</title>
-    <link>https://simbatango.github.io/tags/audio-restoration/index.xml</link>
+    <link>http://simbatango.com/tags/audio-restoration/index.xml</link>
     <description>Recent content in Audio Restoration on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="https://simbatango.github.io/tags/audio-restoration/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://simbatango.com/tags/audio-restoration/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Audio Restoration from Multiple Copies</title>
-      <link>https://simbatango.github.io/2013/03/27/audio-restoration-from-multiple-copies/</link>
+      <link>http://simbatango.com/2013/03/27/audio-restoration-from-multiple-copies/</link>
       <pubDate>Wed, 27 Mar 2013 18:53:20 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>https://simbatango.github.io/2013/03/27/audio-restoration-from-multiple-copies/</guid>
+      <guid>http://simbatango.com/2013/03/27/audio-restoration-from-multiple-copies/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2013/03/SprBroMorSapICASSP13-figure1.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2013/03/SprBroMorSapICASSP13-figure1.png&#34; alt=&#34;SprBroMorSapICASSP13-figure&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I was pondering the usefulness of noise removal based on several copies of a recording, possibly from different physical copies. A Google search reveals that such a technique is &lt;a href=&#34;http://www.google.com/patents/US5740146&#34;&gt;already patented&lt;/a&gt;:&lt;/p&gt;
@@ -40,10 +40,10 @@
     
     <item>
       <title>Too Fast Transfers</title>
-      <link>https://simbatango.github.io/2011/06/15/too-fast-transfers/</link>
+      <link>http://simbatango.com/2011/06/15/too-fast-transfers/</link>
       <pubDate>Wed, 15 Jun 2011 21:23:43 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>https://simbatango.github.io/2011/06/15/too-fast-transfers/</guid>
+      <guid>http://simbatango.com/2011/06/15/too-fast-transfers/</guid>
       <description>
 
 &lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2011/06/raza-criolla.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2011/06/raza-criolla.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -82,10 +82,10 @@
     
     <item>
       <title>Tango Audio Restoration</title>
-      <link>https://simbatango.github.io/2010/03/01/tango-audio-restoration/</link>
+      <link>http://simbatango.com/2010/03/01/tango-audio-restoration/</link>
       <pubDate>Mon, 01 Mar 2010 21:29:47 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>https://simbatango.github.io/2010/03/01/tango-audio-restoration/</guid>
+      <guid>http://simbatango.com/2010/03/01/tango-audio-restoration/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2010/02/Screenshot.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2010/02/Screenshot.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Tango music was recorded with equipment much inferior to what is available today. Adding to that, the record companies threw away the master&amp;rsquo;s leaving us with reproductions based on the shellac records that further deteriate the sound.&lt;/p&gt;
