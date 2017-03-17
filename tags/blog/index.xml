@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Simba Tango</title>
+    <link>http://simbatango.com/tags/blog/index.xml</link>
+    <description>Recent content in Blog on Simba Tango</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
+    <webMaster>simbatango@gmail.com (Simba)</webMaster>
+    <atom:link href="http://simbatango.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Moving</title>
+      <link>http://simbatango.com/2017/03/17/moving/</link>
+      <pubDate>Fri, 17 Mar 2017 22:06:07 +0100</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>http://simbatango.com/2017/03/17/moving/</guid>
+      <description>&lt;p&gt;Here is a short meta update. The time for moving has come, both physically and technologywise. In a few months I will be moving back to my hometown, which happens to have a vibrant tango community. Looking forward to that. I do have some ideas for posts, but what little time I have for tango at the moment is spent actually dancing and djing.&lt;/p&gt;
+
+&lt;p&gt;Also, this blog has moved, for a variety of reasons. There were some layout problems that I never found the time to fix. Since I don&amp;rsquo;t have as much time for writing about tango, but still wanted to keep the site up, I was looking for a simpler and cheaper way of hosting. And finally, besides articulating my thoughts through writing, this is also a playground for me to try out new web technology. So I moved to static html pages, automatically generated that is. Which is both moving forward in using popular new technologies, and a return to the basics, as that was how I used to make webpages back in the days, before starting this blog. So fitting in many ways I think. Hope you like the new &amp;ldquo;responsive&amp;rdquo; layout.&lt;/p&gt;
+
+&lt;p&gt;I tried to make sure most pages kept the same urls or have redirects, let me know if anything is broken, and I will try to fix it as soon as I get around to it.&lt;/p&gt;
+
+&lt;p&gt;Comments are moved to Disqus, and they seem to have carried over ok. I haven&amp;rsquo;t finally decided whether to keep them though, as the social aspect of blogging seems to largely having been taken over by the so called social media. I do want to keep the old comments, though. We&amp;rsquo;ll see how it works out.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
