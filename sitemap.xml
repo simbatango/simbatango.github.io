@@ -887,13 +887,13 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/2009/07/10/technological-advances-in-tango/</loc>
-    <lastmod>2009-07-10T02:00:00+00:00</lastmod>
+    <loc>http://simbatango.com/2009/07/09/nueve-de-julio/</loc>
+    <lastmod>2009-07-09T05:01:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://simbatango.com/2009/07/09/nueve-de-julio/</loc>
-    <lastmod>2009-07-09T05:01:09+00:00</lastmod>
+    <loc>http://simbatango.com/2009/07/09/technological-advances-in-tango/</loc>
+    <lastmod>2009-07-09T02:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1574,14 +1574,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/advice/</loc>
-    <lastmod>2009-01-11T11:36:36+00:00</lastmod>
+    <loc>http://simbatango.com/categories/advice/</loc>
+    <lastmod>2012-12-04T21:51:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/advice/</loc>
-    <lastmod>2012-12-04T21:51:30+00:00</lastmod>
+    <loc>http://simbatango.com/tags/advice/</loc>
+    <lastmod>2009-01-11T11:36:36+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1664,14 +1664,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/anecdote/</loc>
-    <lastmod>2008-12-06T19:30:37+00:00</lastmod>
+    <loc>http://simbatango.com/categories/anecdote/</loc>
+    <lastmod>2011-07-18T20:17:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/anecdote/</loc>
-    <lastmod>2011-07-18T20:17:02+00:00</lastmod>
+    <loc>http://simbatango.com/tags/anecdote/</loc>
+    <lastmod>2008-12-06T19:30:37+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1688,20 +1688,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/argentina/</loc>
-    <lastmod>2010-05-25T08:02:46+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://simbatango.com/categories/argentina/</loc>
     <lastmod>2010-12-11T10:23:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/argentine-culture/</loc>
-    <lastmod>2009-01-26T17:33:22+00:00</lastmod>
+    <loc>http://simbatango.com/tags/argentina/</loc>
+    <lastmod>2010-05-25T08:02:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1712,13 +1706,19 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/art/</loc>
-    <lastmod>2010-01-03T01:12:53+00:00</lastmod>
+    <loc>http://simbatango.com/tags/argentine-culture/</loc>
+    <lastmod>2009-01-26T17:33:22+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://simbatango.com/categories/art/</loc>
+    <lastmod>2010-01-03T01:12:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://simbatango.com/tags/art/</loc>
     <lastmod>2010-01-03T01:12:53+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1856,14 +1856,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/books/</loc>
-    <lastmod>2008-10-24T20:00:19+00:00</lastmod>
+    <loc>http://simbatango.com/categories/books/</loc>
+    <lastmod>2012-11-05T21:28:45+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/books/</loc>
-    <lastmod>2012-11-05T21:28:45+00:00</lastmod>
+    <loc>http://simbatango.com/tags/books/</loc>
+    <lastmod>2008-10-24T20:00:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1970,14 +1970,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/campeonato/</loc>
-    <lastmod>2009-08-30T01:27:20+00:00</lastmod>
+    <loc>http://simbatango.com/categories/campeonato/</loc>
+    <lastmod>2010-09-19T21:16:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/campeonato/</loc>
-    <lastmod>2010-09-19T21:16:01+00:00</lastmod>
+    <loc>http://simbatango.com/tags/campeonato/</loc>
+    <lastmod>2009-08-30T01:27:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2102,7 +2102,7 @@
   
   <url>
     <loc>http://simbatango.com/tags/cita/</loc>
-    <lastmod>2009-07-10T02:00:00+00:00</lastmod>
+    <lastmod>2009-07-09T02:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2113,14 +2113,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/classes/</loc>
-    <lastmod>2008-09-22T11:01:09+00:00</lastmod>
+    <loc>http://simbatango.com/categories/classes/</loc>
+    <lastmod>2008-12-19T12:55:38+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/classes/</loc>
-    <lastmod>2008-12-19T12:55:38+00:00</lastmod>
+    <loc>http://simbatango.com/tags/classes/</loc>
+    <lastmod>2008-09-22T11:01:09+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2137,14 +2137,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/cliche/</loc>
-    <lastmod>2009-08-29T01:47:59+00:00</lastmod>
+    <loc>http://simbatango.com/categories/cliche/</loc>
+    <lastmod>2016-01-29T19:02:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/cliche/</loc>
-    <lastmod>2016-01-29T19:02:20+00:00</lastmod>
+    <loc>http://simbatango.com/tags/cliche/</loc>
+    <lastmod>2009-08-29T01:47:59+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2173,14 +2173,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/codigos-de-la-milonga/</loc>
-    <lastmod>2009-07-26T00:42:44+00:00</lastmod>
+    <loc>http://simbatango.com/categories/codigos-de-la-milonga/</loc>
+    <lastmod>2012-12-04T21:51:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/codigos-de-la-milonga/</loc>
-    <lastmod>2012-12-04T21:51:30+00:00</lastmod>
+    <loc>http://simbatango.com/tags/codigos-de-la-milonga/</loc>
+    <lastmod>2009-07-26T00:42:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2365,14 +2365,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/dancing-for-the-woman/</loc>
-    <lastmod>2008-12-19T12:55:38+00:00</lastmod>
+    <loc>http://simbatango.com/categories/dancing-for-the-woman/</loc>
+    <lastmod>2010-04-14T21:13:36+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/dancing-for-the-woman/</loc>
-    <lastmod>2010-04-14T21:13:36+00:00</lastmod>
+    <loc>http://simbatango.com/tags/dancing-for-the-woman/</loc>
+    <lastmod>2008-12-19T12:55:38+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2449,14 +2449,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/dj/</loc>
-    <lastmod>2010-02-09T21:22:59+00:00</lastmod>
+    <loc>http://simbatango.com/categories/dj/</loc>
+    <lastmod>2015-10-26T19:43:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/dj/</loc>
-    <lastmod>2015-10-26T19:43:01+00:00</lastmod>
+    <loc>http://simbatango.com/tags/dj/</loc>
+    <lastmod>2010-02-09T21:22:59+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2467,14 +2467,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/documentary/</loc>
-    <lastmod>2015-09-10T11:43:27+00:00</lastmod>
+    <loc>http://simbatango.com/categories/documentary/</loc>
+    <lastmod>2015-10-07T13:28:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/documentary/</loc>
-    <lastmod>2015-10-07T13:28:13+00:00</lastmod>
+    <loc>http://simbatango.com/tags/documentary/</loc>
+    <lastmod>2015-09-10T11:43:27+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2599,13 +2599,13 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/embrace/</loc>
+    <loc>http://simbatango.com/categories/embrace/</loc>
     <lastmod>2015-02-14T19:22:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/embrace/</loc>
+    <loc>http://simbatango.com/tags/embrace/</loc>
     <lastmod>2015-02-14T19:22:52+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -2983,14 +2983,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/humour/</loc>
-    <lastmod>2009-07-11T19:38:30+00:00</lastmod>
+    <loc>http://simbatango.com/categories/humour/</loc>
+    <lastmod>2014-04-11T19:31:36+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/humour/</loc>
-    <lastmod>2014-04-11T19:31:36+00:00</lastmod>
+    <loc>http://simbatango.com/tags/humour/</loc>
+    <lastmod>2009-07-11T19:38:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3001,13 +3001,13 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/improvisation/</loc>
+    <loc>http://simbatango.com/categories/improvisation/</loc>
     <lastmod>2009-08-29T20:52:21+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/improvisation/</loc>
+    <loc>http://simbatango.com/tags/improvisation/</loc>
     <lastmod>2009-08-29T20:52:21+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3187,13 +3187,13 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/language/</loc>
+    <loc>http://simbatango.com/categories/language/</loc>
     <lastmod>2009-02-04T20:43:32+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/language/</loc>
+    <loc>http://simbatango.com/tags/language/</loc>
     <lastmod>2009-02-04T20:43:32+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3223,14 +3223,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/learning-tango/</loc>
-    <lastmod>2009-08-28T01:46:21+00:00</lastmod>
+    <loc>http://simbatango.com/categories/learning-tango/</loc>
+    <lastmod>2010-02-18T18:13:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/learning-tango/</loc>
-    <lastmod>2010-02-18T18:13:54+00:00</lastmod>
+    <loc>http://simbatango.com/tags/learning-tango/</loc>
+    <lastmod>2009-08-28T01:46:21+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3253,14 +3253,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/listening-to-the-music/</loc>
-    <lastmod>2008-11-16T12:25:31+00:00</lastmod>
+    <loc>http://simbatango.com/categories/listening-to-the-music/</loc>
+    <lastmod>2016-10-01T17:54:48+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/listening-to-the-music/</loc>
-    <lastmod>2016-10-01T17:54:48+00:00</lastmod>
+    <loc>http://simbatango.com/tags/listening-to-the-music/</loc>
+    <lastmod>2008-11-16T12:25:31+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3409,26 +3409,26 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/meta/</loc>
-    <lastmod>2009-07-17T00:54:48+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://simbatango.com/categories/meta/</loc>
     <lastmod>2017-03-17T22:06:07+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/metaphor/</loc>
-    <lastmod>2009-05-27T23:41:02+00:00</lastmod>
+    <loc>http://simbatango.com/tags/meta/</loc>
+    <lastmod>2009-07-17T00:54:48+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://simbatango.com/categories/metaphor/</loc>
     <lastmod>2009-09-05T02:30:32+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://simbatango.com/tags/metaphor/</loc>
+    <lastmod>2009-05-27T23:41:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3475,14 +3475,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/milongas/</loc>
-    <lastmod>2010-03-24T12:54:18+00:00</lastmod>
+    <loc>http://simbatango.com/categories/milongas/</loc>
+    <lastmod>2009-09-23T03:21:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/milongas/</loc>
-    <lastmod>2009-09-23T03:21:15+00:00</lastmod>
+    <loc>http://simbatango.com/tags/milongas/</loc>
+    <lastmod>2010-03-24T12:54:18+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3505,14 +3505,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/milongueros/</loc>
-    <lastmod>2010-04-27T20:35:26+00:00</lastmod>
+    <loc>http://simbatango.com/categories/milongueros/</loc>
+    <lastmod>2013-03-31T14:43:02+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/milongueros/</loc>
-    <lastmod>2013-03-31T14:43:02+00:00</lastmod>
+    <loc>http://simbatango.com/tags/milongueros/</loc>
+    <lastmod>2010-04-27T20:35:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3613,14 +3613,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/musicality/</loc>
-    <lastmod>2011-11-12T08:23:09+00:00</lastmod>
+    <loc>http://simbatango.com/categories/musicality/</loc>
+    <lastmod>2016-09-01T20:08:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/musicality/</loc>
-    <lastmod>2016-09-01T20:08:08+00:00</lastmod>
+    <loc>http://simbatango.com/tags/musicality/</loc>
+    <lastmod>2011-11-12T08:23:09+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3853,14 +3853,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/performance/</loc>
-    <lastmod>2009-08-29T20:52:21+00:00</lastmod>
+    <loc>http://simbatango.com/categories/performance/</loc>
+    <lastmod>2011-12-10T18:20:27+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/performance/</loc>
-    <lastmod>2011-12-10T18:20:27+00:00</lastmod>
+    <loc>http://simbatango.com/tags/performance/</loc>
+    <lastmod>2009-08-29T20:52:21+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3895,13 +3895,13 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/photo/</loc>
+    <loc>http://simbatango.com/categories/photo/</loc>
     <lastmod>2009-12-28T16:57:34+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/photo/</loc>
+    <loc>http://simbatango.com/tags/photo/</loc>
     <lastmod>2009-12-28T16:57:34+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -3973,14 +3973,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/practica/</loc>
-    <lastmod>2008-07-16T09:47:01+00:00</lastmod>
+    <loc>http://simbatango.com/categories/practica/</loc>
+    <lastmod>2008-09-22T11:01:09+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/practica/</loc>
-    <lastmod>2008-09-22T11:01:09+00:00</lastmod>
+    <loc>http://simbatango.com/tags/practica/</loc>
+    <lastmod>2008-07-16T09:47:01+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3991,13 +3991,13 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/prejudice/</loc>
+    <loc>http://simbatango.com/categories/prejudice/</loc>
     <lastmod>2009-03-01T09:04:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/prejudice/</loc>
+    <loc>http://simbatango.com/tags/prejudice/</loc>
     <lastmod>2009-03-01T09:04:54+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -4057,14 +4057,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/quotes/</loc>
-    <lastmod>2012-11-05T21:28:45+00:00</lastmod>
+    <loc>http://simbatango.com/categories/quotes/</loc>
+    <lastmod>2009-04-25T13:19:37+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/quotes/</loc>
-    <lastmod>2009-04-25T13:19:37+00:00</lastmod>
+    <loc>http://simbatango.com/tags/quotes/</loc>
+    <lastmod>2012-11-05T21:28:45+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4165,13 +4165,13 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/review/</loc>
+    <loc>http://simbatango.com/categories/review/</loc>
     <lastmod>2011-05-07T20:27:38+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/review/</loc>
+    <loc>http://simbatango.com/tags/review/</loc>
     <lastmod>2011-05-07T20:27:38+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -4339,14 +4339,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/simba/</loc>
-    <lastmod>2017-03-17T22:06:07+01:00</lastmod>
+    <loc>http://simbatango.com/categories/simba/</loc>
+    <lastmod>2012-02-09T19:46:17+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/simba/</loc>
-    <lastmod>2012-02-09T19:46:17+00:00</lastmod>
+    <loc>http://simbatango.com/tags/simba/</loc>
+    <lastmod>2017-03-17T22:06:07+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4489,14 +4489,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/style/</loc>
-    <lastmod>2010-06-21T20:07:59+00:00</lastmod>
+    <loc>http://simbatango.com/categories/style/</loc>
+    <lastmod>2015-08-23T19:01:31+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/style/</loc>
-    <lastmod>2015-08-23T19:01:31+00:00</lastmod>
+    <loc>http://simbatango.com/tags/style/</loc>
+    <lastmod>2010-06-21T20:07:59+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4566,14 +4566,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/tango/</loc>
-    <lastmod>2010-07-14T20:24:28+00:00</lastmod>
+    <loc>http://simbatango.com/categories/tango/</loc>
+    <lastmod>2014-09-25T18:31:35+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/tango/</loc>
-    <lastmod>2014-09-25T18:31:35+00:00</lastmod>
+    <loc>http://simbatango.com/tags/tango/</loc>
+    <lastmod>2010-07-14T20:24:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4590,14 +4590,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/tango-culture/</loc>
-    <lastmod>2009-04-19T15:26:51+00:00</lastmod>
+    <loc>http://simbatango.com/categories/tango-culture/</loc>
+    <lastmod>2016-01-29T19:02:20+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/tango-culture/</loc>
-    <lastmod>2016-01-29T19:02:20+00:00</lastmod>
+    <loc>http://simbatango.com/tags/tango-culture/</loc>
+    <lastmod>2009-04-19T15:26:51+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4644,14 +4644,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/tango-history/</loc>
-    <lastmod>2009-07-28T14:54:28+00:00</lastmod>
+    <loc>http://simbatango.com/categories/tango-history/</loc>
+    <lastmod>2015-10-07T13:28:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/tango-history/</loc>
-    <lastmod>2015-10-07T13:28:13+00:00</lastmod>
+    <loc>http://simbatango.com/tags/tango-history/</loc>
+    <lastmod>2009-07-28T14:54:28+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4662,14 +4662,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/tango-in-film/</loc>
-    <lastmod>2010-11-12T17:16:04+00:00</lastmod>
+    <loc>http://simbatango.com/categories/tango-in-film/</loc>
+    <lastmod>2015-09-10T11:43:27+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/tango-in-film/</loc>
-    <lastmod>2015-09-10T11:43:27+00:00</lastmod>
+    <loc>http://simbatango.com/tags/tango-in-film/</loc>
+    <lastmod>2010-11-12T17:16:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4692,14 +4692,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/tango-music/</loc>
-    <lastmod>2015-08-23T19:01:31+00:00</lastmod>
+    <loc>http://simbatango.com/categories/tango-music/</loc>
+    <lastmod>2016-09-01T20:08:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/tango-music/</loc>
-    <lastmod>2016-09-01T20:08:08+00:00</lastmod>
+    <loc>http://simbatango.com/tags/tango-music/</loc>
+    <lastmod>2015-08-23T19:01:31+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4758,14 +4758,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/tango-theory/</loc>
-    <lastmod>2008-11-29T22:51:03+00:00</lastmod>
+    <loc>http://simbatango.com/categories/tango-theory/</loc>
+    <lastmod>2016-05-22T09:07:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/tango-theory/</loc>
-    <lastmod>2016-05-22T09:07:24+00:00</lastmod>
+    <loc>http://simbatango.com/tags/tango-theory/</loc>
+    <lastmod>2008-11-29T22:51:03+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4801,7 +4801,7 @@
   
   <url>
     <loc>http://simbatango.com/tags/tangostore/</loc>
-    <lastmod>2009-07-10T02:00:00+00:00</lastmod>
+    <lastmod>2009-07-09T02:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4848,14 +4848,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/technique/</loc>
-    <lastmod>2010-04-27T20:35:26+00:00</lastmod>
+    <loc>http://simbatango.com/categories/technique/</loc>
+    <lastmod>2013-02-11T22:04:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/technique/</loc>
-    <lastmod>2013-02-11T22:04:54+00:00</lastmod>
+    <loc>http://simbatango.com/tags/technique/</loc>
+    <lastmod>2010-04-27T20:35:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4872,13 +4872,13 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/terminology/</loc>
+    <loc>http://simbatango.com/categories/terminology/</loc>
     <lastmod>2008-11-16T12:02:48+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/terminology/</loc>
+    <loc>http://simbatango.com/tags/terminology/</loc>
     <lastmod>2008-11-16T12:02:48+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -5017,7 +5017,7 @@
   
   <url>
     <loc>http://simbatango.com/tags/twitter/</loc>
-    <lastmod>2009-07-10T02:00:00+00:00</lastmod>
+    <lastmod>2009-07-09T02:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5100,14 +5100,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/video/</loc>
-    <lastmod>2008-07-22T10:15:53+00:00</lastmod>
+    <loc>http://simbatango.com/categories/video/</loc>
+    <lastmod>2012-02-20T09:53:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/video/</loc>
-    <lastmod>2012-02-20T09:53:15+00:00</lastmod>
+    <loc>http://simbatango.com/tags/video/</loc>
+    <lastmod>2008-07-22T10:15:53+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -5154,13 +5154,13 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/walk/</loc>
+    <loc>http://simbatango.com/categories/walk/</loc>
     <lastmod>2010-02-16T17:51:26+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/categories/walk/</loc>
+    <loc>http://simbatango.com/tags/walk/</loc>
     <lastmod>2010-02-16T17:51:26+00:00</lastmod>
     <priority>0</priority>
   </url>
