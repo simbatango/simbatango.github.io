@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gigs on Simba Tango</title>
+    <link>http://simbatango.com/categories/gigs/index.xml</link>
+    <description>Recent content in Gigs on Simba Tango</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
+    <webMaster>simbatango@gmail.com (Simba)</webMaster>
+    <atom:link href="http://simbatango.com/categories/gigs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2017 07 20 estilos fundamentales 3</title>
+      <link>http://simbatango.com/2017/07/20/2017-07-20-estilos-fundamentales-3/</link>
+      <pubDate>Thu, 20 Jul 2017 22:59:11 +0200</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>http://simbatango.com/2017/07/20/2017-07-20-estilos-fundamentales-3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
