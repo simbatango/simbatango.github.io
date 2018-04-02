@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Club Tango Argentino on Simba Tango</title>
-    <link>http://simbatango.com/tags/club-tango-argentino/index.xml</link>
+    <link>http://simbatango.com/tags/club-tango-argentino/</link>
     <description>Recent content in Club Tango Argentino on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/club-tango-argentino/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Jan 2010 22:47:36 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/club-tango-argentino/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Quality of CTA bootlegs</title>
@@ -16,18 +19,7 @@
       <pubDate>Sun, 03 Jan 2010 22:47:36 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2010/01/03/quality-of-cta-bootlegs/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/12/tau-results-11.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/12/tau-results-11.png&#34; alt=&#34;tau-results-1&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Usually, I don&amp;rsquo;t buy bootlegs, but when it comes to tango music, there is some material that is not available from the commercial releases like Reliquias, Tango Argentino etc. I always concentrated on the commercial releases, but now that I have most of the interesting material from these releases, I have moved on the the more exotic releases, like the Club  Tango Argentino by Akihito Baba. They are unfortunately hard to get by, and several are out of print.  I heard that in some places they are selling bootlegs of some of these discs in Argentina,  so I went to check it out.&lt;/p&gt;
-
-&lt;p&gt;From what I could hear, quality wise it was all good. I heard rumors that some bootlegs were processed versions, i.e. with filtering applied to the sound, and some of the point with the CTA releases is that they are not processed, but there was lots of noise in the ones I got to check out.&lt;/p&gt;
-
-&lt;p&gt;The covers were in color, and seemed to be copies of the original, copyright notice and everything.  So I was hoping the producers also just copied the sound verbatim. That there was a lot of high frequency noise indicated that the source was not mp3 files, but to check it out further, I ran a couple of discs through the program &lt;a href=&#34;http://true-audio.com/Analyzer.project&#34;&gt;Tau analyzer&lt;/a&gt;, which indicated that the source of all tracks were indeed cds (CDDA).&lt;/p&gt;
-
-&lt;p&gt;The frequencies are shown in the first illustration and the spectrum plot is shown below (both from Tau analyzer):&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/12/tau-results-21.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/12/tau-results-21.png&#34; alt=&#34;tau-results-2&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Usually, I don&amp;rsquo;t buy bootlegs, but when it comes to tango music, there is some material that is not available from the commercial releases like Reliquias, Tango Argentino etc. I always concentrated on the commercial releases, but now that I have most of the interesting material from these releases, I have moved on the the more exotic releases, like the Club Tango Argentino by Akihito Baba. They are unfortunately hard to get by, and several are out of print.</description>
     </item>
     
   </channel>

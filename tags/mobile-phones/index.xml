@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mobile Phones on Simba Tango</title>
-    <link>http://simbatango.com/tags/mobile-phones/index.xml</link>
+    <link>http://simbatango.com/tags/mobile-phones/</link>
     <description>Recent content in Mobile Phones on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/mobile-phones/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jul 2009 19:38:30 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/mobile-phones/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>El Celulareo</title>
@@ -16,14 +19,9 @@
       <pubDate>Sat, 11 Jul 2009 19:38:30 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/07/11/el-celulareo/</guid>
-      <description>&lt;p&gt;[caption id=&amp;ldquo;attachment_577&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;539&amp;rdquo; caption=&amp;ldquo;El Celulareo?&amp;rdquo;]&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/07/celulareo.jpg&#34; alt=&#34;El Celulareo?&#34; /&gt;[/caption]&lt;/p&gt;
-
-&lt;p&gt;Based on the &lt;a href=&#34;http://simbatango.com/2009/07/09/technological-advances-in-tango/&#34;&gt;recent discussion on mobile phones in the milongas&lt;/a&gt;. This is the cartoon I mentioned, from B.A. Tango No 198.&lt;/p&gt;
-
-&lt;blockquote&gt;&#34;It is astounding Brown. The mobile phone has invaded even the milongas.&#34; &#34;Shall we dance, Rosita?&#34; &#34;Yes, José!&#34; &#34;I&#39;ll finish my coffee and we&#39;ll dance.&#34; &#34;I&#39;ll be waiting for you, Adriana&#34;&lt;/blockquote&gt;
-
-&lt;p&gt;PS: You can subscribe to B.A. Tango by email by sending an email to abatango@yahoo.com with the subject &amp;ldquo;Suscripción&amp;rdquo;.&lt;/p&gt;
-</description>
+      <description>[caption id=&amp;ldquo;attachment_577&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;539&amp;rdquo; caption=&amp;ldquo;El Celulareo?&amp;rdquo;][/caption]
+Based on the recent discussion on mobile phones in the milongas. This is the cartoon I mentioned, from B.A. Tango No 198.
+&#34;It is astounding Brown. The mobile phone has invaded even the milongas.&#34; &#34;Shall we dance, Rosita?&#34; &#34;Yes, José!&#34; &#34;I&#39;ll finish my coffee and we&#39;ll dance.&#34; &#34;I&#39;ll be waiting for you, Adriana&#34; PS: You can subscribe to B.A. Tango by email by sending an email to abatango@yahoo.</description>
     </item>
     
   </channel>

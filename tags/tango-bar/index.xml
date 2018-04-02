@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tango Bar on Simba Tango</title>
-    <link>http://simbatango.com/tags/tango-bar/index.xml</link>
+    <link>http://simbatango.com/tags/tango-bar/</link>
     <description>Recent content in Tango Bar on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/tango-bar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Apr 2010 20:35:26 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/tango-bar/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Evolution?</title>
@@ -16,14 +19,7 @@
       <pubDate>Tue, 27 Apr 2010 20:35:26 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2010/04/27/evolution-2/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/bQb7JWpEVRo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;I hear it every so often: that tango technique, especially for women, has gone through a tremendous evolution since the resurgence in the early 1980s. Let&amp;rsquo;s just say I&amp;rsquo;m not quite convinced. Watch this clip from the 1988 movie &lt;a href=&#34;http://www.imdb.com/title/tt0096221/&#34;&gt;Tango Bar&lt;/a&gt;, and draw your own conclusions.&lt;/p&gt;
-</description>
+      <description>I hear it every so often: that tango technique, especially for women, has gone through a tremendous evolution since the resurgence in the early 1980s. Let&amp;rsquo;s just say I&amp;rsquo;m not quite convinced. Watch this clip from the 1988 movie Tango Bar, and draw your own conclusions.</description>
     </item>
     
   </channel>

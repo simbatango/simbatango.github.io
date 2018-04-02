@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eric Jørissen on Simba Tango</title>
-    <link>http://simbatango.com/tags/eric-j%C3%B8rissen/index.xml</link>
+    <link>http://simbatango.com/tags/eric-j%C3%B8rissen/</link>
     <description>Recent content in Eric Jørissen on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/eric-j%C3%B8rissen/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Feb 2013 15:09:05 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/eric-j%C3%B8rissen/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>El Corte Documentary</title>
@@ -16,12 +19,9 @@
       <pubDate>Tue, 19 Feb 2013 15:09:05 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2013/02/19/el-corte-documentary/</guid>
-      <description>&lt;p&gt;[vimeo 28409308 w=500]&lt;/p&gt;
-
-&lt;p&gt;I missed this when it came out. A doucumentary about the legendary &lt;a href=&#34;http://www.elcorte.com/&#34;&gt;El Corte in Nijmegen&lt;/a&gt;, The Netherlands. Eric Jørissen and El Corte have had a great influence on the European tango scene in general, and if I am not mistaken, on the tango marathon culture in particular.&lt;/p&gt;
-
-&lt;p&gt;HT: Veronica&lt;/p&gt;
-</description>
+      <description>[vimeo 28409308 w=500]
+I missed this when it came out. A doucumentary about the legendary El Corte in Nijmegen, The Netherlands. Eric Jørissen and El Corte have had a great influence on the European tango scene in general, and if I am not mistaken, on the tango marathon culture in particular.
+HT: Veronica</description>
     </item>
     
   </channel>

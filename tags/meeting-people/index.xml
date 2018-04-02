@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meeting People on Simba Tango</title>
-    <link>http://simbatango.com/tags/meeting-people/index.xml</link>
+    <link>http://simbatango.com/tags/meeting-people/</link>
     <description>Recent content in Meeting People on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/meeting-people/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Sep 2008 11:01:09 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/meeting-people/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Classes and entertainment</title>
@@ -16,36 +19,8 @@
       <pubDate>Mon, 22 Sep 2008 11:01:09 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2008/09/22/classes-and-entertainment/</guid>
-      <description>&lt;p&gt;Why do people take classes? When I first started out in tango, I assumed people attended to classes to learn how to dance or to improve their dance, learning steps or improving technique or other skills. How naïve.&lt;/p&gt;
-
-&lt;p&gt;After several years more, I have discovered that people take classes for a variety of reasons, some of which I find perfectly reasonable, others I still cannot really understand. The good reasons are:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Learning tango&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Meeting people&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The not so good reasons (in my opinion, of course):&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;As entertainment&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;To dance&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Of course, learning to dance is a no-brainer. Also, I can see that classes are a good way to meet other dancers, especially when you are coming without partner or other friends, or are visiting a new city. (For instance when going to Buenos Aires, taking some classes is a good way of getting started on your entourage.&lt;/p&gt;
-
-&lt;p&gt;The classes as entertainment first came clear to me as a tango organizer and teacher in my home community. We were arranging weekend classes, and suffered from very low retention rates. Struggling with this for years, I suddenly realized that the weekend class market was a different from our main target (the objective being to recruite dancers to our community). People wanted to try something new for the weekend and get entertained. Fair enough, some got the taste of it and came back, most never did. Also many couples came, and they never wanted to change partner. In this context it is understandable, they were taking the class to do something together, not to learn tango. They simply wanted to dance with their partner.&lt;/p&gt;
-
-&lt;p&gt;This I can understand.&lt;/p&gt;
-
-&lt;p&gt;When people who are already devoted to tango, travel around the country and around the world to dance, however take classes they have no interest in whatsoever, I am puzzled. Just waiting for the teacher to throw them something new, something exciting every 15 minutes, with no intention on working on doing it right. Being there for the entertainment, and just dancing whatever, taking no notice of the world class teacher&amp;rsquo;s comments. In one particular case the teachers were quite upset, as these people obviously did not understand what they were trying to teach them. (Not steps.) And this frustration I can easily understand from my own teaching experience. I sometimes wish people not giving a damn about what is being taught would just leave and not destroy the learning environment for the others.&lt;/p&gt;
-
-&lt;p&gt;This I cannot understand. If you just want to do your own thing, go to a práctica or a milonga. If you are not interested in learning, let someone else have your place.&lt;/p&gt;
-
-&lt;p&gt;PS: If you take classes to meet people, this still holds, you should choose a teacher which teaches something you would like to learn, this greatly increases the chance of you meeting people you will enjoy dancing with.&lt;/p&gt;
-</description>
+      <description>Why do people take classes? When I first started out in tango, I assumed people attended to classes to learn how to dance or to improve their dance, learning steps or improving technique or other skills. How naïve.
+After several years more, I have discovered that people take classes for a variety of reasons, some of which I find perfectly reasonable, others I still cannot really understand. The good reasons are:</description>
     </item>
     
   </channel>

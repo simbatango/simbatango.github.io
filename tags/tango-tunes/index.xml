@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tango Tunes on Simba Tango</title>
-    <link>http://simbatango.com/tags/tango-tunes/index.xml</link>
+    <link>http://simbatango.com/tags/tango-tunes/</link>
     <description>Recent content in Tango Tunes on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/tango-tunes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 May 2013 04:34:58 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/tango-tunes/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Tango Tunes Website Up</title>
@@ -16,22 +19,9 @@
       <pubDate>Wed, 08 May 2013 04:34:58 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2013/05/08/tango-tunes-website-up/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2013/05/TangoTunes-website.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2013/05/TangoTunes-website.png&#34; alt=&#34;TangoTunes-website&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The long awaited &lt;a href=&#34;http://www.tangotunes.com&#34;&gt;TangoTunes project website is now online&lt;/a&gt; and accepting purchases. I&amp;rsquo;ll start by checking out the few Troilo recordings they have available at the moment. The purchase went through very smoothly.&lt;/p&gt;
-
-&lt;p&gt;This is how they present themselves:&lt;/p&gt;
-
-&lt;blockquote&gt;TangoTunes is an Austrian-Argentine project with the aim to preserve the music of Tango Argentino. This way, we also preserve and support a piece of Argentine culture, which was declared World Heritage several years ago.
-
-In cooperation with TangoVia Buenos Aires we promote the project &#34;Tango Digital Archive&#34; with the goal to archive the recordings and documents of Tango Argentino in their entirety.
-
-TangoTunes purchases selected collections of vinyl and shellac records from collectors in Argentina and digitizes them in a highly difficult process. Since the beginning of 2013, approximately 1.000 vinyl records and 5.000 shellac records are successively being digitized with precision and care. We offer these Tango recordings – our „tunes“ – to Tango lovers in our online store. Our product catalog is constantly expanding – it pays off to have a look more frequently!
-
-Founded in 2013, TangoTunes is a young company located in Vienna, Austria and a branch in Buenos Aires, Argentina. We spend much time and care to restore the music of Tango Argentino as close to the original as possible. This not only requires much know-how and experience, but also great appreciation for the original and tenacious work for an ideal final result.&lt;/blockquote&gt;
-
-&lt;p&gt;Enjoy!&lt;/p&gt;
-</description>
+      <description>The long awaited TangoTunes project website is now online and accepting purchases. I&amp;rsquo;ll start by checking out the few Troilo recordings they have available at the moment. The purchase went through very smoothly.
+This is how they present themselves:
+TangoTunes is an Austrian-Argentine project with the aim to preserve the music of Tango Argentino. This way, we also preserve and support a piece of Argentine culture, which was declared World Heritage several years ago.</description>
     </item>
     
     <item>
@@ -40,14 +30,7 @@ Founded in 2013, TangoTunes is a young company located in Vienna, Austria and a 
       <pubDate>Wed, 20 Feb 2013 15:49:04 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2013/02/20/tango-tunes/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2013/02/BIAGI_5621_A.jpg&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2013/02/BIAGI_5621_A.jpg&#34; alt=&#34;BIAGI_5621_A&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The first results are trickling down from the TangoVia project. Tango Tunes is a Vienna based organisation, digitizing music with the help from TangoVia. They recently provided a preview of what they will offer, and I have to say I think it sounds very good. The Troilo sample in particular was very promising. The first songs available for purchase are &lt;a href=&#34;http://de.tangowiki.com/index.php/Biagi_100&#34;&gt;100 Biagi songs&lt;/a&gt;.  The price is EUR 100, which is expensive compared with commercial releases, but cheaper than the Japanese labels.&lt;/p&gt;
-
-&lt;p&gt;What it comes down to then is selection and transfer quality. The really great thing is that they will offer lossless files in high resolution (96 kHz, 24 bit) for those that have time to spend restoring music. We others can just downsample to 44.1kHz, 16 bit. Unfortunately, Biagi is not high on my prioriy when it comes to repurchasing tango music. The commercial releases are already ok quality. Troilo on the other hand, will put me first in line. Same goes for De Caro, and probably also Di Sarli. D&amp;rsquo;Arienzo will also be interesting for many DJs, I think.&lt;/p&gt;
-
-&lt;p&gt;I don&amp;rsquo;t know how they plan on rolling this out later, but making complete discographies available would be another thing to make them stand out. I&amp;rsquo;m crossing my fingers for complete Troilo later this year.&lt;/p&gt;
-</description>
+      <description>The first results are trickling down from the TangoVia project. Tango Tunes is a Vienna based organisation, digitizing music with the help from TangoVia. They recently provided a preview of what they will offer, and I have to say I think it sounds very good. The Troilo sample in particular was very promising. The first songs available for purchase are 100 Biagi songs. The price is EUR 100, which is expensive compared with commercial releases, but cheaper than the Japanese labels.</description>
     </item>
     
   </channel>

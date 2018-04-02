@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brilliant on Simba Tango</title>
-    <link>http://simbatango.com/tags/brilliant/index.xml</link>
+    <link>http://simbatango.com/tags/brilliant/</link>
     <description>Recent content in Brilliant on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/brilliant/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Jun 2009 00:58:22 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/brilliant/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Great tango shorts</title>
@@ -16,22 +19,9 @@
       <pubDate>Thu, 25 Jun 2009 00:58:22 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/06/25/great-tango-shorts/</guid>
-      <description>&lt;p&gt;None of these are exactly new, but Tanghi Argentini just became available on youtube about a week ago, thanks a lot to Janis for &lt;a href=&#34;http://simbatango.com/2009/06/20/nice-film-tangos/#comment-128&#34;&gt;the tip&lt;/a&gt;! Nominated for the Academy Awards 2008 for best live action short:&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/isDtYDmANkI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;And this animated one is not so light hearted, but no less romantic:&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/3PU5Tsx36E0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-</description>
+      <description>None of these are exactly new, but Tanghi Argentini just became available on youtube about a week ago, thanks a lot to Janis for the tip! Nominated for the Academy Awards 2008 for best live action short:
+  And this animated one is not so light hearted, but no less romantic:
+  </description>
     </item>
     
   </channel>

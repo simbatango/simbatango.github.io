@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Urban Dance on Simba Tango</title>
-    <link>http://simbatango.com/tags/urban-dance/index.xml</link>
+    <link>http://simbatango.com/tags/urban-dance/</link>
     <description>Recent content in Urban Dance on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/urban-dance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Feb 2009 20:09:47 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/urban-dance/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Urban dance</title>
@@ -16,17 +19,10 @@
       <pubDate>Tue, 24 Feb 2009 20:09:47 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/02/24/urban-dance/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/lrargerich/2983925297/&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3225/2983925297_ca40b65a23.jpg&#34; alt=&#34;Buenos Aires at Night by lrargerich, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/lrargerich/&#34;&gt; lrargerich&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Tango is and always was a very urban culture. The dance even more so. Sometimes visitors to Buenos Aires that are tango dancers somehow expect everybody they meet to be a dancer, and taxi drivers to know all the milongas by name.&lt;/p&gt;
-
-&lt;p&gt;Not so.&lt;/p&gt;
-
-&lt;p&gt;Even in Buenos Aires, tango dancing is very much a niche activity, and the world of the milongas is very small even in the great city with millions of inhabitants. And creating and sustaining a tango scene in a small town next to the north pole is indeed an uphill battle. It requires a certain amount of crazy people to gather week after week in order to listen to grandparents music. And not even their own grandparents&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;But where the pool of people reaches a critical size, the tango scene takes on a life of itself. Everywhere else, it needs to be kept alive by someone particularly crazy.&lt;/p&gt;
-</description>
+      <description>by lrargerich
+Tango is and always was a very urban culture. The dance even more so. Sometimes visitors to Buenos Aires that are tango dancers somehow expect everybody they meet to be a dancer, and taxi drivers to know all the milongas by name.
+Not so.
+Even in Buenos Aires, tango dancing is very much a niche activity, and the world of the milongas is very small even in the great city with millions of inhabitants.</description>
     </item>
     
   </channel>

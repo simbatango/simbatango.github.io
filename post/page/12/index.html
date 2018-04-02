@@ -1,19 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
-
   <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
   <title>Posts</title>
-  
+  <meta property="og:title" content="Posts" />
+  <meta name="twitter:title" content="Posts" />
   <meta name="author" content="Simba"/>
-  <meta name="generator" content="Hugo 0.19" />
   <link href='http://simbatango.com/img/favicon.ico' rel='icon' type='image/x-icon'/>
+  <meta property="og:image" content="http://simbatango.com/img/simba.png" />
+  <meta name="twitter:image" content="http://simbatango.com/img/simba.png" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@simbatango" />
+  <meta name="twitter:creator" content="@simbatango" />
+  <meta property="og:url" content="http://simbatango.com/post/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Simba Tango" />
 
+  <meta name="generator" content="Hugo 0.37.1" />
+  <link rel="canonical" href="http://simbatango.com/post/" />
   <link rel="alternate" href="http://simbatango.com/index.xml" type="application/rss+xml" title="Simba Tango">
-
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -21,52 +29,61 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
   <link rel="stylesheet" href="http://simbatango.com/css/pygment_highlights.css" />
-  <link rel="stylesheet" href="http://simbatango.com/css/highlight.min.css">
+  <link rel="stylesheet" href="http://simbatango.com/css/highlight.min.css" />
 
-  
-  
- 
-  
-    <meta property="og:title" content="Posts" />
-  
 
-  
-    <meta property="og:description" content="">
-  
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
 
-  <meta property="og:type" content="website" />
 
-  
-    <meta property="og:url" content="http://simbatango.com/post/" />
-    <link rel="canonical" href="http://simbatango.com/post/" />
-  
 
-  
-    <meta property="og:image" content="http://simbatango.com/img/simba.png" />
-  
-  
-  
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@simbatango" />
-  <meta name="twitter:creator" content="@simbatango" />
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
 
-  
-    <meta name="twitter:title" content="Posts" />
-  
+<div class="pswp__bg"></div>
 
-  
-    <meta name="twitter:description" content="">
-  
-
-  
-    <meta name="twitter:image" content="http://simbatango.com/img/simba.png" />
-   
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
 
 </head>
 
-
   <body>
-
     <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -118,6 +135,10 @@
             </li>
           
         
+
+        
+
+        
       </ul>
     </div>
 
@@ -135,220 +156,228 @@
 </nav>
 
 
-    <header class="header-section ">
-      <div class="intro-header no-img">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-              <div class="page-heading">
-                <h2>#Posts</h2>
-              </div>
+
+
+    
+  <header class="header-section ">
+    <div class="intro-header no-img">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="page-heading">
+              <h1>Posts</h1>
+              <hr class="small">
             </div>
           </div>
         </div>
       </div>
-    </header>
+    </div>
+  </header>
 
-    <div class="container" role="main">
-      
-      
-        <article class="post-preview">
-          <a href="http://simbatango.com/2010/02/14/el-turco-jose-brahemcha/">
-            <h2 class="post-title">&#39;El Turco&#39; José Brahemcha</h2>
+    
+  <div class="container" role="main">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        
+        <div class="posts-list">
+          
+            <article class="post-preview">
+              <a href="http://simbatango.com/2010/02/14/el-turco-jose-brahemcha/">
+                <h2 class="post-title">&#39;El Turco&#39; José Brahemcha</h2>
 
-            
-          </a>
+                
+              </a>
 
-          <p class="post-meta">
-            Posted on 2010-02-14
-          </p>
-          <div class="post-entry">
-            
-              I have only one great regret in tango, and that it not taking classes with Gavito. Of course there are others as well, but with Gavito we had the opportunity, we passed, and shame on us for it. Of course, at the time we simply didn&rsquo;t know better.
+              <p class="post-meta">
+                Posted on 2010-02-14
+              </p>
+              <div class="post-entry">
+                
+                  I have only one great regret in tango, and that it not taking classes with Gavito. Of course there are others as well, but with Gavito we had the opportunity, we passed, and shame on us for it. Of course, at the time we simply didn&rsquo;t know better.
 Determined not to make same mistake again, we decided to take our teachers&rsquo; advice and try to get in touch with the legendary &lsquo;El Turco&rsquo; José.
-              <a href="http://simbatango.com/2010/02/14/el-turco-jose-brahemcha/" class="post-read-more">[Read&nbsp;More]</a>
-            
-          </div>
+                  <a href="http://simbatango.com/2010/02/14/el-turco-jose-brahemcha/" class="post-read-more">[Read More]</a>
+                
+              </div>
 
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/el-turco-jose">el-turco-jose</a>&nbsp;
+                  
+                    #<a href="/tags/maestro">maestro</a>&nbsp;
+                  
+                    #<a href="/tags/villa-urquiza">villa-urquiza</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
           
-            <span class="post-meta">
-              
-                #<a href="/tags/el-turco-jose">el turco jose</a>&nbsp;
-              
-                #<a href="/tags/maestro">maestro</a>&nbsp;
-              
-                #<a href="/tags/villa-urquiza">villa urquiza</a>&nbsp;
-              
-            </span>
-          
+            <article class="post-preview">
+              <a href="http://simbatango.com/2010/02/09/audio-myths/">
+                <h2 class="post-title">Audio Myths</h2>
 
-        </article>
-      
-        <article class="post-preview">
-          <a href="http://simbatango.com/2010/02/09/audio-myths/">
-            <h2 class="post-title">Audio Myths</h2>
+                
+              </a>
 
-            
-          </a>
-
-          <p class="post-meta">
-            Posted on 2010-02-09
-          </p>
-          <div class="post-entry">
-            
-              Now, this may be only remotely relevant to tango, but tango music and hence its reproduction is important for dancers and djs in particular, so here it goes. I think the lessons from this video are most relevant when it comes to making decisions about equipment such as sound cards for djing, lossless versus lossy encoding of music and quality of transfers and restorations.
+              <p class="post-meta">
+                Posted on 2010-02-09
+              </p>
+              <div class="post-entry">
+                
+                  Now, this may be only remotely relevant to tango, but tango music and hence its reproduction is important for dancers and djs in particular, so here it goes. I think the lessons from this video are most relevant when it comes to making decisions about equipment such as sound cards for djing, lossless versus lossy encoding of music and quality of transfers and restorations.
 If you hang out at hydrogenaudio, this will all be familiar, but I have to say actually performing an abx was a humbling experience with regards to what I can and can&rsquo;t hear.
-              <a href="http://simbatango.com/2010/02/09/audio-myths/" class="post-read-more">[Read&nbsp;More]</a>
-            
-          </div>
+                  <a href="http://simbatango.com/2010/02/09/audio-myths/" class="post-read-more">[Read More]</a>
+                
+              </div>
 
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/audiophools">audiophools</a>&nbsp;
+                  
+                    #<a href="/tags/dj">dj</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
           
-            <span class="post-meta">
-              
-                #<a href="/tags/audiophools">audiophools</a>&nbsp;
-              
-                #<a href="/tags/dj">DJ</a>&nbsp;
-              
-            </span>
-          
+            <article class="post-preview">
+              <a href="http://simbatango.com/2010/02/01/how-less-becomes-more/">
+                <h2 class="post-title">How less becomes more</h2>
 
-        </article>
-      
-        <article class="post-preview">
-          <a href="http://simbatango.com/2010/02/01/how-less-becomes-more/">
-            <h2 class="post-title">How less becomes more</h2>
+                
+              </a>
 
-            
-          </a>
-
-          <p class="post-meta">
-            Posted on 2010-02-01
-          </p>
-          <div class="post-entry">
-            
-              by hooverine
+              <p class="post-meta">
+                Posted on 2010-02-01
+              </p>
+              <div class="post-entry">
+                
+                  by hooverine
 There was something she said that stayed with me. So well put. &lsquo;When he leads a step, say backwards for the woman&rsquo;, Graciela said, &lsquo;then there is one possibility: going backwards. There are not three possible steps. Not three, not two. One.&rsquo;
 All the time I see so called &lsquo;advanced&rsquo; dancers, throwing their partners around, the women looking like nervous chicken trying to guess the right thing to do for each and every step.
-              <a href="http://simbatango.com/2010/02/01/how-less-becomes-more/" class="post-read-more">[Read&nbsp;More]</a>
-            
-          </div>
+                  <a href="http://simbatango.com/2010/02/01/how-less-becomes-more/" class="post-read-more">[Read More]</a>
+                
+              </div>
 
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/less-is-more">less-is-more</a>&nbsp;
+                  
+                    #<a href="/tags/magic">magic</a>&nbsp;
+                  
+                    #<a href="/tags/rant">rant</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
           
-            <span class="post-meta">
-              
-                #<a href="/tags/less-is-more">less is more</a>&nbsp;
-              
-                #<a href="/tags/magic">magic</a>&nbsp;
-              
-                #<a href="/tags/rant">rant</a>&nbsp;
-              
-            </span>
-          
+            <article class="post-preview">
+              <a href="http://simbatango.com/2010/01/22/what-does-it-mean-to-dance-with-good-musicality/">
+                <h2 class="post-title">What does it mean to dance with &#39;good musicality&#39;?</h2>
 
-        </article>
-      
-        <article class="post-preview">
-          <a href="http://simbatango.com/2010/01/22/what-does-it-mean-to-dance-with-good-musicality/">
-            <h2 class="post-title">What does it mean to dance with &#39;good musicality&#39;?</h2>
+                
+              </a>
 
-            
-          </a>
-
-          <p class="post-meta">
-            Posted on 2010-01-22
-          </p>
-          <div class="post-entry">
-            
-              by mhowry
+              <p class="post-meta">
+                Posted on 2010-01-22
+              </p>
+              <div class="post-entry">
+                
+                  by mhowry
 Tango dancers often discuss the importance of dancing to the music, having &lsquo;good musicality&rsquo; etc. But what exactly does it mean to dance musically? I tried noting some possibilities, and since some are very basic, while other are more advanced (and should be used sparingly).
 I tried to classify them within the usual trichotomy of beginner/intermediate/advanced, thinking that you have to know the very basics, and you should master basically everything in the intermediate before venturing out into the advanced concepts.
-              <a href="http://simbatango.com/2010/01/22/what-does-it-mean-to-dance-with-good-musicality/" class="post-read-more">[Read&nbsp;More]</a>
-            
-          </div>
+                  <a href="http://simbatango.com/2010/01/22/what-does-it-mean-to-dance-with-good-musicality/" class="post-read-more">[Read More]</a>
+                
+              </div>
 
-          
-            <span class="post-meta">
               
-                #<a href="/tags/musicality">Musicality</a>&nbsp;
+                <span class="post-meta">
+                  
+                    #<a href="/tags/musicality">musicality</a>&nbsp;
+                  
+                </span>
               
-            </span>
+
+            </article>
           
+            <article class="post-preview">
+              <a href="http://simbatango.com/2010/01/17/tango/">
+                <h2 class="post-title">Tango™</h2>
 
-        </article>
-      
-        <article class="post-preview">
-          <a href="http://simbatango.com/2010/01/17/tango%E2%84%A2/">
-            <h2 class="post-title">Tango™</h2>
+                
+              </a>
 
-            
-          </a>
-
-          <p class="post-meta">
-            Posted on 2010-01-17
-          </p>
-          <div class="post-entry">
-            
-              by ehfisher
+              <p class="post-meta">
+                Posted on 2010-01-17
+              </p>
+              <div class="post-entry">
+                
+                  by ehfisher
    ## (...)[L]ife's most vital meeting (...)   (...)[I]nspired by the meeting of male and female: man and woman. The feminine in the masculine subconscious (Anima) and the masculine in the female subconscious (Animus), and the complementary in the two archetypal sides. Tango (...) exudes passion, pride, love and attraction (...) Take pleasure in the dance (...) Not about a class or show, but about salt and pepper mills.
-              <a href="http://simbatango.com/2010/01/17/tango%E2%84%A2/" class="post-read-more">[Read&nbsp;More]</a>
-            
-          </div>
+                  <a href="http://simbatango.com/2010/01/17/tango/" class="post-read-more">[Read More]</a>
+                
+              </div>
 
-          
-            <span class="post-meta">
               
-                #<a href="/tags/tango-sells">tango sells</a>&nbsp;
+                <span class="post-meta">
+                  
+                    #<a href="/tags/tango-sells">tango-sells</a>&nbsp;
+                  
+                </span>
               
-            </span>
+
+            </article>
           
+            <article class="post-preview">
+              <a href="http://simbatango.com/2010/01/13/tempting/">
+                <h2 class="post-title">Tempting...</h2>
 
-        </article>
-      
-        <article class="post-preview">
-          <a href="http://simbatango.com/2010/01/13/tempting/">
-            <h2 class="post-title">Tempting...</h2>
+                
+              </a>
 
-            
-          </a>
-
-          <p class="post-meta">
-            Posted on 2010-01-13
-          </p>
-          <div class="post-entry">
-            
-              by Leo T.
+              <p class="post-meta">
+                Posted on 2010-01-13
+              </p>
+              <div class="post-entry">
+                
+                  by Leo T.
 First day at work. First day in my old office for over nine months. On my desk is a roll of paper. I chat with the guy I&rsquo;m sharing office with, and he tells me that my colleague in the office next door left it for me. Said colleague must have heard us talking, and enters the office. &ndash;The organizer gave it to me, and I brought it back for you.
-              <a href="http://simbatango.com/2010/01/13/tempting/" class="post-read-more">[Read&nbsp;More]</a>
-            
-          </div>
+                  <a href="http://simbatango.com/2010/01/13/tempting/" class="post-read-more">[Read More]</a>
+                
+              </div>
 
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/conference">conference</a>&nbsp;
+                  
+                    #<a href="/tags/work">work</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
           
-            <span class="post-meta">
-              
-                #<a href="/tags/conference">conference</a>&nbsp;
-              
-                #<a href="/tags/work">work</a>&nbsp;
-              
-            </span>
-          
+            <article class="post-preview">
+              <a href="http://simbatango.com/2010/01/10/tristeza/">
+                <h2 class="post-title">Tristeza</h2>
 
-        </article>
-      
-        <article class="post-preview">
-          <a href="http://simbatango.com/2010/01/10/tristeza/">
-            <h2 class="post-title">Tristeza</h2>
+                
+              </a>
 
-            
-          </a>
-
-          <p class="post-meta">
-            Posted on 2010-01-10
-          </p>
-          <div class="post-entry">
-            
-              
+              <p class="post-meta">
+                Posted on 2010-01-10
+              </p>
+              <div class="post-entry">
+                
+                  
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
-  <iframe src="//www.youtube.com/embed/W1eZIq-MZLs" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0"></iframe>
+  <iframe src="//www.youtube.com/embed/W1eZIq-MZLs" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
  </div>
 
 
@@ -358,32 +387,32 @@ First day at work. First day in my old office for over nine months. On my desk i
 
 <p>Video tip by <a href="http://tangopilgrim.com/2010/01/the-loss-of-a-tango-legend-osvaldo-zotto/">TP</a></p>
 
-            
-          </div>
+                
+              </div>
 
-          
-            <span class="post-meta">
               
-                #<a href="/tags/osvaldo-zotto">osvaldo zotto</a>&nbsp;
+                <span class="post-meta">
+                  
+                    #<a href="/tags/osvaldo-zotto">osvaldo-zotto</a>&nbsp;
+                  
+                </span>
               
-            </span>
+
+            </article>
           
+            <article class="post-preview">
+              <a href="http://simbatango.com/2010/01/04/p-h-shoes/">
+                <h2 class="post-title">P.H. Shoes</h2>
 
-        </article>
-      
-        <article class="post-preview">
-          <a href="http://simbatango.com/2010/01/04/p-h-shoes/">
-            <h2 class="post-title">P.H. Shoes</h2>
+                
+              </a>
 
-            
-          </a>
-
-          <p class="post-meta">
-            Posted on 2010-01-04
-          </p>
-          <div class="post-entry">
-            
-              <p><a href="http://simbatango.com/blog/wp-content/uploads/2009/12/p.h..jpg"><img src="http://simbatango.com/blog/wp-content/uploads/2009/12/p.h..jpg" alt="" /></a>I got the shoe factory P.H. recommended from several reliable sources, unfortunately I got the directions a little late, so we&rsquo;ll see if I make it in time. Anyway, as a reference for next visit, here it is:</p>
+              <p class="post-meta">
+                Posted on 2010-01-04
+              </p>
+              <div class="post-entry">
+                
+                  <p><a href="http://simbatango.com/blog/wp-content/uploads/2009/12/p.h..jpg"><img src="http://simbatango.com/blog/wp-content/uploads/2009/12/p.h..jpg" alt="" /></a>I got the shoe factory P.H. recommended from several reliable sources, unfortunately I got the directions a little late, so we&rsquo;ll see if I make it in time. Anyway, as a reference for next visit, here it is:</p>
 
 <p>Grito de Asencio 3602, Pompeya - Buenos Aires</p>
 
@@ -393,83 +422,100 @@ First day at work. First day in my old office for over nine months. On my desk i
 
 <p>[xmlgm {<a href="http://maps.google.com/maps/ms?vps=2&amp;jsv=196c&amp;ie=UTF8&amp;msa=0&amp;output=nl&amp;msid=112630563826716696064.00047bcc8224b458afdf1">http://maps.google.com/maps/ms?vps=2&amp;jsv=196c&amp;ie=UTF8&amp;msa=0&amp;output=nl&amp;msid=112630563826716696064.00047bcc8224b458afdf1</a>} width=500;height=400}]</p>
 
-            
-          </div>
+                
+              </div>
 
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/shoes">shoes</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
           
-            <span class="post-meta">
+            <article class="post-preview">
+              <a href="http://simbatango.com/2010/01/03/quality-of-cta-bootlegs/">
+                <h2 class="post-title">Quality of CTA bootlegs</h2>
+
+                
+              </a>
+
+              <p class="post-meta">
+                Posted on 2010-01-03
+              </p>
+              <div class="post-entry">
+                
+                  Usually, I don&rsquo;t buy bootlegs, but when it comes to tango music, there is some material that is not available from the commercial releases like Reliquias, Tango Argentino etc. I always concentrated on the commercial releases, but now that I have most of the interesting material from these releases, I have moved on the the more exotic releases, like the Club Tango Argentino by Akihito Baba. They are unfortunately hard to get by, and several are out of print.
+                  <a href="http://simbatango.com/2010/01/03/quality-of-cta-bootlegs/" class="post-read-more">[Read More]</a>
+                
+              </div>
+
               
-                #<a href="/tags/shoes">shoes</a>&nbsp;
+                <span class="post-meta">
+                  
+                    #<a href="/tags/bootlegs">bootlegs</a>&nbsp;
+                  
+                    #<a href="/tags/club-tango-argentino">club-tango-argentino</a>&nbsp;
+                  
+                    #<a href="/tags/cta">cta</a>&nbsp;
+                  
+                </span>
               
-            </span>
+
+            </article>
           
+            <article class="post-preview">
+              <a href="http://simbatango.com/2010/01/03/buenos-aires-tango-murales/">
+                <h2 class="post-title">Buenos Aires (tango) murales</h2>
 
-        </article>
-      
-        <article class="post-preview">
-          <a href="http://simbatango.com/2010/01/03/quality-of-cta-bootlegs/">
-            <h2 class="post-title">Quality of CTA bootlegs</h2>
+                
+              </a>
 
-            
-          </a>
-
-          <p class="post-meta">
-            Posted on 2010-01-03
-          </p>
-          <div class="post-entry">
-            
-              Usually, I don&rsquo;t buy bootlegs, but when it comes to tango music, there is some material that is not available from the commercial releases like Reliquias, Tango Argentino etc. I always concentrated on the commercial releases, but now that I have most of the interesting material from these releases, I have moved on the the more exotic releases, like the Club Tango Argentino by Akihito Baba. They are unfortunately hard to get by, and several are out of print.
-              <a href="http://simbatango.com/2010/01/03/quality-of-cta-bootlegs/" class="post-read-more">[Read&nbsp;More]</a>
-            
-          </div>
-
-          
-            <span class="post-meta">
-              
-                #<a href="/tags/bootlegs">bootlegs</a>&nbsp;
-              
-                #<a href="/tags/club-tango-argentino">club tango argentino</a>&nbsp;
-              
-                #<a href="/tags/cta">cta</a>&nbsp;
-              
-            </span>
-          
-
-        </article>
-      
-        <article class="post-preview">
-          <a href="http://simbatango.com/2010/01/03/buenos-aires-tango-murales/">
-            <h2 class="post-title">Buenos Aires (tango) murales</h2>
-
-            
-          </a>
-
-          <p class="post-meta">
-            Posted on 2010-01-03
-          </p>
-          <div class="post-entry">
-            
-              by Simba tango
+              <p class="post-meta">
+                Posted on 2010-01-03
+              </p>
+              <div class="post-entry">
+                
+                  by Simba tango
 Several places in Buenos Aires, you will find paintings covering an entire wall, called &lsquo;murales&rsquo;. They have a long history in Buenos Aires, the oldest were painted for the churches of the city in the 1700s and 1800s. In the beginning of the 20th century, they were often used to portray fight against oppression, think Picasso&rsquo;s Guernica. Less political, but as Buenos Aires is the home of tango, there are of course several paintings featuring tango music and dance.
-              <a href="http://simbatango.com/2010/01/03/buenos-aires-tango-murales/" class="post-read-more">[Read&nbsp;More]</a>
+                  <a href="http://simbatango.com/2010/01/03/buenos-aires-tango-murales/" class="post-read-more">[Read More]</a>
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/art">art</a>&nbsp;
+                  
+                    #<a href="/tags/murales">murales</a>&nbsp;
+                  
+                    #<a href="/tags/paintings">paintings</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+        </div>
+        
+          <ul class="pager main-pager">
             
-          </div>
-
-          
-            <span class="post-meta">
-              
-                #<a href="/tags/art">Art</a>&nbsp;
-              
-                #<a href="/tags/murales">murales</a>&nbsp;
-              
-                #<a href="/tags/paintings">paintings</a>&nbsp;
-              
-            </span>
-          
-
-        </article>
-      
+              <li class="previous">
+                <a href="/post/page/11">&larr; Newer Posts</a>
+              </li>
+            
+            
+              <li class="next">
+                <a href="/post/page/13">Older Posts &rarr;</a>
+              </li>
+            
+          </ul>
+        
+      </div>
     </div>
+  </div>
 
     <footer>
   <div class="container">
@@ -477,57 +523,38 @@ Several places in Buenos Aires, you will find paintings covering an entire wall,
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <ul class="list-inline text-center footer-links">
           
-          <li>
-            <a href="mailto:simbatango@gmail.com" title="Email me">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          
-          
-          <li>
-            <a href="https://www.facebook.com/Simba-tango-104489154140/" title="Facebook">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          
-          
-          
-          
-          <li>
-            <a href="https://twitter.com/simbatango" title="Twitter">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          
-          
-          
-          
-          
-          
-          
-          
-          <li>
-            <a href="https://www.youtube.com/user/qmulus" title="Youtube">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          
-          
-          
-          
-          
+              <li>
+                <a href="mailto:simbatango@gmail.com" title="Email me">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/Simba-tango-104489154140/" title="Facebook">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://twitter.com/simbatango" title="Twitter">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/user/qmulus" title="Youtube">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
           
           <li>
             <a href="http://simbatango.com/index.xml" title="RSS">
@@ -551,7 +578,7 @@ Several places in Buenos Aires, you will find paintings covering an entire wall,
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="http://gohugo.io">Hugo v0.19</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          <a href="http://gohugo.io">Hugo v0.37.1</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
           
         </p>
       </div>
@@ -567,9 +594,12 @@ Several places in Buenos Aires, you will find paintings covering an entire wall,
 <script src="http://simbatango.com/js/highlight.min.js"></script>
 <script> hljs.initHighlightingOnLoad(); </script>
 <script> renderMathInElement(document.body); </script>
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+<script src="/js/load-photoswipe.js"></script>
 
 
 
   </body>
 </html>
+

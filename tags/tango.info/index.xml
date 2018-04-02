@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tango.Info on Simba Tango</title>
-    <link>http://simbatango.com/tags/tango.info/index.xml</link>
-    <description>Recent content in Tango.Info on Simba Tango</description>
+    <title>Tango.info on Simba Tango</title>
+    <link>http://simbatango.com/tags/tango.info/</link>
+    <description>Recent content in Tango.info on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/tango.info/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jul 2010 17:09:30 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/tango.info/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Updated MusicBrainz Picard Plugins for tango.info</title>
@@ -16,13 +19,9 @@
       <pubDate>Fri, 23 Jul 2010 17:09:30 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2010/07/23/updated-musicbrainz-picard-plugins-for-tango-info/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/42311564@N00/2355590274/&#34;&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2177/2355590274_a8fea439dd.jpg&#34; alt=&#34;Green Tree Python by Sebastian Niedlich (Grabthar), on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/42311564@N00/&#34;&gt; Sebastian Niedlich (Grabthar)&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I had a couple of requests for the plugins for &lt;a href=&#34;http://musicbrainz.org/doc/MusicBrainz_Picard&#34;&gt;MusicBrainz Picard&lt;/a&gt; in the last months. I haven&amp;rsquo;t used them much myself, as there sadly are few contributers on tango music to the &lt;a href=&#34;http://musicbrainz.org/&#34;&gt;MusicBrainz metadata database&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;However, I just checked whether they worked with the current format of &lt;a href=&#34;http://open.tango.info/tracks.csv&#34;&gt;tracks.csv from tango.info&lt;/a&gt; and the newest release of Picard (0.12.1). With one minor adjustment, they now do, and I uploaded the new versions to be found on the&lt;a href=&#34;http://simbatango.com/tangodj/tagging-with-musicbrainz-picard/&#34;&gt; tagging with MusicBrainz Picard page&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>by Sebastian Niedlich (Grabthar)
+I had a couple of requests for the plugins for MusicBrainz Picard in the last months. I haven&amp;rsquo;t used them much myself, as there sadly are few contributers on tango music to the MusicBrainz metadata database.
+However, I just checked whether they worked with the current format of tracks.csv from tango.info and the newest release of Picard (0.12.1). With one minor adjustment, they now do, and I uploaded the new versions to be found on thetagging with MusicBrainz Picard page.</description>
     </item>
     
     <item>
@@ -31,26 +30,8 @@
       <pubDate>Sat, 17 Oct 2009 03:28:44 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/10/17/the-golden-age-visualized/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/10/golden.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/10/golden.png&#34; alt=&#34;golden&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;When was the Golden Age of tango, exactly? It is fairly common to say 1935-1955 mas o menos, but while I was playing around with the data at &lt;a href=&#34;http://eng.tango.info/&#34;&gt;tango.info&lt;/a&gt;, I thought it would be fun to make a plot to **&lt;em&gt;see&lt;/em&gt; when the Golden Age was. And here it is. **&lt;/p&gt;
-
-&lt;p&gt;These are the number of unique recordings in the database, so if a recording is issued on several cds, it is only counted once. I only used data with a positive genre identification and positive year, not necessarily month or exact date, so there may still be some small errors, but it should be fine, I think. This gave about 12k data points, which if the number of 100k tango records in total is correct, gives us a sample of about 12%.&lt;/p&gt;
-
-&lt;p&gt;I was a bit surprised that the Guardia Vieja had such a large number of recordings, as I suspected the data, if skewed, would over represent the golden age. It is quite telling, that the interest for tango seems to fade away at the end of the Old Guard, then suddenly comes back in the early 1930s with a new spike in the 1940s. The interest is certainly vaning again by the end of the 1950s, so I&amp;rsquo;d say the usual definition is a good rule of thumb.&lt;/p&gt;
-
-&lt;p&gt;It is also interesting to see that the number of recordings of valses and milongas is so small compared with tango. And that the valses start coming earlier than the milongas, which had a comeback in the tango world in the early 1930s.&lt;/p&gt;
-
-&lt;p&gt;The data quality is steadily getting better at &lt;a href=&#34;http://eng.tango.info/&#34;&gt;tango.info&lt;/a&gt;, so I should revisit this in a couple of years, or if someone knows about a better source, I&amp;rsquo;d be happy to know. If you  have time to investigate discographies for an album where some information (e.g. dates) is missing, I know Tobias is very happy to receive contributions.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Coming up are plots by orchestra, they become very messy when mixing too many, so three or four at the time seems to be the sweet spot. Any wishes for artist combinations you&amp;rsquo;d like to see?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/10/canaro-darienzo-disarli1.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/10/canaro-darienzo-disarli1.png&#34; alt=&#34;canaro-darienzo-disarli&#34; /&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Here is one example, Canaro, D&amp;rsquo;Arienzo and Di Sarli. I knew Canaro was very productive, but wow, over 70 recordings in one year!&lt;/p&gt;
-
-&lt;p&gt;The raw data are available at &lt;a href=&#34;http://open.tango.info/&#34;&gt;open.tango.info&lt;/a&gt;. I thought it would be a nice subtle tango reference in my work environment to have a &lt;a href=&#34;http://www.cafepress.com/Simbatango.412483555&#34;&gt;coffee mug with this graph&lt;/a&gt;. Now you can have one, too ;-)&lt;/p&gt;
-</description>
+      <description>Golden Age of Tango When was the Golden Age of tango, exactly? It is fairly common to say 1935-1955 mas o menos, but while I was playing around with the data at tango.info, I thought it would be fun to make a plot to **see when the Golden Age was. And here it is. **
+These are the number of unique recordings in the database, so if a recording is issued on several cds, it is only counted once.</description>
     </item>
     
   </channel>

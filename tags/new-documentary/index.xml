@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New Documentary on Simba Tango</title>
-    <link>http://simbatango.com/tags/new-documentary/index.xml</link>
+    <link>http://simbatango.com/tags/new-documentary/</link>
     <description>Recent content in New Documentary on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/new-documentary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Nov 2008 11:24:21 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/new-documentary/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>12 tangos</title>
@@ -16,12 +19,9 @@
       <pubDate>Sat, 01 Nov 2008 11:24:21 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2008/11/01/12-tangos/</guid>
-      <description>&lt;p&gt;Just &lt;a href=&#34;http://12tangos.com/&#34;&gt;ordered the new documentary 12 tangos&lt;/a&gt;. Will be very interesting to see, it also claims to be a Buena Vista Tango Club, so a shootout between 12 tangos and Cafe de los maestros. 12 tangos has a great advantage in being actually available.&lt;/p&gt;
-
-&lt;p&gt;I will get back to it later, in the meantime, the trailer:&lt;/p&gt;
-
-&lt;p&gt;[youtube]&lt;a href=&#34;http://uk.youtube.com/watch?v=mrFklWP6dQY&amp;amp;feature=related[/youtube&#34;&gt;http://uk.youtube.com/watch?v=mrFklWP6dQY&amp;amp;feature=related[/youtube&lt;/a&gt;]&lt;/p&gt;
-</description>
+      <description>Just ordered the new documentary 12 tangos. Will be very interesting to see, it also claims to be a Buena Vista Tango Club, so a shootout between 12 tangos and Cafe de los maestros. 12 tangos has a great advantage in being actually available.
+I will get back to it later, in the meantime, the trailer:
+[youtube]http://uk.youtube.com/watch?v=mrFklWP6dQY&amp;amp;feature=related[/youtube]</description>
     </item>
     
   </channel>

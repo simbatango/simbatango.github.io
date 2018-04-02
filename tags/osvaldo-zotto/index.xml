@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Osvaldo Zotto on Simba Tango</title>
-    <link>http://simbatango.com/tags/osvaldo-zotto/index.xml</link>
+    <link>http://simbatango.com/tags/osvaldo-zotto/</link>
     <description>Recent content in Osvaldo Zotto on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/osvaldo-zotto/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jan 2010 22:45:15 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/osvaldo-zotto/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Tristeza</title>
@@ -16,18 +19,9 @@
       <pubDate>Sun, 10 Jan 2010 22:45:15 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2010/01/10/tristeza/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/W1eZIq-MZLs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;It is all too much. It is so frikkin&amp;rsquo; cold, reality slaps us in the face, and then this. The loss of a brilliant dancer, so young. How sad for a mother to outlive her son. Too much.&lt;/p&gt;
-
-&lt;p&gt;Que en paz descanse. We will miss you.&lt;/p&gt;
-
-&lt;p&gt;Video tip by &lt;a href=&#34;http://tangopilgrim.com/2010/01/the-loss-of-a-tango-legend-osvaldo-zotto/&#34;&gt;TP&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>It is all too much. It is so frikkin&amp;rsquo; cold, reality slaps us in the face, and then this. The loss of a brilliant dancer, so young. How sad for a mother to outlive her son. Too much.
+Que en paz descanse. We will miss you.
+Video tip by TP</description>
     </item>
     
   </channel>

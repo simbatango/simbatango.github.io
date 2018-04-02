@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luna De Avellaneda on Simba Tango</title>
-    <link>http://simbatango.com/tags/luna-de-avellaneda/index.xml</link>
+    <link>http://simbatango.com/tags/luna-de-avellaneda/</link>
     <description>Recent content in Luna De Avellaneda on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/luna-de-avellaneda/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 May 2009 13:05:08 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/luna-de-avellaneda/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Luna de Avellaneda</title>
@@ -16,20 +19,8 @@
       <pubDate>Sun, 03 May 2009 13:05:08 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/05/03/luna-de-avellaneda/</guid>
-      <description>&lt;p&gt;[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;460&amp;rdquo; caption=&amp;ldquo;&amp;ldquo;Castillo&amp;rdquo; singing at club &amp;ldquo;Luna de Avellaneda&amp;rdquo;&amp;ldquo;]&lt;img src=&#34;http://image.guardian.co.uk/sys-images/Film/Pix/pictures/2007/03/07/LunaDeAvellaneda460.jpg&#34; alt=&#34;Castillo singing at club Luna de Avellaneda&#34; /&gt;[/caption]&lt;/p&gt;
-
-&lt;p&gt;Speaking of &lt;a href=&#34;http://simbatango.com/2009/04/19/tango-film-club/&#34;&gt;tango films&lt;/a&gt;, there are several films where tango is not a main theme, but with some interesting tango scenes. The film &lt;a href=&#34;http://www.imdb.com/title/tt0347449/&#34;&gt;Luna de Avellaneda&lt;/a&gt; is quite nice, and stands out in that respect. For tango lovers, the opening scene is not to be missed, as it reconstructs the grand party of a community milonga in the golden age of tango. With music, dancing and &amp;ndash; well it looks like one h*** of a party!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://simbatango.com/2008/10/09/old-tango-hero/&#34;&gt;Alberto Castillo&lt;/a&gt; is singing at the club the night the main character of the movie is born, and the place of the dance hall reminded me a lot of Sunderland in Villa Urquiza. I often wonder what it was like, going out dancing in Buenos Aires in the 40s, and this scene attempts to show us how it was. With a little extra drama thrown in for effect of course..&lt;/p&gt;
-
-&lt;p&gt;The main theme of the film is how the community and its members struggle during the economic crisis after &lt;sup&gt;2001&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2002&lt;/sub&gt;, somehow using the club as a metaphor for the Argentinian community at large. The film may add some perspective both to the economic conditions in Argentina, and to the perpetual struggle to build and maintain a community in spite of forces working against it.&lt;/p&gt;
-
-&lt;p&gt;While I enjoyed the rest of the film as well, the opening scene is what I will always remember. It is brilliant. The great singers and orchestras were clearly stars, and here it really shows.&lt;/p&gt;
-
-&lt;p&gt;The enjoyment of the rest of the film was reduced on my part because I didn&amp;rsquo;t pay attention when I ordered the dvd, and got one without subtitles, and the subtitles I was able to find on the web were not synchronized. But that was all my fault, not a fault of the film itself.&lt;/p&gt;
-
-&lt;p&gt;It is amusing to see how many of the argentine films I&amp;rsquo;ve seen that star &lt;a href=&#34;http://www.imdb.com/name/nm0201857/&#34;&gt;Ricardo Darín&lt;/a&gt;. He is a good actor, and must be all over the place. If you would like to watch some other Argentine films (not related to tango), I can wholeheartedly recommend &lt;a href=&#34;http://www.imdb.com/title/tt0247586/&#34;&gt;Nueve reinas&lt;/a&gt; and &lt;a href=&#34;http://www.imdb.com/title/tt0420509/&#34;&gt;El aura&lt;/a&gt;. Luna de Avellaneda is part of a trilogy, and I will try to find an opportunity to see the other two at some point as well, &lt;a href=&#34;http://www.imdb.com/title/tt0292542/&#34;&gt;Hijo de la novia&lt;/a&gt; and &lt;a href=&#34;http://www.imdb.com/title/tt0210843/&#34;&gt;El mismo amor, la misma lluvia&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>[caption id=&amp;ldquo;&amp;rdquo; align=&amp;ldquo;alignnone&amp;rdquo; width=&amp;ldquo;460&amp;rdquo; caption=&amp;ldquo;&amp;ldquo;Castillo&amp;rdquo; singing at club &amp;ldquo;Luna de Avellaneda&amp;rdquo;&amp;ldquo;][/caption]
+Speaking of tango films, there are several films where tango is not a main theme, but with some interesting tango scenes. The film Luna de Avellaneda is quite nice, and stands out in that respect. For tango lovers, the opening scene is not to be missed, as it reconstructs the grand party of a community milonga in the golden age of tango.</description>
     </item>
     
   </channel>

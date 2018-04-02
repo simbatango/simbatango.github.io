@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Boleos on Simba Tango</title>
-    <link>http://simbatango.com/tags/boleos/index.xml</link>
+    <link>http://simbatango.com/tags/boleos/</link>
     <description>Recent content in Boleos on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/boleos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Dec 2008 21:34:38 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/boleos/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Boleos helados</title>
@@ -16,15 +19,9 @@
       <pubDate>Mon, 15 Dec 2008 21:34:38 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2008/12/15/boleos-helados/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/hettiemcfarlane/225531507/&#34;&gt;&lt;img src=&#34;http://farm1.static.flickr.com/79/225531507_fb9f3664ee.jpg&#34; alt=&#34;icecream cow, Budapest, Hungary by Hettie McFarlane, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-nd/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/hettiemcfarlane/&#34;&gt; Hettie McFarlane&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.limericktango.com/blog/&#34;&gt;Limerick&lt;/a&gt;&amp;rsquo;s post on &lt;a href=&#34;http://www.limericktango.com/2008/11/boleos/&#34;&gt;boleos&lt;/a&gt; made me think of the concept of boleos helados, or frozen boleos. I went to a workshop with Chicho and Lucía a couple of years back, and while the frozen boleos were sort of fun, it ruins your boleo technique if you shape your boleos that way. Methinks.&lt;/p&gt;
-
-&lt;p&gt;The intrigueing thing about boleos is their free flowing unmanaged quality. Or as Limerick says:&lt;/p&gt;
-
-&lt;blockquote&gt;You don’t do boleos, boleos happen.&lt;/blockquote&gt;
-</description>
+      <description>by Hettie McFarlane
+Limerick&amp;rsquo;s post on boleos made me think of the concept of boleos helados, or frozen boleos. I went to a workshop with Chicho and Lucía a couple of years back, and while the frozen boleos were sort of fun, it ruins your boleo technique if you shape your boleos that way. Methinks.
+The intrigueing thing about boleos is their free flowing unmanaged quality. Or as Limerick says:</description>
     </item>
     
   </channel>

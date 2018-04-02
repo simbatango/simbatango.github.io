@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shellac on Simba Tango</title>
-    <link>http://simbatango.com/tags/shellac/index.xml</link>
+    <link>http://simbatango.com/tags/shellac/</link>
     <description>Recent content in Shellac on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/shellac/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 May 2013 04:34:58 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/shellac/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Tango Tunes Website Up</title>
@@ -16,22 +19,9 @@
       <pubDate>Wed, 08 May 2013 04:34:58 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2013/05/08/tango-tunes-website-up/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2013/05/TangoTunes-website.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2013/05/TangoTunes-website.png&#34; alt=&#34;TangoTunes-website&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The long awaited &lt;a href=&#34;http://www.tangotunes.com&#34;&gt;TangoTunes project website is now online&lt;/a&gt; and accepting purchases. I&amp;rsquo;ll start by checking out the few Troilo recordings they have available at the moment. The purchase went through very smoothly.&lt;/p&gt;
-
-&lt;p&gt;This is how they present themselves:&lt;/p&gt;
-
-&lt;blockquote&gt;TangoTunes is an Austrian-Argentine project with the aim to preserve the music of Tango Argentino. This way, we also preserve and support a piece of Argentine culture, which was declared World Heritage several years ago.
-
-In cooperation with TangoVia Buenos Aires we promote the project &#34;Tango Digital Archive&#34; with the goal to archive the recordings and documents of Tango Argentino in their entirety.
-
-TangoTunes purchases selected collections of vinyl and shellac records from collectors in Argentina and digitizes them in a highly difficult process. Since the beginning of 2013, approximately 1.000 vinyl records and 5.000 shellac records are successively being digitized with precision and care. We offer these Tango recordings – our „tunes“ – to Tango lovers in our online store. Our product catalog is constantly expanding – it pays off to have a look more frequently!
-
-Founded in 2013, TangoTunes is a young company located in Vienna, Austria and a branch in Buenos Aires, Argentina. We spend much time and care to restore the music of Tango Argentino as close to the original as possible. This not only requires much know-how and experience, but also great appreciation for the original and tenacious work for an ideal final result.&lt;/blockquote&gt;
-
-&lt;p&gt;Enjoy!&lt;/p&gt;
-</description>
+      <description>The long awaited TangoTunes project website is now online and accepting purchases. I&amp;rsquo;ll start by checking out the few Troilo recordings they have available at the moment. The purchase went through very smoothly.
+This is how they present themselves:
+TangoTunes is an Austrian-Argentine project with the aim to preserve the music of Tango Argentino. This way, we also preserve and support a piece of Argentine culture, which was declared World Heritage several years ago.</description>
     </item>
     
   </channel>

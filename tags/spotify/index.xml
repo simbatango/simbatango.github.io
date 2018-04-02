@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spotify on Simba Tango</title>
-    <link>http://simbatango.com/tags/spotify/index.xml</link>
+    <link>http://simbatango.com/tags/spotify/</link>
     <description>Recent content in Spotify on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/spotify/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Dec 2011 18:58:13 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/spotify/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>More De Caro</title>
@@ -16,40 +19,10 @@
       <pubDate>Wed, 07 Dec 2011 18:58:13 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2011/12/07/more-de-caro/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2011/12/de-caro-spotify.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2011/12/de-caro-spotify.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Danza y Movimiento have released another&lt;a href=&#34;http://simbatango.com/2011/05/07/dym-online-tango-classics/&#34;&gt; batch of De Caro collections&lt;/a&gt;. In addition to the places they were available &lt;a href=&#34;http://simbatango.com/2011/02/15/rare-tango-tracks-available-in-dyms-tango-classics-series/&#34;&gt;the last time&lt;/a&gt;, they are also available on Spotify (links below).&lt;/p&gt;
-
-&lt;p&gt;I haven&amp;rsquo;t had time to listen carefully yet, but the few I have listened to seem to be transferred at the correct speed (&lt;a href=&#34;http://simbatango.com/2011/06/15/too-fast-transfers/&#34;&gt;unlike some of the older ones&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;Just in time for the upcoming &lt;a href=&#34;http://simbatango.com/2010/12/11/%C2%A1feliz-dia-del-tango/&#34;&gt;día del tango&lt;/a&gt;. Enjoy:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://open.spotify.com/album/0Z6Uoff1mj9Idy3SNPYeDK&#34;&gt;Mocosita&lt;/a&gt; (#153)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://open.spotify.com/album/1WX89fKM9N5IoPOjux6Tw5&#34;&gt;Mala pata&lt;/a&gt; (#154)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://open.spotify.com/album/14Yktl22n8UC0cTCDXABqy&#34;&gt;Aquel&lt;/a&gt; (#155)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://open.spotify.com/album/1IH0a7MrQaQLsALeK6c75a&#34;&gt;Milonga gris&lt;/a&gt; (#156)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://open.spotify.com/album/29QSD5JqHWkORyQ9RVc4WG&#34;&gt;Esta noche&lt;/a&gt; (#157)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://open.spotify.com/album/2IqmZnkel4NQ66nBAGoKMa&#34;&gt;Fuego&lt;/a&gt; (#158)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://open.spotify.com/album/6Xq7g0Hso9Q60vKGjzCqQe&#34;&gt;Catamarca&lt;/a&gt; (#159)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://open.spotify.com/album/19ROjxqUoduoBGrrxRZVXz&#34;&gt;El candombe&lt;/a&gt; (#160)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://open.spotify.com/album/60L0vzgJBZ7NhYS1En4WQF&#34;&gt;Beatriz&lt;/a&gt; (#161)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://open.spotify.com/album/5yjya2g62biDavHYYHIHfI&#34;&gt;Copacabana&lt;/a&gt; (#162)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://open.spotify.com/album/42cFPz00q20a5bGfW0ccdP&#34;&gt;Esmeralda&lt;/a&gt; (#163)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://open.spotify.com/album/3SVKO7BT2jHH7HQHSv1lYK&#34;&gt;Mosca brava&lt;/a&gt; (#164)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Danza y Movimiento have released anotherbatch of De Caro collections. In addition to the places they were available the last time, they are also available on Spotify (links below).
+I haven&amp;rsquo;t had time to listen carefully yet, but the few I have listened to seem to be transferred at the correct speed (unlike some of the older ones).
+Just in time for the upcoming día del tango. Enjoy:
+ Mocosita (#153)</description>
     </item>
     
     <item>
@@ -58,18 +31,9 @@
       <pubDate>Thu, 14 Jul 2011 15:49:25 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2011/07/14/spotify-available-in-the-us-tango-classics/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/CvYX_P_c__8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;US readers might be interested that widely acclaimed music service &lt;a href=&#34;http://www.spotify.com/us/hello-america/&#34;&gt;Spotify launches in the US today&lt;/a&gt;. And can start listening to the &lt;del&gt;&lt;a href=&#34;http://djlorenzo.posterous.com/classics-of-tango-dance-music-on-spotify&#34;&gt;classics of Argentine tango&lt;/a&gt;&lt;/del&gt; right away. The playlists are mostly complete to the degree that the music is actually available on Spotify.&lt;/p&gt;
-
-&lt;p&gt;That&amp;rsquo;s all.&lt;/p&gt;
-
-&lt;p&gt;EDIT: New URL for &lt;a href=&#34;http://tangodjlorenzo.wordpress.com/2010/11/15/classics-of-tango-dance-music-on-spotify/&#34;&gt;Classics of Argentine tango on Spotify&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>US readers might be interested that widely acclaimed music service Spotify launches in the US today. And can start listening to the classics of Argentine tango right away. The playlists are mostly complete to the degree that the music is actually available on Spotify.
+That&amp;rsquo;s all.
+EDIT: New URL for Classics of Argentine tango on Spotify.</description>
     </item>
     
     <item>
@@ -78,12 +42,8 @@
       <pubDate>Mon, 11 Apr 2011 20:59:38 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2011/04/11/baroque-zamba/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2011/04/romero-cover-detail.jpg&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2011/04/romero-cover-detail.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;Going to Argentina for the tango, you end up falling in love with other things Argentine as well. One of these things is the &lt;a href=&#34;http://es.wikipedia.org/wiki/Zamba&#34;&gt;Zamba&lt;/a&gt;, not to be confused with its Brazilian &lt;del&gt;homonym&lt;/del&gt; homophone.&lt;/p&gt;
-
-&lt;p&gt;Imagine the surprised look on Simba&amp;rsquo;s face listening to a radio show reviewing some new &amp;lsquo;classical&amp;rsquo; releases. Suddenly they play an  Argentine Zamba, or at least something very similar. The cd in question was the new release from the &lt;a href=&#34;http://www.clematis-ensemble.be/en/records.php?ID_cat=112&#34;&gt;Clematis Ensemble&lt;/a&gt; with music by composer &lt;a href=&#34;http://en.wikipedia.org/wiki/Mateo_Romero_(composer)&#34;&gt;Mateo Romero&lt;/a&gt;. It was actually announced as an Argentine Zamba, which I found hard to believe as I thought that was a much later music form, but that was what they said. Anyway, it was beautiful music, all of it, and fortunately already &lt;a href=&#34;http://open.spotify.com/album/6AEgnmfHfTsdsJWiJDK7ez&#34;&gt;available at Spotify&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I wondered if the Zamba actually came from the Native Americans, but a little wikipedia research and getting my hands on the leaflet cleared the apparent contradiction. As I originally thought the Zamba is much more recent, but the recording was based on what is supposedly the earliest transcribed piece with the rhythm that is used in Zamba. They probably play it a lot more like the contemporary Zamba tradition, though. Nevertheless, beautiful music, great musicality and highly recommended. If you like early baroque music, that is.&lt;/p&gt;
-</description>
+      <description>Going to Argentina for the tango, you end up falling in love with other things Argentine as well. One of these things is the Zamba, not to be confused with its Brazilian homonym homophone.
+Imagine the surprised look on Simba&amp;rsquo;s face listening to a radio show reviewing some new &amp;lsquo;classical&amp;rsquo; releases. Suddenly they play an Argentine Zamba, or at least something very similar. The cd in question was the new release from the Clematis Ensemble with music by composer Mateo Romero.</description>
     </item>
     
     <item>
@@ -92,18 +52,7 @@
       <pubDate>Mon, 15 Nov 2010 17:14:12 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2010/11/15/classics-of-tango-dance-music-on-spotify/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2010/11/spotify-shared-playlists.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2010/11/spotify-shared-playlists.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I believe the only way to come to understand the tango is by listening a lot to tango music. Music appreciation classes are all great, but no substitute for putting in hours and hours of listening. For our beginning classes we have always encouraged our students to start listening to tango music right away. We used to give them a free cd, but while feeling quite ok about this morally, it was a bit on the gray side, legally. We tried suggesting emusic as a cheap and quick introduction to tango music, but nowadays &lt;a href=&#34;http://www.spotify.com&#34;&gt;Spotify&lt;/a&gt; is all the rage.&lt;/p&gt;
-
-&lt;p&gt;Hence, in what will hopefully turn out to be a resource for my community (and others, maybe) in the future, I started putting together songs from Stephen Brown&amp;rsquo;s excellent list &lt;a href=&#34;http://www.tejastango.com/classic_tangos.html&#34;&gt;Classics of Tango Dance Music&lt;/a&gt; as Spotify playlists. It is by no means finished, but since these playlists are all collaborative playlists, you may give me a hand :-) Any help is very much appreciated. Please note that several tangos are available in multiple versions, and Stephen Brown doesn&amp;rsquo;t specify the version, so it&amp;rsquo;s a good idea to consult &lt;a href=&#34;http://www.tango.info&#34;&gt;tango.info&lt;/a&gt; for cross-referencing whenever in doubt. At the time of writing, the playlists for Milonga, Vals and Early Golden Age are mostly done.&lt;/p&gt;
-
-&lt;p&gt;I got a few Spotify Free invites to spare, let me know if you need one. Spotify Free is currently available  in Sweden, Norway, Finland, the UK, France, Spain and The Netherlands.&lt;/p&gt;
-
-&lt;p&gt;Get the &lt;del&gt;&lt;a href=&#34;http://djlorenzo.posterous.com/classics-of-tango-dance-music-on-spotify&#34;&gt;Classics of Tango Dance Music on Spotify&lt;/a&gt;&lt;/del&gt; here. EDIT: New URL of &lt;a href=&#34;http://tangodjlorenzo.wordpress.com/2010/11/15/classics-of-tango-dance-music-on-spotify/&#34;&gt;Classics of Tango Dance Music on Spotify&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Personally, I use Spotify almost exclusively for non-tango music, and it works&lt;a href=&#34;http://forums.slimdevices.com/showthread.php?t=79706&#34;&gt; incredibly well with my Squeezebox setup&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>I believe the only way to come to understand the tango is by listening a lot to tango music. Music appreciation classes are all great, but no substitute for putting in hours and hours of listening. For our beginning classes we have always encouraged our students to start listening to tango music right away. We used to give them a free cd, but while feeling quite ok about this morally, it was a bit on the gray side, legally.</description>
     </item>
     
   </channel>

@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Samantha Dispari on Simba Tango</title>
-    <link>http://simbatango.com/tags/samantha-dispari/index.xml</link>
+    <link>http://simbatango.com/tags/samantha-dispari/</link>
     <description>Recent content in Samantha Dispari on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/samantha-dispari/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Dec 2008 12:11:24 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/samantha-dispari/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Cristhian Sosa &amp; Samantha Dispari</title>
@@ -16,14 +19,10 @@
       <pubDate>Tue, 30 Dec 2008 12:11:24 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2008/12/30/cristhian-sosa-samantha-dispari/</guid>
-      <description>&lt;p&gt;At last at youtube: Cristhian Sosa &amp;amp; Samantha Dispari:&lt;/p&gt;
-
-&lt;p&gt;httpvh://uk.youtube.com/watch?v=FDda9gi_jmk&amp;amp;feature=related&lt;/p&gt;
-
-&lt;p&gt;httpvh://uk.youtube.com/watch?v=_iXqfsmicXs&amp;amp;feature=related&lt;/p&gt;
-
-&lt;p&gt;httpvh://uk.youtube.com/watch?v=_rQqPGDH1II&amp;amp;feature=related&lt;/p&gt;
-</description>
+      <description>At last at youtube: Cristhian Sosa &amp;amp; Samantha Dispari:
+httpvh://uk.youtube.com/watch?v=FDda9gi_jmk&amp;amp;feature=related
+httpvh://uk.youtube.com/watch?v=_iXqfsmicXs&amp;amp;feature=related
+httpvh://uk.youtube.com/watch?v=_rQqPGDH1II&amp;amp;feature=related</description>
     </item>
     
   </channel>

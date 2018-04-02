@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Metropoletano on Simba Tango</title>
-    <link>http://simbatango.com/tags/metropoletano/index.xml</link>
+    <link>http://simbatango.com/tags/metropoletano/</link>
     <description>Recent content in Metropoletano on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/metropoletano/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Jul 2008 09:47:01 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/metropoletano/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Neri &amp; Yanina</title>
@@ -16,14 +19,7 @@
       <pubDate>Wed, 16 Jul 2008 09:47:01 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2008/07/16/neri-yanina/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/y0f3wEaHPm0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Standing out at the práctica of Carlitos and Rosa, it&amp;rsquo;s good to see they did well at the campeonato. Enjoy!&lt;/p&gt;
-</description>
+      <description>Standing out at the práctica of Carlitos and Rosa, it&amp;rsquo;s good to see they did well at the campeonato. Enjoy!</description>
     </item>
     
   </channel>

@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terminology on Simba Tango</title>
-    <link>http://simbatango.com/tags/terminology/index.xml</link>
+    <link>http://simbatango.com/tags/terminology/</link>
     <description>Recent content in Terminology on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/terminology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Nov 2008 12:02:48 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/terminology/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Shut up and listen!</title>
@@ -16,17 +19,10 @@
       <pubDate>Sun, 16 Nov 2008 12:02:48 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2008/11/16/shut-up-and-listen/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/borghetti/33036907/&#34;&gt;&lt;img src=&#34;http://farm1.static.flickr.com/23/33036907_62b7a34f98.jpg&#34; alt=&#34;The Silent Man by !borghetti, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-nd/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/borghetti/&#34;&gt; !borghetti&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Johanna wonders about the &lt;a href=&#34;http://tangowritemight.blogspot.com/2008/11/why-do-you-think.html&#34;&gt;negative connotations of &amp;ldquo;following&amp;rdquo;&lt;/a&gt;. There is nothing wrong with following, following is crucial to make the dance work, and that is no simple task. The problem is being assigned the role of simply following, being the &amp;ldquo;follow(er)&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;Or should I say reduced to follower.&lt;/p&gt;
-
-&lt;p&gt;Just as there is nothing wrong with listening, but being assigned the role of being the listener is somehow limiting. If two people meet and one does all the talking (the talker) and the other does all the listening (the listener), there is not much of a conversation going on, is there?&lt;/p&gt;
-
-&lt;p&gt;The best dialogues arise when two people meet, open for the other&amp;rsquo;s point of view, listening, engaging and participating by adding their own comments.&lt;/p&gt;
-</description>
+      <description>by !borghetti
+Johanna wonders about the negative connotations of &amp;ldquo;following&amp;rdquo;. There is nothing wrong with following, following is crucial to make the dance work, and that is no simple task. The problem is being assigned the role of simply following, being the &amp;ldquo;follow(er)&amp;rdquo;.
+Or should I say reduced to follower.
+Just as there is nothing wrong with listening, but being assigned the role of being the listener is somehow limiting.</description>
     </item>
     
   </channel>

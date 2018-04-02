@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zamba on Simba Tango</title>
-    <link>http://simbatango.com/tags/zamba/index.xml</link>
+    <link>http://simbatango.com/tags/zamba/</link>
     <description>Recent content in Zamba on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/zamba/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Apr 2011 20:59:38 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/zamba/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Baroque Zamba</title>
@@ -16,12 +19,8 @@
       <pubDate>Mon, 11 Apr 2011 20:59:38 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2011/04/11/baroque-zamba/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2011/04/romero-cover-detail.jpg&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2011/04/romero-cover-detail.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;Going to Argentina for the tango, you end up falling in love with other things Argentine as well. One of these things is the &lt;a href=&#34;http://es.wikipedia.org/wiki/Zamba&#34;&gt;Zamba&lt;/a&gt;, not to be confused with its Brazilian &lt;del&gt;homonym&lt;/del&gt; homophone.&lt;/p&gt;
-
-&lt;p&gt;Imagine the surprised look on Simba&amp;rsquo;s face listening to a radio show reviewing some new &amp;lsquo;classical&amp;rsquo; releases. Suddenly they play an  Argentine Zamba, or at least something very similar. The cd in question was the new release from the &lt;a href=&#34;http://www.clematis-ensemble.be/en/records.php?ID_cat=112&#34;&gt;Clematis Ensemble&lt;/a&gt; with music by composer &lt;a href=&#34;http://en.wikipedia.org/wiki/Mateo_Romero_(composer)&#34;&gt;Mateo Romero&lt;/a&gt;. It was actually announced as an Argentine Zamba, which I found hard to believe as I thought that was a much later music form, but that was what they said. Anyway, it was beautiful music, all of it, and fortunately already &lt;a href=&#34;http://open.spotify.com/album/6AEgnmfHfTsdsJWiJDK7ez&#34;&gt;available at Spotify&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I wondered if the Zamba actually came from the Native Americans, but a little wikipedia research and getting my hands on the leaflet cleared the apparent contradiction. As I originally thought the Zamba is much more recent, but the recording was based on what is supposedly the earliest transcribed piece with the rhythm that is used in Zamba. They probably play it a lot more like the contemporary Zamba tradition, though. Nevertheless, beautiful music, great musicality and highly recommended. If you like early baroque music, that is.&lt;/p&gt;
-</description>
+      <description>Going to Argentina for the tango, you end up falling in love with other things Argentine as well. One of these things is the Zamba, not to be confused with its Brazilian homonym homophone.
+Imagine the surprised look on Simba&amp;rsquo;s face listening to a radio show reviewing some new &amp;lsquo;classical&amp;rsquo; releases. Suddenly they play an Argentine Zamba, or at least something very similar. The cd in question was the new release from the Clematis Ensemble with music by composer Mateo Romero.</description>
     </item>
     
   </channel>

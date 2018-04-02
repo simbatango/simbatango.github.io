@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stiletto on Simba Tango</title>
-    <link>http://simbatango.com/tags/stiletto/index.xml</link>
+    <link>http://simbatango.com/tags/stiletto/</link>
     <description>Recent content in Stiletto on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/stiletto/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Jul 2009 03:24:22 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/stiletto/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Comme il faut (the shoes)</title>
@@ -16,27 +19,9 @@
       <pubDate>Sun, 26 Jul 2009 03:24:22 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/07/26/comme-il-faut-the-shoes/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/simba_tango/3755483534/&#34;&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2554/3755483534_0e3ccd55c0.jpg&#34; alt=&#34;Comme il faut by Simba tango, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/simba_tango/&#34;&gt; Simba tango&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;what-i-do-understand&#34;&gt;What I do understand:&lt;/h2&gt;
-
-&lt;p&gt;People (men and women) are crazy about these shoes. They look (and are) extremely sharp, sexy, are light and well balanced. In other words perfect for dancing. An image of exclusivity also helps, although it has faded a little the last few years.&lt;/p&gt;
-
-&lt;h2 id=&#34;what-i-don-t-understand&#34;&gt;What I don&amp;rsquo;t understand:&lt;/h2&gt;
-
-&lt;p&gt;Why the competition hasn&amp;rsquo;t caught up. It surely can&amp;rsquo;t be &lt;strong&gt;that hard?&lt;/strong&gt; After all, we are not talking rocket science. They are pricey, so one would think others were ready to dig into that market as well. They only offer a small number of different models, and vary the color combinations, and they wear out quite fast as far as I have noticed. That is good for business, though, and should be easy to copy&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;There is this fascinating tech reporting style &lt;a href=&#34;http://www.loksze.com/thoughts/2007/08/27/all-about-my-tango-shoes/&#34;&gt;dissection of womans&amp;rsquo; shoes&lt;/a&gt; at Royce&amp;rsquo;s tango thoughts. Wonder if she noticed any difference between the Comme il fauts and the others.&lt;/p&gt;
-
-&lt;p&gt;The photo can be seen as my homage to &amp;lsquo;probably the best tango shoes in the world&amp;rsquo;.&lt;/p&gt;
-
-&lt;p&gt;Arenales 1239 Puerta 3 - Depto. M. Google maps here:&lt;/p&gt;
-
-&lt;p&gt;[xmlgm {&lt;a href=&#34;http://maps.google.com/maps/ms?ie=UTF8&amp;amp;hl=no&amp;amp;msa=0&amp;amp;output=nl&amp;amp;msid=112630563826716696064.00046f8aa77279163a844&#34;&gt;http://maps.google.com/maps/ms?ie=UTF8&amp;amp;hl=no&amp;amp;msa=0&amp;amp;output=nl&amp;amp;msid=112630563826716696064.00046f8aa77279163a844&lt;/a&gt;} width=500;height=400}]&lt;/p&gt;
-</description>
+      <description>by Simba tango
+What I do understand: People (men and women) are crazy about these shoes. They look (and are) extremely sharp, sexy, are light and well balanced. In other words perfect for dancing. An image of exclusivity also helps, although it has faded a little the last few years.
+What I don&amp;rsquo;t understand: Why the competition hasn&amp;rsquo;t caught up. It surely can&amp;rsquo;t be that hard? After all, we are not talking rocket science.</description>
     </item>
     
   </channel>

@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Embraced on Simba Tango</title>
-    <link>http://simbatango.com/tags/embraced/index.xml</link>
+    <link>http://simbatango.com/tags/embraced/</link>
     <description>Recent content in Embraced on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/embraced/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Sep 2009 02:44:18 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/embraced/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Important difference</title>
@@ -16,11 +19,8 @@
       <pubDate>Sun, 27 Sep 2009 02:44:18 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/09/27/important-difference/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/pforret/2240668302/&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/09/abrazo.jpg&#34; alt=&#34;Nosotros birthday milonga by Peter Forret, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/pforret/&#34;&gt; Peter Forret&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;As much as I love embracing the beautiful women in tango&amp;ndash;there is nothing quite like &lt;em&gt;being embraced by&lt;/em&gt; the beautiful women in tango.&lt;/p&gt;
-</description>
+      <description>by Peter Forret
+As much as I love embracing the beautiful women in tango&amp;ndash;there is nothing quite like being embraced by the beautiful women in tango.</description>
     </item>
     
   </channel>

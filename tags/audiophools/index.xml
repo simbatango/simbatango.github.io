@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Audiophools on Simba Tango</title>
-    <link>http://simbatango.com/tags/audiophools/index.xml</link>
+    <link>http://simbatango.com/tags/audiophools/</link>
     <description>Recent content in Audiophools on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/audiophools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Feb 2010 21:22:59 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/audiophools/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Audio Myths</title>
@@ -16,30 +19,8 @@
       <pubDate>Tue, 09 Feb 2010 21:22:59 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2010/02/09/audio-myths/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/BYTlN6wjcvQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Now, this may be only remotely relevant to tango, but tango music and hence its reproduction is important for dancers and djs in particular, so here it goes. I think the lessons from this video are most relevant when it comes to making decisions about equipment such as sound cards for djing, lossless versus lossy encoding of music and quality of transfers and restorations.&lt;/p&gt;
-
-&lt;p&gt;If you hang out at &lt;a href=&#34;http://www.hydrogenaudio.org/forums/&#34;&gt;hydrogenaudio&lt;/a&gt;, this will all be familiar, but I have to say actually performing an abx was a humbling experience with regards to what I can and can&amp;rsquo;t hear. I really lost all confidence in the audio equipment pushers when I returned a radio with a really annoying high frequency noise and the guys in the store found nothing wrong with it, then gave me another one with the exact same problem&amp;hellip; And I don&amp;rsquo;t claim to have golden ears.&lt;/p&gt;
-
-&lt;p&gt;People around the web and other places frequently make completely nonsensical statements about mp3 files and vinyl versus cd sound, which makes me somewhat skeptical to reviews of the quality of various transfers and restorations. Do they really know what they are talking about? Especially when you realize that just a small increase in volume will make the music &amp;lsquo;sound better&amp;rsquo;. More on that in a later post.&lt;/p&gt;
-
-&lt;p&gt;Some maybe surprising results when taking a scientific approach to sound quality:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Q: Is digital sound really better than vinyl?&lt;/strong&gt;: **A: Yes. ** Yes, really. We are talking orders of magnitude less distortion.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Q: Is playing from cds better than playing from a pc?&lt;/strong&gt; **A: No. **If there is a difference, it is most likely in favor of the pc, which is both more practical and more reliable.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Q: Do I need to buy an expensive sound card to dj?&lt;/strong&gt;: &lt;strong&gt;A:N&lt;/strong&gt;**o. **Even the cheap on board ones are usually very good these days. If you want to prelisten, you can get a usb headset.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Q: Do I have to use lossless files for djing?&lt;/strong&gt;:  &lt;strong&gt;A: No&lt;/strong&gt;. At reasonable bitrates, most people will never notice. Do an &lt;a href=&#34;http://wiki.hydrogenaudio.org/index.php?title=ABX&#34;&gt;ABX test&lt;/a&gt; if you believe otherwise. If you are doing &lt;a href=&#34;http://en.wikipedia.org/wiki/Digital_signal_processing&#34;&gt;dsp&lt;/a&gt;, having the original is much better, and there are practical reasons for archiving using &lt;a href=&#34;http://wiki.hydrogenaudio.org/index.php?title=Lossless&#34;&gt;lossless audio&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;Of course the trouble with tango is that we get the worst of all worlds, first shellac/78 distortions, then transferred to LP adding additional distortion, then possibly converting to mp3, then your music is subject to the lousy acoustics of the milonga/practica. Of which the least significant degradation is the mp3 conversion unless you choose ridiculously low bitrates. (mp3 gives&lt;a href=&#34;http://www.hydrogenaudio.org/forums/index.php?showtopic=67529&amp;amp;st=0&#34;&gt; good results around 128kbps&lt;/a&gt; and is found to be generally &lt;a href=&#34;http://wiki.hydrogenaudio.org/index.php?title=Transparent&#34;&gt;transparent&lt;/a&gt; around 192kbps,  somewhat lower for golden age tango music which is mono with low fidelity).&lt;/p&gt;
-</description>
+      <description>Now, this may be only remotely relevant to tango, but tango music and hence its reproduction is important for dancers and djs in particular, so here it goes. I think the lessons from this video are most relevant when it comes to making decisions about equipment such as sound cards for djing, lossless versus lossy encoding of music and quality of transfers and restorations.
+If you hang out at hydrogenaudio, this will all be familiar, but I have to say actually performing an abx was a humbling experience with regards to what I can and can&amp;rsquo;t hear.</description>
     </item>
     
   </channel>

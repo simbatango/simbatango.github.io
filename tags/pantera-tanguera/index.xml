@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pantera Tanguera on Simba Tango</title>
-    <link>http://simbatango.com/tags/pantera-tanguera/index.xml</link>
+    <link>http://simbatango.com/tags/pantera-tanguera/</link>
     <description>Recent content in Pantera Tanguera on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/pantera-tanguera/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Sep 2009 02:26:28 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/pantera-tanguera/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The Panther Tango (1967)</title>
@@ -16,12 +19,8 @@
       <pubDate>Mon, 28 Sep 2009 02:26:28 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/09/28/the-panther-tango-1967/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/09/panthertango.jpg&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/09/panthertango.jpg&#34; alt=&#34;panthertango&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Now someone is having a ball, evidently&amp;hellip;  (From an ad for rum in &lt;a href=&#34;http://books.google.com/books?id=VUkEAAAAMBAJ&amp;amp;pg=PA12-IA1&amp;amp;dq=tango&amp;amp;as_pt=MAGAZINES#v=twopage&amp;amp;q=&amp;amp;f=false&#34;&gt;LIFE - Nov 3, 1967&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;Anyone knows what the Panther Tango at the Plaza in 1928 refers to? It sure can&amp;rsquo;t be Pantera tanguera by Cuarteto Almagro (on &lt;a href=&#34;http://www.tangostore.com/cds_detalle.php?idx=2284&#34;&gt;the album Hemisferios&lt;/a&gt;)&amp;hellip;&lt;/p&gt;
-</description>
+      <description>Now someone is having a ball, evidently&amp;hellip; (From an ad for rum in LIFE - Nov 3, 1967)
+Anyone knows what the Panther Tango at the Plaza in 1928 refers to? It sure can&amp;rsquo;t be Pantera tanguera by Cuarteto Almagro (on the album Hemisferios)&amp;hellip;</description>
     </item>
     
   </channel>

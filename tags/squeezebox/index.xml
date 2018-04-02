@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Squeezebox on Simba Tango</title>
-    <link>http://simbatango.com/tags/squeezebox/index.xml</link>
+    <link>http://simbatango.com/tags/squeezebox/</link>
     <description>Recent content in Squeezebox on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/squeezebox/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Apr 2009 12:50:39 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/squeezebox/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>3 x Squeezebox</title>
@@ -16,11 +19,8 @@
       <pubDate>Sat, 25 Apr 2009 12:50:39 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/04/25/3-x-squeezebox/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/simba_tango/3473386566/&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3346/3473386566_5291799b37.jpg&#34; alt=&#34;Â¡Che, bandoneÃ³n! by Simba tango, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/simba_tango/&#34;&gt; Simba tango&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Maybe it it time to go back to Debian. Then I could listen to Aníbal playing the &lt;a href=&#34;http://squeezebox.wikia.com/wiki/Bandone%C3%B3n&#34;&gt;squeezebox&lt;/a&gt; (by Arnold), streamed to my &lt;a href=&#34;http://slimdevices.com&#34;&gt;squeezebox&lt;/a&gt; (by Slim Devices/Logitech) from my &lt;a href=&#34;http://wiki.debian.org/DebianSqueeze&#34;&gt;squeezebox&lt;/a&gt; (running Debian).&lt;/p&gt;
-</description>
+      <description>by Simba tango
+Maybe it it time to go back to Debian. Then I could listen to Aníbal playing the squeezebox (by Arnold), streamed to my squeezebox (by Slim Devices/Logitech) from my squeezebox (running Debian).</description>
     </item>
     
   </channel>

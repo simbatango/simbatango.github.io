@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://simbatango.com/2017/07/20/los-estilos-fundamentales-de-tango-3/</loc>
@@ -297,7 +298,7 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/2010/12/11/%C2%A1feliz-dia-del-tango/</loc>
+    <loc>http://simbatango.com/2010/12/11/feliz-dia-del-tango/</loc>
     <lastmod>2010-12-11T10:23:00+00:00</lastmod>
   </url>
   
@@ -447,7 +448,7 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/2010/05/23/congratulations-%C2%A1felicitaciones/</loc>
+    <loc>http://simbatango.com/2010/05/23/congratulations-felicitaciones/</loc>
     <lastmod>2010-05-23T07:13:42+00:00</lastmod>
   </url>
   
@@ -572,7 +573,7 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/2010/01/17/tango%E2%84%A2/</loc>
+    <loc>http://simbatango.com/2010/01/17/tango/</loc>
     <lastmod>2010-01-17T20:43:22+00:00</lastmod>
   </url>
   
@@ -787,7 +788,7 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/2009/08/29/%C2%A1mucha-mierda-en-el-mundial/</loc>
+    <loc>http://simbatango.com/2009/08/29/mucha-mierda-en-el-mundial/</loc>
     <lastmod>2009-08-29T18:19:28+00:00</lastmod>
   </url>
   
@@ -1437,7 +1438,7 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/2008/10/26/%C2%A1ahora-pollo/</loc>
+    <loc>http://simbatango.com/2008/10/26/ahora-pollo/</loc>
     <lastmod>2008-10-26T21:55:40+00:00</lastmod>
   </url>
   
@@ -2036,6 +2037,7 @@
   
   <url>
     <loc>http://simbatango.com/categories/</loc>
+    <lastmod>2012-12-04T21:51:30+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2346,14 +2348,14 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/dance-for-the-woman/</loc>
-    <lastmod>2008-10-31T21:07:45+00:00</lastmod>
+    <loc>http://simbatango.com/tags/dance-review/</loc>
+    <lastmod>2009-09-25T01:58:55+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/dance-review/</loc>
-    <lastmod>2009-09-25T01:58:55+00:00</lastmod>
+    <loc>http://simbatango.com/tags/dance-for-the-woman/</loc>
+    <lastmod>2008-10-31T21:07:45+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -3204,7 +3206,7 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/last/index.fm/</loc>
+    <loc>http://simbatango.com/tags/last.fm/</loc>
     <lastmod>2011-06-30T18:23:53+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -4446,7 +4448,7 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/start../index./</loc>
+    <loc>http://simbatango.com/tags/start.../</loc>
     <lastmod>2008-11-17T15:44:40+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -4555,6 +4557,7 @@
   
   <url>
     <loc>http://simbatango.com/tags/</loc>
+    <lastmod>2010-09-07T13:07:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -4667,24 +4670,6 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/tango-in-film/</loc>
-    <lastmod>2010-11-12T17:16:04+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://simbatango.com/categories/tango-in-film/</loc>
-    <lastmod>2015-09-10T11:43:27+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://simbatango.com/tags/tango-in-japan/</loc>
-    <lastmod>2012-11-15T10:09:31+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://simbatango.com/tags/tango-magazine/</loc>
     <lastmod>2008-11-19T22:19:51+00:00</lastmod>
     <priority>0</priority>
@@ -4793,7 +4778,25 @@
   </url>
   
   <url>
-    <loc>http://simbatango.com/tags/tango/index.info/</loc>
+    <loc>http://simbatango.com/tags/tango-in-film/</loc>
+    <lastmod>2010-11-12T17:16:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://simbatango.com/categories/tango-in-film/</loc>
+    <lastmod>2015-09-10T11:43:27+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://simbatango.com/tags/tango-in-japan/</loc>
+    <lastmod>2012-11-15T10:09:31+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://simbatango.com/tags/tango.info/</loc>
     <lastmod>2010-07-23T17:09:30+00:00</lastmod>
     <priority>0</priority>
   </url>

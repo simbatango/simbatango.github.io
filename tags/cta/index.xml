@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cta on Simba Tango</title>
-    <link>http://simbatango.com/tags/cta/index.xml</link>
+    <link>http://simbatango.com/tags/cta/</link>
     <description>Recent content in Cta on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/cta/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Nov 2012 10:09:31 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/cta/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Hope for CTA, AMP, Audio Park reissues?</title>
@@ -16,13 +19,8 @@
       <pubDate>Thu, 15 Nov 2012 10:09:31 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2012/11/15/hope-for-cta-amp-audio-park-reissues/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/eerkmans/130061389/&#34;&gt;&lt;img src=&#34;http://farm1.static.flickr.com/49/130061389_a552498c59.jpg&#34; alt=&#34;Ueno record store by eerkmans, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nd/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nd/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-No Derivative Works 2.0 Generic License&#34; /&gt;&lt;/a&gt;  by &lt;a href=&#34;http://www.flickr.com/people/eerkmans/&#34;&gt; eerkmans&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Many CTA discs and others &lt;a href=&#34;http://www.tango-dj.at/contact/order.htm&#34;&gt;are available in Europe&lt;/a&gt; through the Austrian DJ &lt;a href=&#34;http://www.tango-dj.at/contact/contact.htm&#34;&gt;Bernhard Gehberger&lt;/a&gt;. He recently went to Japan and met with the guys behind CTA, AMP and Audio Park. From &lt;a href=&#34;http://www.tango-dj.at/reports/japan2012.htm&#34;&gt;his report from that trip&lt;/a&gt;, it seems like he is working on facilitating reissues of these out-of-print discs. Which would be of great benefit to the tango community if he pulls it through. Today they are both hard to get and expensive.&lt;/p&gt;
-
-&lt;p&gt;Good luck, Bernhard!&lt;/p&gt;
-</description>
+      <description>by eerkmans
+Many CTA discs and others are available in Europe through the Austrian DJ Bernhard Gehberger. He recently went to Japan and met with the guys behind CTA, AMP and Audio Park. From his report from that trip, it seems like he is working on facilitating reissues of these out-of-print discs. Which would be of great benefit to the tango community if he pulls it through. Today they are both hard to get and expensive.</description>
     </item>
     
     <item>
@@ -31,18 +29,7 @@
       <pubDate>Sun, 03 Jan 2010 22:47:36 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2010/01/03/quality-of-cta-bootlegs/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/12/tau-results-11.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/12/tau-results-11.png&#34; alt=&#34;tau-results-1&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Usually, I don&amp;rsquo;t buy bootlegs, but when it comes to tango music, there is some material that is not available from the commercial releases like Reliquias, Tango Argentino etc. I always concentrated on the commercial releases, but now that I have most of the interesting material from these releases, I have moved on the the more exotic releases, like the Club  Tango Argentino by Akihito Baba. They are unfortunately hard to get by, and several are out of print.  I heard that in some places they are selling bootlegs of some of these discs in Argentina,  so I went to check it out.&lt;/p&gt;
-
-&lt;p&gt;From what I could hear, quality wise it was all good. I heard rumors that some bootlegs were processed versions, i.e. with filtering applied to the sound, and some of the point with the CTA releases is that they are not processed, but there was lots of noise in the ones I got to check out.&lt;/p&gt;
-
-&lt;p&gt;The covers were in color, and seemed to be copies of the original, copyright notice and everything.  So I was hoping the producers also just copied the sound verbatim. That there was a lot of high frequency noise indicated that the source was not mp3 files, but to check it out further, I ran a couple of discs through the program &lt;a href=&#34;http://true-audio.com/Analyzer.project&#34;&gt;Tau analyzer&lt;/a&gt;, which indicated that the source of all tracks were indeed cds (CDDA).&lt;/p&gt;
-
-&lt;p&gt;The frequencies are shown in the first illustration and the spectrum plot is shown below (both from Tau analyzer):&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/12/tau-results-21.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/12/tau-results-21.png&#34; alt=&#34;tau-results-2&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Usually, I don&amp;rsquo;t buy bootlegs, but when it comes to tango music, there is some material that is not available from the commercial releases like Reliquias, Tango Argentino etc. I always concentrated on the commercial releases, but now that I have most of the interesting material from these releases, I have moved on the the more exotic releases, like the Club Tango Argentino by Akihito Baba. They are unfortunately hard to get by, and several are out of print.</description>
     </item>
     
   </channel>

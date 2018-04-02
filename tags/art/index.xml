@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Art on Simba Tango</title>
-    <link>http://simbatango.com/tags/art/index.xml</link>
+    <link>http://simbatango.com/tags/art/</link>
     <description>Recent content in Art on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Jan 2010 01:12:53 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Buenos Aires (tango) murales</title>
@@ -16,17 +19,8 @@
       <pubDate>Sun, 03 Jan 2010 01:12:53 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2010/01/03/buenos-aires-tango-murales/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/simba_tango/4238669650/&#34;&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2613/4238669650_044cfeb0a6.jpg&#34; alt=&#34;Buenos Aires Mural Tango by Simba tango, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/simba_tango/&#34;&gt; Simba tango&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Several places in Buenos Aires, you will find paintings covering an entire wall,  called &amp;lsquo;murales&amp;rsquo;. They have a &lt;a href=&#34;http://www.buenosaires.gov.ar/areas/cultura/cpphc/murales/r_historica.php?menu_id=20326&#34;&gt;long history&lt;/a&gt; in Buenos Aires, the oldest were painted for the churches of the city in the 1700s and 1800s. In the beginning of the 20th century, they were often used to portray fight against oppression, think Picasso&amp;rsquo;s Guernica. Less political, but as Buenos Aires is the home of tango, there are of course several paintings featuring tango music and dance. I was looking for something else in my archives, and came over these photos, which I hope you will enjoy.&lt;/p&gt;
-
-&lt;p&gt;The one above is located in/near San Telmo, where Independencia intersects Avenida Paseo Colón, if I remember correctly. The Piazzolla one is located (as you can see from the photo) by the Avenida De Mayo stop of the blue line (Línea A), and the dancing couple with the skyline is located just above the San José stop of the purple line (Línea E).&lt;/p&gt;
-
-&lt;p&gt;If you want more, there is a &lt;a href=&#34;http://www.amazon.com/Salon-Buenos-Aires-Murales-Spanish/dp/9500259168&#34;&gt;book about the murales of Buenos Aires&lt;/a&gt;, which we got at Zival&amp;rsquo;s a couple of years ago.&lt;/p&gt;
-
-&lt;p&gt;[flickr-gallery mode=&amp;ldquo;photoset&amp;rdquo; photoset=&amp;ldquo;72157622999659367&amp;rdquo;]&lt;/p&gt;
-</description>
+      <description>by Simba tango
+Several places in Buenos Aires, you will find paintings covering an entire wall, called &amp;lsquo;murales&amp;rsquo;. They have a long history in Buenos Aires, the oldest were painted for the churches of the city in the 1700s and 1800s. In the beginning of the 20th century, they were often used to portray fight against oppression, think Picasso&amp;rsquo;s Guernica. Less political, but as Buenos Aires is the home of tango, there are of course several paintings featuring tango music and dance.</description>
     </item>
     
     <item>
@@ -35,11 +29,8 @@
       <pubDate>Thu, 12 Feb 2009 08:51:58 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/02/12/evolution/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/kaptainkobold/215227655/&#34;&gt;&lt;img src=&#34;http://farm1.static.flickr.com/74/215227655_e7fce47abc.jpg&#34; alt=&#34;Darwin Studying Barnacles by Kaptain Kobold, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/kaptainkobold/&#34;&gt; Kaptain Kobold&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s the year of &lt;a href=&#34;http://en.wikipedia.org/wiki/Charles_Darwin&#34;&gt;Darwin&lt;/a&gt; this year. In a radio show, different scientists were discussing Darwin&amp;rsquo;s impact on their fields. The art historian made a point out of the fact that after Darwin, people no longer expected the evolution to be linear, or directed towards a specific goal. Always improving. It became clear that modern art would change, take different forms. The direction of change would be an other matter entirely.&lt;/p&gt;
-</description>
+      <description>by Kaptain Kobold
+It&amp;rsquo;s the year of Darwin this year. In a radio show, different scientists were discussing Darwin&amp;rsquo;s impact on their fields. The art historian made a point out of the fact that after Darwin, people no longer expected the evolution to be linear, or directed towards a specific goal. Always improving. It became clear that modern art would change, take different forms. The direction of change would be an other matter entirely.</description>
     </item>
     
   </channel>

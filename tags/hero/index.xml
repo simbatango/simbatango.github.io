@@ -2,34 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hero on Simba Tango</title>
-    <link>http://simbatango.com/tags/hero/index.xml</link>
+    <link>http://simbatango.com/tags/hero/</link>
     <description>Recent content in Hero on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/hero/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Oct 2008 21:55:40 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/hero/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>¡Ahora, pollo!</title>
-      <link>http://simbatango.com/2008/10/26/%C2%A1ahora-pollo/</link>
+      <link>http://simbatango.com/2008/10/26/ahora-pollo/</link>
       <pubDate>Sun, 26 Oct 2008 21:55:40 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>http://simbatango.com/2008/10/26/%C2%A1ahora-pollo/</guid>
-      <description>&lt;p&gt;Returning again to Buenos Aires, a lot more experienced and familiar with music and culture than the &lt;a href=&#34;http://simbatango.com/index.php/2008/10/09/old-tango-hero/&#34;&gt;first time&lt;/a&gt; I had read that another Alberto was still live and kicking, &lt;em&gt;Alberto Podestá&lt;/em&gt; that would be. We had some tango musicians from our city coming down, and thought it would be an excellent thing to do with them. Podestá is singing at the place La Cumparsita in San Telmo, but for some reason or another we never made it while our musicians were in town.&lt;/p&gt;
-
-&lt;p&gt;Fortunately, a bit later, Podestá was singing at &lt;em&gt;Porteño y Bailarín&lt;/em&gt;, a milonga in the centre. And this was an opportunity not to be missed. It is always hard, being a hard core dancer, to sacrifice an entire night at the milongas for a concert. So much the better when you can have &lt;em&gt;both.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Lots of people were there to hear _Podestá. _ We were relatively early, coming directly from our class, and got a nice table close to the main dance floor, where we assumed the action would be. On the table right next to us was the table of _Miguel Angel Zotto, _who also plays a part in this story, as you will soon see.&lt;/p&gt;
-
-&lt;p&gt;Podestá came and gave his performance, and this time it was easier for us to participate in the experience, as we already knew his signature pieces. Considering how young he was when he made his seminal recordings, the performance was very strong, and indeed very touching. Seeing and hearing one of the heros live. Not so many of themleft, so better suck in as much as possible.&lt;/p&gt;
-
-&lt;p&gt;httpvh://uk.youtube.com/watch?v=EB1Ft-zDYjQ&lt;/p&gt;
-
-&lt;p&gt;Alberto Podestá made a note on the presence of the distinguished Miguel Angel Zotto, and in return the famous dancer stood up and gave a short speak in appreciation of his great works: _All of the world is dancing to your voice! _ I forget the exact sequence of the events, but as I remember it, Podestá announced that the great M.A. Zotto would perform a dance as a return gesture.&lt;/p&gt;
-
-&lt;p&gt;The great Zotto was sitting at his table, having a good laugh and made no sign of standing up to dance. There was an ambience of expectation in the room though, and suddenly out of the crowd we hear: _ ¡Ahora, pollo!_ (Now, chicken!) The guy screaming was &lt;em&gt;Eduardo Capussi&lt;/em&gt;, a funny guy and quite a famous dancer himself. So dance he did. An unforgettable night!&lt;/p&gt;
-</description>
+      <guid>http://simbatango.com/2008/10/26/ahora-pollo/</guid>
+      <description>Returning again to Buenos Aires, a lot more experienced and familiar with music and culture than the first time I had read that another Alberto was still live and kicking, Alberto Podestá that would be. We had some tango musicians from our city coming down, and thought it would be an excellent thing to do with them. Podestá is singing at the place La Cumparsita in San Telmo, but for some reason or another we never made it while our musicians were in town.</description>
     </item>
     
   </channel>

@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>La Glorieta on Simba Tango</title>
-    <link>http://simbatango.com/tags/la-glorieta/index.xml</link>
+    <link>http://simbatango.com/tags/la-glorieta/</link>
     <description>Recent content in La Glorieta on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/la-glorieta/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Nov 2009 01:10:24 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/la-glorieta/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Not so easy</title>
@@ -16,23 +19,9 @@
       <pubDate>Mon, 30 Nov 2009 01:10:24 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/11/30/not-so-easy/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/simba_tango/3330336869/&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3383/3330336869_4ddfb6d3f6.jpg&#34; alt=&#34;La Glorieta by Simba tango, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/simba_tango/&#34;&gt; Simba tango&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;A teacher and his former student, on his first trip to Buenos Aires, run into each other outside La Glorieta and starts to chat. Suddenly the student bursts out:&lt;/p&gt;
-
-&lt;blockquote&gt;**A:** (about the music) This is milonga, right?
-
-**S: **No, this is tango.&lt;/blockquote&gt;
-
-&lt;p&gt;The conversation is drawing to an end, as the teacher is heading home. They talk for another minute, until the next song of the tanda starts and the student is eager to dance more:&lt;/p&gt;
-
-&lt;blockquote&gt;**A: **Well, I think I have to go and dance a little milonga....
-
-**S: **(!)&lt;/blockquote&gt;
-
-&lt;p&gt;The teacher watches him walk back to the pavillion, turns around, picks up his young son, and dances into the darkness as Fiorentino sings the last words of &lt;em&gt;Toda mi vída&lt;/em&gt;&amp;hellip;&lt;/p&gt;
-</description>
+      <description>by Simba tango
+A teacher and his former student, on his first trip to Buenos Aires, run into each other outside La Glorieta and starts to chat. Suddenly the student bursts out:
+**A:** (about the music) This is milonga, right? **S: **No, this is tango. The conversation is drawing to an end, as the teacher is heading home. They talk for another minute, until the next song of the tanda starts and the student is eager to dance more:</description>
     </item>
     
   </channel>

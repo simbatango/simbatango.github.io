@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sebastian on Simba Tango</title>
-    <link>http://simbatango.com/tags/sebastian/index.xml</link>
+    <link>http://simbatango.com/tags/sebastian/</link>
     <description>Recent content in Sebastian on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/sebastian/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Nov 2009 18:34:36 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/sebastian/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Roxana Suarez &amp; Sebastián Achaval en la Baldosa</title>
@@ -16,14 +19,7 @@
       <pubDate>Sat, 14 Nov 2009 18:34:36 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/11/14/roxana-suarez-sebastian-achaval-en-la-baldosa/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/ETF-fQdid4A&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;A beautiful night at La Baldosa in Flores, chatting and dancing with friends and the wonderful performance by Roxana &amp;amp; Sebastián.&lt;/p&gt;
-</description>
+      <description>A beautiful night at La Baldosa in Flores, chatting and dancing with friends and the wonderful performance by Roxana &amp;amp; Sebastián.</description>
     </item>
     
     <item>
@@ -32,12 +28,9 @@
       <pubDate>Tue, 25 Nov 2008 22:01:52 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2008/11/25/roxana-y-sebastian/</guid>
-      <description>&lt;p&gt;I just found these videos with Roxana and Sebastián, aren&amp;rsquo;t they wonderful!&lt;/p&gt;
-
-&lt;p&gt;httpvh://uk.youtube.com/watch?v=Xi-ZUJ5c8Z4&lt;/p&gt;
-
-&lt;p&gt;httpvh://uk.youtube.com/watch?v=lpZo9jWGnLA&lt;/p&gt;
-</description>
+      <description>I just found these videos with Roxana and Sebastián, aren&amp;rsquo;t they wonderful!
+httpvh://uk.youtube.com/watch?v=Xi-ZUJ5c8Z4
+httpvh://uk.youtube.com/watch?v=lpZo9jWGnLA</description>
     </item>
     
   </channel>

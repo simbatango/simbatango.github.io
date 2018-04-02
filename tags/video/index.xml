@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Video on Simba Tango</title>
-    <link>http://simbatango.com/tags/video/index.xml</link>
+    <link>http://simbatango.com/tags/video/</link>
     <description>Recent content in Video on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Jul 2008 10:15:53 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>El último bandoneón</title>
@@ -16,20 +19,11 @@
       <pubDate>Tue, 22 Jul 2008 10:15:53 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2008/07/22/la-ultima-bandoneon/</guid>
-      <description>&lt;p&gt;httpvh://youtube.com/watch?v=eGerxiMniBQ&lt;/p&gt;
-
-&lt;p&gt;Maravillosa!&lt;/p&gt;
-
-&lt;p&gt;Now where can I get the entire &lt;a href=&#34;http://www.imdb.com/title/tt0414712/&#34;&gt;film&lt;/a&gt;?&lt;/p&gt;
-
-&lt;p&gt;Trailer here:&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/wIgEb_nxPdk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-</description>
+      <description>httpvh://youtube.com/watch?v=eGerxiMniBQ
+Maravillosa!
+Now where can I get the entire film?
+Trailer here:
+  </description>
     </item>
     
     <item>
@@ -38,14 +32,7 @@
       <pubDate>Wed, 16 Jul 2008 09:47:01 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2008/07/16/neri-yanina/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/y0f3wEaHPm0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Standing out at the práctica of Carlitos and Rosa, it&amp;rsquo;s good to see they did well at the campeonato. Enjoy!&lt;/p&gt;
-</description>
+      <description>Standing out at the práctica of Carlitos and Rosa, it&amp;rsquo;s good to see they did well at the campeonato. Enjoy!</description>
     </item>
     
   </channel>

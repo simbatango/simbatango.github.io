@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Obelisco on Simba Tango</title>
-    <link>http://simbatango.com/tags/obelisco/index.xml</link>
+    <link>http://simbatango.com/tags/obelisco/</link>
     <description>Recent content in Obelisco on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/obelisco/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Jul 2009 05:01:09 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/obelisco/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Nueve de julio</title>
@@ -16,17 +19,9 @@
       <pubDate>Thu, 09 Jul 2009 05:01:09 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/07/09/nueve-de-julio/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/simba_tango/3191001951/&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3412/3191001951_524c3ba086.jpg&#34; alt=&#34;El obelisco by Simba tango, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/simba_tango/&#34;&gt; Simba tango&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Happy independence day, Argentina!&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/3_ztnw1L9Bk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-</description>
+      <description>  by Simba tango
+Happy independence day, Argentina!
+  </description>
     </item>
     
   </channel>

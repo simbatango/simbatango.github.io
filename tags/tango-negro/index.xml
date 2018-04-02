@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tango Negro on Simba Tango</title>
-    <link>http://simbatango.com/tags/tango-negro/index.xml</link>
+    <link>http://simbatango.com/tags/tango-negro/</link>
     <description>Recent content in Tango Negro on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/tango-negro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Apr 2014 20:53:42 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/tango-negro/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Tango Negro, The African Roots of Tango</title>
@@ -16,16 +19,8 @@
       <pubDate>Wed, 02 Apr 2014 20:53:42 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2014/04/02/tango-negro-the-african-roots-of-tango/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/b1OCMY06u7M&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Now this looks interesting, a documentary about the African roots of tango. It&amp;rsquo;s featuring &lt;a href=&#34;https://en.wikipedia.org/wiki/Juan_Carlos_C%C3%A1ceres&#34;&gt;Juan Carlos Cáceres&lt;/a&gt; (of &amp;ldquo;Tango Negro&amp;rdquo; fame), of which I&amp;rsquo;m a great fan. One of the best concerts I ever attended was with Cáceres and band and &lt;a href=&#34;https://www.youtube.com/watch?v=vBvn0UAl6gQ&#34;&gt;Facundo &amp;amp; Kely Posadas&lt;/a&gt; performing.&lt;/p&gt;
-
-&lt;p&gt;You can &lt;a href=&#34;http://nyadiff.org/tango-negro-the-african-roots-of-tango-candombe/&#34;&gt;read a bit more about the documentary&lt;/a&gt; at the ADIFF film festival pages.&lt;/p&gt;
-</description>
+      <description>Now this looks interesting, a documentary about the African roots of tango. It&amp;rsquo;s featuring Juan Carlos Cáceres (of &amp;ldquo;Tango Negro&amp;rdquo; fame), of which I&amp;rsquo;m a great fan. One of the best concerts I ever attended was with Cáceres and band and Facundo &amp;amp; Kely Posadas performing.
+You can read a bit more about the documentary at the ADIFF film festival pages.</description>
     </item>
     
   </channel>

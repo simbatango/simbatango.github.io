@@ -1,19 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
-
   <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
   <title>Posts</title>
-  
+  <meta property="og:title" content="Posts" />
+  <meta name="twitter:title" content="Posts" />
   <meta name="author" content="Simba"/>
-  <meta name="generator" content="Hugo 0.19" />
   <link href='http://simbatango.com/img/favicon.ico' rel='icon' type='image/x-icon'/>
+  <meta property="og:image" content="http://simbatango.com/img/simba.png" />
+  <meta name="twitter:image" content="http://simbatango.com/img/simba.png" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@simbatango" />
+  <meta name="twitter:creator" content="@simbatango" />
+  <meta property="og:url" content="http://simbatango.com/post/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Simba Tango" />
 
+  <meta name="generator" content="Hugo 0.37.1" />
+  <link rel="canonical" href="http://simbatango.com/post/" />
   <link rel="alternate" href="http://simbatango.com/index.xml" type="application/rss+xml" title="Simba Tango">
-
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -21,52 +29,61 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
   <link rel="stylesheet" href="http://simbatango.com/css/pygment_highlights.css" />
-  <link rel="stylesheet" href="http://simbatango.com/css/highlight.min.css">
+  <link rel="stylesheet" href="http://simbatango.com/css/highlight.min.css" />
 
-  
-  
- 
-  
-    <meta property="og:title" content="Posts" />
-  
 
-  
-    <meta property="og:description" content="">
-  
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
 
-  <meta property="og:type" content="website" />
 
-  
-    <meta property="og:url" content="http://simbatango.com/post/" />
-    <link rel="canonical" href="http://simbatango.com/post/" />
-  
 
-  
-    <meta property="og:image" content="http://simbatango.com/img/simba.png" />
-  
-  
-  
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@simbatango" />
-  <meta name="twitter:creator" content="@simbatango" />
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
 
-  
-    <meta name="twitter:title" content="Posts" />
-  
+<div class="pswp__bg"></div>
 
-  
-    <meta name="twitter:description" content="">
-  
-
-  
-    <meta name="twitter:image" content="http://simbatango.com/img/simba.png" />
-   
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
 
 </head>
 
-
   <body>
-
     <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -118,6 +135,10 @@
             </li>
           
         
+
+        
+
+        
       </ul>
     </div>
 
@@ -135,36 +156,44 @@
 </nav>
 
 
-    <header class="header-section ">
-      <div class="intro-header no-img">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-              <div class="page-heading">
-                <h2>#Posts</h2>
-              </div>
+
+
+    
+  <header class="header-section ">
+    <div class="intro-header no-img">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="page-heading">
+              <h1>Posts</h1>
+              <hr class="small">
             </div>
           </div>
         </div>
       </div>
-    </header>
+    </div>
+  </header>
 
-    <div class="container" role="main">
-      
-      
-        <article class="post-preview">
-          <a href="http://simbatango.com/2009/02/21/white-powder-vs-tango-argentino/">
-            <h2 class="post-title">White powder vs. Tango Argentino</h2>
+    
+  <div class="container" role="main">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        
+        <div class="posts-list">
+          
+            <article class="post-preview">
+              <a href="http://simbatango.com/2009/02/21/white-powder-vs-tango-argentino/">
+                <h2 class="post-title">White powder vs. Tango Argentino</h2>
 
-            
-          </a>
+                
+              </a>
 
-          <p class="post-meta">
-            Posted on 2009-02-21
-          </p>
-          <div class="post-entry">
-            
-              Powder Mountain Perspective from Ian Provo on Vimeo.
+              <p class="post-meta">
+                Posted on 2009-02-21
+              </p>
+              <div class="post-entry">
+                
+                  Powder Mountain Perspective from Ian Provo on Vimeo.
 Common (could be pro or con, depending&hellip;):
  Balance
  Rhythm
@@ -182,350 +211,367 @@ Common (could be pro or con, depending&hellip;):
  Tough ascents
  Heavy on the knees
  Practical clothing
-              <a href="http://simbatango.com/2009/02/21/white-powder-vs-tango-argentino/" class="post-read-more">[Read&nbsp;More]</a>
-            
-          </div>
+                  <a href="http://simbatango.com/2009/02/21/white-powder-vs-tango-argentino/" class="post-read-more">[Read More]</a>
+                
+              </div>
 
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/champagne">champagne</a>&nbsp;
+                  
+                    #<a href="/tags/cons">cons</a>&nbsp;
+                  
+                    #<a href="/tags/mountains">mountains</a>&nbsp;
+                  
+                    #<a href="/tags/pros">pros</a>&nbsp;
+                  
+                    #<a href="/tags/skiing">skiing</a>&nbsp;
+                  
+                    #<a href="/tags/tango">tango</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
           
-            <span class="post-meta">
-              
-                #<a href="/tags/champagne">champagne</a>&nbsp;
-              
-                #<a href="/tags/cons">cons</a>&nbsp;
-              
-                #<a href="/tags/mountains">mountains</a>&nbsp;
-              
-                #<a href="/tags/pros">pros</a>&nbsp;
-              
-                #<a href="/tags/skiing">skiing</a>&nbsp;
-              
-                #<a href="/tags/tango">Tango</a>&nbsp;
-              
-            </span>
-          
+            <article class="post-preview">
+              <a href="http://simbatango.com/2009/02/15/alejandro-hermida-maria-jose-grattarola/">
+                <h2 class="post-title">Alejandro Hermida &amp; Maria Jose Grattarola</h2>
 
-        </article>
-      
-        <article class="post-preview">
-          <a href="http://simbatango.com/2009/02/15/alejandro-hermida-maria-jose-grattarola/">
-            <h2 class="post-title">Alejandro Hermida &amp; Maria Jose Grattarola</h2>
+                
+              </a>
 
-            
-          </a>
-
-          <p class="post-meta">
-            Posted on 2009-02-15
-          </p>
-          <div class="post-entry">
-            
-              <p>httpv://www.youtube.com/watch?v=utwv5HDehOU</p>
+              <p class="post-meta">
+                Posted on 2009-02-15
+              </p>
+              <div class="post-entry">
+                
+                  <p>httpv://www.youtube.com/watch?v=utwv5HDehOU</p>
 
 <p>httpv://www.youtube.com/watch?v=04TYG1TlwS8</p>
 
 <p>Alejandro Hermida (Campeon de milonga, 2007) &amp; Maria Jose Grattarola on their first European tour. Muy lindo! Felicitaciones!</p>
 
-            
-          </div>
+                
+              </div>
 
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/alejandro-hermida">alejandro-hermida</a>&nbsp;
+                  
+                    #<a href="/tags/campeon">campeon</a>&nbsp;
+                  
+                    #<a href="/tags/denmark">denmark</a>&nbsp;
+                  
+                    #<a href="/tags/maria-jose-grattarola">maria-jose-grattarola</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
           
-            <span class="post-meta">
-              
-                #<a href="/tags/alejandro-hermida">alejandro hermida</a>&nbsp;
-              
-                #<a href="/tags/campeon">campeon</a>&nbsp;
-              
-                #<a href="/tags/denmark">Denmark</a>&nbsp;
-              
-                #<a href="/tags/maria-jose-grattarola">Maria Jose Grattarola</a>&nbsp;
-              
-            </span>
-          
+            <article class="post-preview">
+              <a href="http://simbatango.com/2009/02/13/rose-in-mouth/">
+                <h2 class="post-title">Rose in mouth</h2>
 
-        </article>
-      
-        <article class="post-preview">
-          <a href="http://simbatango.com/2009/02/13/rose-in-mouth/">
-            <h2 class="post-title">Rose in mouth</h2>
+                
+              </a>
 
-            
-          </a>
-
-          <p class="post-meta">
-            Posted on 2009-02-13
-          </p>
-          <div class="post-entry">
-            
-              by alyssathiele
+              <p class="post-meta">
+                Posted on 2009-02-13
+              </p>
+              <div class="post-entry">
+                
+                  by alyssathiele
 The tango cliché of dancing with a rose in the mouth is quite fascinating. It is everywhere, and everybody doing argentine tango wants absolutely nothing to do with it. But where does it come from?
 I have often seen it associated with the silent movie star Rudolph Valentino, and suggested that it first appeared in the movie Four Horsemen of the Apocalypse (1921). So being curious, I had to check this out.
-              <a href="http://simbatango.com/2009/02/13/rose-in-mouth/" class="post-read-more">[Read&nbsp;More]</a>
-            
-          </div>
+                  <a href="http://simbatango.com/2009/02/13/rose-in-mouth/" class="post-read-more">[Read More]</a>
+                
+              </div>
 
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/hollywood">hollywood</a>&nbsp;
+                  
+                    #<a href="/tags/popular-culture">popular-culture</a>&nbsp;
+                  
+                    #<a href="/tags/rose-in-mouth">rose-in-mouth</a>&nbsp;
+                  
+                    #<a href="/tags/tango-research">tango-research</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
           
-            <span class="post-meta">
-              
-                #<a href="/tags/hollywood">hollywood</a>&nbsp;
-              
-                #<a href="/tags/popular-culture">popular culture</a>&nbsp;
-              
-                #<a href="/tags/rose-in-mouth">rose in mouth</a>&nbsp;
-              
-                #<a href="/tags/tango-research">tango research</a>&nbsp;
-              
-            </span>
-          
+            <article class="post-preview">
+              <a href="http://simbatango.com/2009/02/12/evolution/">
+                <h2 class="post-title">Evolution</h2>
 
-        </article>
-      
-        <article class="post-preview">
-          <a href="http://simbatango.com/2009/02/12/evolution/">
-            <h2 class="post-title">Evolution</h2>
+                
+              </a>
 
-            
-          </a>
-
-          <p class="post-meta">
-            Posted on 2009-02-12
-          </p>
-          <div class="post-entry">
-            
-              by Kaptain Kobold
+              <p class="post-meta">
+                Posted on 2009-02-12
+              </p>
+              <div class="post-entry">
+                
+                  by Kaptain Kobold
 It&rsquo;s the year of Darwin this year. In a radio show, different scientists were discussing Darwin&rsquo;s impact on their fields. The art historian made a point out of the fact that after Darwin, people no longer expected the evolution to be linear, or directed towards a specific goal. Always improving. It became clear that modern art would change, take different forms. The direction of change would be an other matter entirely.
-              <a href="http://simbatango.com/2009/02/12/evolution/" class="post-read-more">[Read&nbsp;More]</a>
-            
-          </div>
+                  <a href="http://simbatango.com/2009/02/12/evolution/" class="post-read-more">[Read More]</a>
+                
+              </div>
 
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/art">art</a>&nbsp;
+                  
+                    #<a href="/tags/change">change</a>&nbsp;
+                  
+                    #<a href="/tags/darwin">darwin</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
           
-            <span class="post-meta">
-              
-                #<a href="/tags/art">Art</a>&nbsp;
-              
-                #<a href="/tags/change">change</a>&nbsp;
-              
-                #<a href="/tags/darwin">darwin</a>&nbsp;
-              
-            </span>
-          
+            <article class="post-preview">
+              <a href="http://simbatango.com/2009/02/10/classic-couples-geraldine-javier/">
+                <h2 class="post-title">Classic Couples: Geraldine &amp; Javier</h2>
 
-        </article>
-      
-        <article class="post-preview">
-          <a href="http://simbatango.com/2009/02/10/classic-couples-geraldine-javier/">
-            <h2 class="post-title">Classic Couples: Geraldine &amp; Javier</h2>
+                
+              </a>
 
-            
-          </a>
-
-          <p class="post-meta">
-            Posted on 2009-02-10
-          </p>
-          <div class="post-entry">
-            
-              
+              <p class="post-meta">
+                Posted on 2009-02-10
+              </p>
+              <div class="post-entry">
+                
+                  
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
-  <iframe src="//www.youtube.com/embed/xx3ErNlkh24" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0"></iframe>
+  <iframe src="//www.youtube.com/embed/xx3ErNlkh24" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
  </div>
 
 
 <p>
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
-  <iframe src="//www.youtube.com/embed/bnC03nKl_rE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0"></iframe>
+  <iframe src="//www.youtube.com/embed/bnC03nKl_rE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
  </div>
 </p>
 
 <p>
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
-  <iframe src="//www.youtube.com/embed/SnWO_8f-1O0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0"></iframe>
+  <iframe src="//www.youtube.com/embed/SnWO_8f-1O0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
  </div>
 </p>
 
-            
-          </div>
+                
+              </div>
 
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/classic">classic</a>&nbsp;
+                  
+                    #<a href="/tags/geraldine">geraldine</a>&nbsp;
+                  
+                    #<a href="/tags/javier">javier</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
           
-            <span class="post-meta">
-              
-                #<a href="/tags/classic">classic</a>&nbsp;
-              
-                #<a href="/tags/geraldine">geraldine</a>&nbsp;
-              
-                #<a href="/tags/javier">javier</a>&nbsp;
-              
-            </span>
-          
+            <article class="post-preview">
+              <a href="http://simbatango.com/2009/02/06/no-one-will-talk-to-you-at-parties/">
+                <h2 class="post-title">No-one will talk to you at parties</h2>
 
-        </article>
-      
-        <article class="post-preview">
-          <a href="http://simbatango.com/2009/02/06/no-one-will-talk-to-you-at-parties/">
-            <h2 class="post-title">No-one will talk to you at parties</h2>
+                
+              </a>
 
-            
-          </a>
-
-          <p class="post-meta">
-            Posted on 2009-02-06
-          </p>
-          <div class="post-entry">
-            
-              <p><a href="http://www.flickr.com/photos/thomashawk/205664580/"><img src="http://farm1.static.flickr.com/92/205664580_92f43ee0d1.jpg" alt="Do Not Park Here by Thomas Hawk, on Flickr" /></a>
+              <p class="post-meta">
+                Posted on 2009-02-06
+              </p>
+              <div class="post-entry">
+                
+                  <p><a href="http://www.flickr.com/photos/thomashawk/205664580/"><img src="http://farm1.static.flickr.com/92/205664580_92f43ee0d1.jpg" alt="Do Not Park Here by Thomas Hawk, on Flickr" /></a>
 <a href="http://creativecommons.org/licenses/by-nc/2.0/"><img src="http://i.creativecommons.org/l/by-nc/2.0/80x15.png" alt="Creative Commons Attribution-Noncommercial 2.0 Generic License" /></a> by <a href="http://www.flickr.com/people/thomashawk/"> Thomas Hawk</a><a href="http://www.imagecodr.org/"> </a></p>
 
 <p>Being serious about tango doesn&rsquo;t mean you have to take yourself too seriously.</p>
 
-            
-          </div>
+                
+              </div>
 
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/humour">humour</a>&nbsp;
+                  
+                    #<a href="/tags/serious">serious</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
           
-            <span class="post-meta">
-              
-                #<a href="/tags/humour">Humour</a>&nbsp;
-              
-                #<a href="/tags/serious">serious</a>&nbsp;
-              
-            </span>
-          
+            <article class="post-preview">
+              <a href="http://simbatango.com/2009/02/04/empty-movement/">
+                <h2 class="post-title">Empty movement</h2>
 
-        </article>
-      
-        <article class="post-preview">
-          <a href="http://simbatango.com/2009/02/04/empty-movement/">
-            <h2 class="post-title">Empty movement</h2>
+                
+              </a>
 
-            
-          </a>
-
-          <p class="post-meta">
-            Posted on 2009-02-04
-          </p>
-          <div class="post-entry">
-            
-              by bass_nroll
+              <p class="post-meta">
+                Posted on 2009-02-04
+              </p>
+              <div class="post-entry">
+                
+                  by bass_nroll
 As you probably know, tango is not merely a dance. Among other things, the dance is also a language. It is not like a language, because the different movements have different meanings, which can be used for actual communication. It is not a metaphor. However, when people copy movements without realizing the underlying meaning, the result is movements with no meaning. Empty movement.
 Or even worse, you may be saying something without knowing it.
-              <a href="http://simbatango.com/2009/02/04/empty-movement/" class="post-read-more">[Read&nbsp;More]</a>
-            
-          </div>
+                  <a href="http://simbatango.com/2009/02/04/empty-movement/" class="post-read-more">[Read More]</a>
+                
+              </div>
 
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/language">language</a>&nbsp;
+                  
+                    #<a href="/tags/metaphor">metaphor</a>&nbsp;
+                  
+                    #<a href="/tags/tango-culture">tango-culture</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
           
-            <span class="post-meta">
-              
-                #<a href="/tags/language">Language</a>&nbsp;
-              
-                #<a href="/tags/metaphor">Metaphor</a>&nbsp;
-              
-                #<a href="/tags/tango-culture">Tango culture</a>&nbsp;
-              
-            </span>
-          
+            <article class="post-preview">
+              <a href="http://simbatango.com/2009/01/29/lastfm-cleaning-up/">
+                <h2 class="post-title">Last.fm cleaning up</h2>
 
-        </article>
-      
-        <article class="post-preview">
-          <a href="http://simbatango.com/2009/01/29/lastfm-cleaning-up/">
-            <h2 class="post-title">Last.fm cleaning up</h2>
+                
+              </a>
 
-            
-          </a>
-
-          <p class="post-meta">
-            Posted on 2009-01-29
-          </p>
-          <div class="post-entry">
-            
-              <p><a href="http://www.flickr.com/photos/aldask/2313594798/"><img src="http://farm4.static.flickr.com/3039/2313594798_8cbd507273.jpg" alt="Last.fm spy records on my mp3 tastes (1 by aldask, on Flickr" /></a>
+              <p class="post-meta">
+                Posted on 2009-01-29
+              </p>
+              <div class="post-entry">
+                
+                  <p><a href="http://www.flickr.com/photos/aldask/2313594798/"><img src="http://farm4.static.flickr.com/3039/2313594798_8cbd507273.jpg" alt="Last.fm spy records on my mp3 tastes (1 by aldask, on Flickr" /></a>
 <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/"><img src="http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png" alt="Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License" /></a> by <a href="http://www.flickr.com/people/aldask/"> aldask</a></p>
 
 <p><a href="http://last.fm">Last.fm</a> are finally <a href="http://blog.last.fm/2009/01/29/closing-in-on-clean-metadata-artist-and-track-spelling-auto-correction-is-here">cleaning up their metadata</a>, or at least they have started. If you are on last.fm, why don&rsquo;t you help out by voting for <a href="http://www.last.fm/music/Rodolpho+Biagi">Rodolpho Biagi</a> to redirect to <a href="http://www.last.fm/music/Rodolfo+Biagi">Rodolfo Biagi</a>? (follow the link to faulty spelling, vote at the bottom right). And while you are at it, if you are also a tango dj, why don&rsquo;t join the group <a href="http://www.last.fm/group/TangoDJ">tangodj</a>?</p>
 
 <p>Information on tango music has gotten better lately, and a sample from top <a href="http://www.last.fm/music/Osvaldo+Pugliese">Pugliese</a> tracks seems reasonable:</p>
 
-            
-          </div>
+                
+              </div>
 
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/dj">dj</a>&nbsp;
+                  
+                    #<a href="/tags/last.fm">last.fm</a>&nbsp;
+                  
+                    #<a href="/tags/technology">technology</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
           
-            <span class="post-meta">
-              
-                #<a href="/tags/dj">DJ</a>&nbsp;
-              
-                #<a href="/tags/last.fm">last.fm</a>&nbsp;
-              
-                #<a href="/tags/technology">technology</a>&nbsp;
-              
-            </span>
-          
+            <article class="post-preview">
+              <a href="http://simbatango.com/2009/01/28/more-on-reinvention/">
+                <h2 class="post-title">More on reinvention</h2>
 
-        </article>
-      
-        <article class="post-preview">
-          <a href="http://simbatango.com/2009/01/28/more-on-reinvention/">
-            <h2 class="post-title">More on reinvention</h2>
+                
+              </a>
 
-            
-          </a>
-
-          <p class="post-meta">
-            Posted on 2009-01-28
-          </p>
-          <div class="post-entry">
-            
-              by oschene
+              <p class="post-meta">
+                Posted on 2009-01-28
+              </p>
+              <div class="post-entry">
+                
+                  by oschene
 After discussing my short post on reinvention in the comments, I decided to write a new post discussing the matter. Here is the quote again:
 "Those who don't understand [Tango] are condemned to reinvent it, poorly."   – Henry Spencer (about Unix)      First I thought of it as a warning against setting out to reinvent or improve something that you do not fully understand, as it will be futile.
-              <a href="http://simbatango.com/2009/01/28/more-on-reinvention/" class="post-read-more">[Read&nbsp;More]</a>
-            
-          </div>
+                  <a href="http://simbatango.com/2009/01/28/more-on-reinvention/" class="post-read-more">[Read More]</a>
+                
+              </div>
 
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/nuevo">nuevo</a>&nbsp;
+                  
+                    #<a href="/tags/reinvention">reinvention</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
           
-            <span class="post-meta">
-              
-                #<a href="/tags/nuevo">nuevo</a>&nbsp;
-              
-                #<a href="/tags/reinvention">reinvention</a>&nbsp;
-              
-            </span>
-          
+            <article class="post-preview">
+              <a href="http://simbatango.com/2009/01/27/marathon/">
+                <h2 class="post-title">Marathon</h2>
 
-        </article>
-      
-        <article class="post-preview">
-          <a href="http://simbatango.com/2009/01/27/marathon/">
-            <h2 class="post-title">Marathon</h2>
+                
+              </a>
 
-            
-          </a>
-
-          <p class="post-meta">
-            Posted on 2009-01-27
-          </p>
-          <div class="post-entry">
-            
-              <p><a href="http://www.flickr.com/photos/cdm/366676021/"><img src="http://farm1.static.flickr.com/155/366676021_ca96e56faa.jpg" alt="marathon sacrifice by darkmatter, on Flickr" /></a>
+              <p class="post-meta">
+                Posted on 2009-01-27
+              </p>
+              <div class="post-entry">
+                
+                  <p><a href="http://www.flickr.com/photos/cdm/366676021/"><img src="http://farm1.static.flickr.com/155/366676021_ca96e56faa.jpg" alt="marathon sacrifice by darkmatter, on Flickr" /></a>
 <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/"><img src="http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png" alt="Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License" /></a> by <a href="http://www.flickr.com/people/cdm/"> darkmatter</a></p>
 
 <p>So what&rsquo;s with this <em>marathon</em> thing that seems to be spreading across Europe? I never found anything positive about marathons, running and sweating for hours on asphalt with no break and being totally destroyed afterwards?</p>
 
 <p>Of course, people may dance as they like. Myself, I prefer a nice milonga, champagne at the table, nice and clean clothes, nice and calm. Having a ball. Walking.</p>
 
+                
+              </div>
+
+              
+                <span class="post-meta">
+                  
+                    #<a href="/tags/marathon">marathon</a>&nbsp;
+                  
+                    #<a href="/tags/party">party</a>&nbsp;
+                  
+                    #<a href="/tags/rant">rant</a>&nbsp;
+                  
+                </span>
+              
+
+            </article>
+          
+        </div>
+        
+          <ul class="pager main-pager">
             
-          </div>
-
-          
-            <span class="post-meta">
-              
-                #<a href="/tags/marathon">marathon</a>&nbsp;
-              
-                #<a href="/tags/party">party</a>&nbsp;
-              
-                #<a href="/tags/rant">rant</a>&nbsp;
-              
-            </span>
-          
-
-        </article>
-      
+              <li class="previous">
+                <a href="/post/page/22">&larr; Newer Posts</a>
+              </li>
+            
+            
+              <li class="next">
+                <a href="/post/page/24">Older Posts &rarr;</a>
+              </li>
+            
+          </ul>
+        
+      </div>
     </div>
+  </div>
 
     <footer>
   <div class="container">
@@ -533,57 +579,38 @@ After discussing my short post on reinvention in the comments, I decided to writ
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <ul class="list-inline text-center footer-links">
           
-          <li>
-            <a href="mailto:simbatango@gmail.com" title="Email me">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          
-          
-          <li>
-            <a href="https://www.facebook.com/Simba-tango-104489154140/" title="Facebook">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          
-          
-          
-          
-          <li>
-            <a href="https://twitter.com/simbatango" title="Twitter">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          
-          
-          
-          
-          
-          
-          
-          
-          <li>
-            <a href="https://www.youtube.com/user/qmulus" title="Youtube">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          
-          
-          
-          
-          
+              <li>
+                <a href="mailto:simbatango@gmail.com" title="Email me">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.facebook.com/Simba-tango-104489154140/" title="Facebook">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://twitter.com/simbatango" title="Twitter">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/user/qmulus" title="Youtube">
+                  <span class="fa-stack fa-lg">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
+                  </span>
+                </a>
+              </li>
           
           <li>
             <a href="http://simbatango.com/index.xml" title="RSS">
@@ -607,7 +634,7 @@ After discussing my short post on reinvention in the comments, I decided to writ
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="http://gohugo.io">Hugo v0.19</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          <a href="http://gohugo.io">Hugo v0.37.1</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
           
         </p>
       </div>
@@ -623,9 +650,12 @@ After discussing my short post on reinvention in the comments, I decided to writ
 <script src="http://simbatango.com/js/highlight.min.js"></script>
 <script> hljs.initHighlightingOnLoad(); </script>
 <script> renderMathInElement(document.body); </script>
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
+<script src="/js/load-photoswipe.js"></script>
 
 
 
   </body>
 </html>
+

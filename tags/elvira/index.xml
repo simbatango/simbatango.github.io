@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elvira on Simba Tango</title>
-    <link>http://simbatango.com/tags/elvira/index.xml</link>
+    <link>http://simbatango.com/tags/elvira/</link>
     <description>Recent content in Elvira on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/elvira/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Mar 2013 14:43:02 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/elvira/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Rare Clips of Petróleo, Virulazo and others</title>
@@ -16,28 +19,8 @@
       <pubDate>Sun, 31 Mar 2013 14:43:02 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2013/03/31/rare-clips-of-petroleo-virulazo-and-others/</guid>
-      <description>&lt;p&gt;Amazing how these old clips slowly surface on youtube and facebook. Here are some clips that seem to be from an old documentary, posted by &lt;a href=&#34;http://www.victorycristina.blogspot.com&#34;&gt;Victor Barrios and Cristina Benavidez&lt;/a&gt;:&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/quHDYyqnJcE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/YjmoFyAlLFA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/IS2eCTtO6fc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;HT: &lt;a href=&#34;https://twitter.com/FerGaleraTango/status/317391157439119360&#34;&gt;@FerGaleraTango&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Amazing how these old clips slowly surface on youtube and facebook. Here are some clips that seem to be from an old documentary, posted by Victor Barrios and Cristina Benavidez:
+      HT: @FerGaleraTango</description>
     </item>
     
   </channel>

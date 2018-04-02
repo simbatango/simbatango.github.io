@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Listening To The Music on Simba Tango</title>
-    <link>http://simbatango.com/categories/listening-to-the-music/index.xml</link>
-    <description>Recent content in Listening To The Music on Simba Tango</description>
+    <title>Listening to the Music on Simba Tango</title>
+    <link>http://simbatango.com/categories/listening-to-the-music/</link>
+    <description>Recent content in Listening to the Music on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/categories/listening-to-the-music/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jul 2017 23:04:48 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/categories/listening-to-the-music/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Los Estilos Fundamentales de Tango 3</title>
@@ -16,42 +19,8 @@
       <pubDate>Thu, 20 Jul 2017 23:04:48 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2017/07/20/los-estilos-fundamentales-de-tango-3/</guid>
-      <description>
-
-&lt;p&gt;The third season is well underway&amp;hellip; Enjoy!&lt;/p&gt;
-
-&lt;h3 id=&#34;el-choclo-2017-04&#34;&gt;El Choclo (2017-04):&lt;/h3&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/46t74DdftG8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;h3 id=&#34;laurenz-2017-05&#34;&gt;Laurenz (2017-05)&lt;/h3&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/vZGWrNfybBo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;h3 id=&#34;milonga-2017-06-14&#34;&gt;Milonga (2017-06-14)&lt;/h3&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/T-3HR_nktDc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;h3 id=&#34;ot-piazzolla-2017-07&#34;&gt;OT Piazzolla (2017-07)&lt;/h3&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/U4hKPEUsgiY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-</description>
+      <description> The third season is well underway&amp;hellip; Enjoy!
+El Choclo (2017-04):   Laurenz (2017-05)   Milonga (2017-06-14)   OT Piazzolla (2017-07)   </description>
     </item>
     
     <item>
@@ -60,14 +29,7 @@
       <pubDate>Sat, 01 Oct 2016 17:54:48 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2016/10/01/los-estilos-fundamentales-de-tango-2-miguel-calo/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/2iongJr9jw8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;The latest video from the Los Estilos Fundamentales del Tango is up. This time featuring Miguel Caló. Enjoy!&lt;/p&gt;
-</description>
+      <description>The latest video from the Los Estilos Fundamentales del Tango is up. This time featuring Miguel Caló. Enjoy!</description>
     </item>
     
     <item>
@@ -76,14 +38,7 @@
       <pubDate>Mon, 25 Jul 2016 19:58:16 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2016/07/25/los-estilos-fundamentales-del-tango-2-francini-pontier/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/2DN9RhnpH7E&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Video from the Francini-Pontier seminar is up: Enjoy!&lt;/p&gt;
-</description>
+      <description>Video from the Francini-Pontier seminar is up: Enjoy!</description>
     </item>
     
     <item>
@@ -92,14 +47,7 @@
       <pubDate>Sun, 19 Jun 2016 20:23:26 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2016/06/19/los-estilos-fundamentales-del-tango-2-julio-de-caro/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/vQHWuU8Q2DY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;The video from the seminar last week on Julio De Caro is up. Enjoy!&lt;/p&gt;
-</description>
+      <description>The video from the seminar last week on Julio De Caro is up. Enjoy!</description>
     </item>
     
     <item>
@@ -108,14 +56,7 @@
       <pubDate>Sun, 22 May 2016 09:07:24 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2016/05/22/los-estilos-fundamentales-del-tango-series-2-elementos-basicos/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/5cF6SvvYXLU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Ignacio Varchausky is at it again with a new series of his excellent &lt;a href=&#34;https://www.facebook.com/groups/451570588378843/&#34;&gt;Los Estilos Fundamentales del Tango&lt;/a&gt;. Go there if you&amp;rsquo;re in Bs As, or listen/watch after the fact like the rest of us otherwise. Enjoy!&lt;/p&gt;
-</description>
+      <description>Ignacio Varchausky is at it again with a new series of his excellent Los Estilos Fundamentales del Tango. Go there if you&amp;rsquo;re in Bs As, or listen/watch after the fact like the rest of us otherwise. Enjoy!</description>
     </item>
     
     <item>
@@ -124,14 +65,7 @@
       <pubDate>Mon, 26 Oct 2015 19:43:01 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2015/10/26/los-estilos-fundamentales-del-tango-por-ignacio-varchausky-alfredo-gobbi/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/hS_Q2dzBHLo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;The Gobbi seminar video is up!&lt;/p&gt;
-</description>
+      <description>The Gobbi seminar video is up!</description>
     </item>
     
     <item>
@@ -140,14 +74,7 @@
       <pubDate>Sat, 19 Sep 2015 15:40:12 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2015/09/19/los-estilos-fundamentales-del-tango-por-ignacio-varchausky-horacio-salgan/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/aFjt2oCdXGA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;This time with video. Enjoy!&lt;/p&gt;
-</description>
+      <description>This time with video. Enjoy!</description>
     </item>
     
     <item>
@@ -156,44 +83,8 @@
       <pubDate>Sun, 23 Aug 2015 19:01:31 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2015/08/23/los-estilos-fundamentales-del-tango-por-ignacio-varchausky/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2015/08/Losestilos.jpg&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2015/08/Losestilos.jpg&#34; alt=&#34;Losestilos&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Ignacio Varchausky is doing a series of very interesting seminars on the style of different tango orchestras. Audio recordings of the seminars have been released with links in &lt;a href=&#34;https://www.facebook.com/events/873463526054939/&#34;&gt;the facebook comments&lt;/a&gt;, and that means an opportunity to listen to them even when very lejos de Buenos Aires. They are in Spanish though, so you need to follow spoken Spanish reasonably well to make any use of it.&lt;/p&gt;
-
-&lt;p&gt;Apparently, they build on a seminar similar to the one that inspired &lt;a href=&#34;http://simbatango.com/2009/12/19/what-to-listen-for-in-tango/&#34;&gt;this post on how to listen to tango&lt;/a&gt;, so you might want to check out that first, if you haven&amp;rsquo;t already. There is one seminar dedicated to a single orchestra and what characterizes their style. Highly recommended. Obviously, if you&amp;rsquo;re in Buenos Aires on September 16, you should go to Centro Cultural Lola Mora at 7 PM.&lt;/p&gt;
-
-&lt;p&gt;Ignacio encourages sharing these in one of the seminars, because the purpose of the seminars is to spread knowledge of tango. Of course, this is right up my alley, so I couldn&amp;rsquo;t resist. All the original download links can be found in the comments of the &lt;a href=&#34;https://www.facebook.com/events/873463526054939/&#34;&gt;facebook event&lt;/a&gt;, but some of them will expire and some are very large files. Therefore, I host some more reasonably sized versions below (~50-100 MB each, choose between &lt;a href=&#34;http://wiki.hydrogenaud.io/index.php?title=Advanced_Audio_Coding&#34;&gt;AAC&lt;/a&gt;/m4a or slightly smaller &lt;a href=&#34;http://wiki.hydrogenaud.io/index.php?title=Opus&#34;&gt;Opus&lt;/a&gt; versions):&lt;/p&gt;
-
-&lt;p&gt;Enjoy! ¡Espero que los disfruten!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/6q13m98s3kz9rwg/0_-_Musica.m4a?dl=1&#34;&gt;0. Música&lt;/a&gt; (&lt;a href=&#34;https://www.dropbox.com/s/gbislyk4vbklng0/00-Musica.opus?dl=1&#34;&gt;Opus version&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/7jh8yr5din1te49/1_-_Carlos_Di_Sarli.m4a?dl=1&#34;&gt;1. Carlos Di Sarli&lt;/a&gt; (&lt;a href=&#34;https://www.dropbox.com/s/jlkrm95id0ccl7j/01-Carlos_Di_Sarli.opus?dl=1&#34;&gt;Opus version&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/od39yzd27d66b7x/2_-_Juan_D%27Arienzo.m4a?dl=1&#34;&gt;2. Juan D&amp;rsquo;Arienzo&lt;/a&gt; (&lt;a href=&#34;https://www.dropbox.com/s/1h72pckeqkyozf8/02-Juan_DArienzo.opus?dl=1&#34;&gt;Opus version&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/4eywo5vf6kdwbgl/3_-_Osvaldo_Pugliese.m4a?dl=1&#34;&gt;3. Osvaldo Pugliese&lt;/a&gt; (&lt;a href=&#34;https://www.dropbox.com/s/152tk4o79yfis2v/03-Osvaldo_Pugliese.opus?dl=1&#34;&gt;Opus version&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/1astzmn4hmchyv5/4-1_-_Anibal_Troilo.m4a?dl=1&#34;&gt;4.1 Aníbal Troilo &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt;&lt;/a&gt; (&lt;a href=&#34;https://www.dropbox.com/s/9yv7iac5um37nf7/04.1-Anibal_Troilo.opus?dl=1&#34;&gt;Opus version&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.dropbox.com/s/njxslrk7vj7r4kc/4-2_-_Anibal_Troilo.m4a?dl=1&#34;&gt;4.2 Aníbal Troilo &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt;&lt;/a&gt; (&lt;a href=&#34;https://www.dropbox.com/s/phu90uohlns4wsx/04.2-Anibal_Troilo.opus?dl=1&#34;&gt;Opus version&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=aFjt2oCdXGA&#34;&gt;5. Horacio Salgán (YouTube video)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=hS_Q2dzBHLo&#34;&gt;6. Alfredo Gobbi (YouTube video)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;EDIT 2015-11-19: Added first seminar about tango music in general and links to the YouTube-videos of the Salgán and Gobbi seminars. Also, the original event at Facebook expired, and there is now a &lt;a href=&#34;https://www.facebook.com/groups/451570588378843/&#34;&gt;Facebook-group for the series of seminars&lt;/a&gt;, get ready for a second run of seminars in 2016!&lt;/p&gt;
-
-&lt;p&gt;EDIT 2016-05-22: The new series has started. First seminar: Elementos básicos (&lt;a href=&#34;https://www.youtube.com/watch?v=5cF6SvvYXLU&#34;&gt;YouTube video&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;EDIT 2016-06-19: Second seminar: Julio De Caro (&lt;a href=&#34;https://youtu.be/vQHWuU8Q2DY&#34;&gt;YouTube video&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;EDIT 2016-07-25: Third seminar: Francini-Pontier (&lt;a href=&#34;https://youtu.be/2DN9RhnpH7E&#34;&gt;YouTube video&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;EDIT 2016-09-01: Fresedo seminar: (&lt;a href=&#34;https://www.youtube.com/watch?v=htSHW5naYjs&#34;&gt;YouTube video&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;EDIT 2016-10-01: Miguel Caló (&lt;a href=&#34;https://youtu.be/2iongJr9jw8&#34;&gt;YouTube video&lt;/a&gt;)&lt;/p&gt;
-</description>
+      <description>Ignacio Varchausky is doing a series of very interesting seminars on the style of different tango orchestras. Audio recordings of the seminars have been released with links in the facebook comments, and that means an opportunity to listen to them even when very lejos de Buenos Aires. They are in Spanish though, so you need to follow spoken Spanish reasonably well to make any use of it.
+Apparently, they build on a seminar similar to the one that inspired this post on how to listen to tango, so you might want to check out that first, if you haven&amp;rsquo;t already.</description>
     </item>
     
     <item>
@@ -202,33 +93,10 @@
       <pubDate>Sat, 12 Nov 2011 08:23:09 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2011/11/12/some-interesting-readingviewing-elsewhere/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/spam/5086168739/&#34;&gt;&lt;img src=&#34;http://farm5.static.flickr.com/4125/5086168739_fa12cd3318.jpg&#34; alt=&#34;Stockholm Public Library by Smath., on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution 2.0 Generic License&#34; /&gt;&lt;/a&gt;  by &lt;a href=&#34;http://www.flickr.com/people/spam/&#34;&gt; Smath.&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Not much time to write at the moment, here are some interesting posts that you might enjoy that I want to keep track of for later for my own sake:&lt;/p&gt;
-
-&lt;h2 id=&#34;interesting-interview-with-chicho&#34;&gt;Interesting interview with Chicho&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.2xtango.com/mariano-chicho-frumboli-tengo-una-pregunta-para-vos-parte-1/&#34;&gt;Part 1&lt;/a&gt;, &lt;a href=&#34;http://www.2xtango.com/mariano-chicho-frumboli-tengo-una-pregunta-para-vos-parte-2/&#34;&gt;Part 2&lt;/a&gt; and &lt;a href=&#34;http://www.2xtango.com/mariano-chicho-frumboli-tengo-una-pregunta-para-vos-parte-3/&#34;&gt;Part 3&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Quite an interesting read. I could relate very well to his comments on why teachers don&amp;rsquo;t necessarily dance all the time at festivals. Apparently many people in my local community have difficulties understanding this.&lt;/p&gt;
-
-&lt;h2 id=&#34;listening-to-music-with-professor-craig-wright&#34;&gt;&lt;strong&gt;Listening to Music&lt;/strong&gt; with Professor Craig Wright&lt;/h2&gt;
-
-&lt;blockquote&gt;This course fosters the development of aural skills that lead to an understanding of Western music. The musical novice is introduced to the ways in which music is put together and is taught how to listen to a wide variety of musical styles, from Bach and Mozart, to Gregorian chant, to the blues.&lt;/blockquote&gt;
-
-&lt;p&gt;According to the &lt;a href=&#34;http://oyc.yale.edu/yale/music/listening-to-music&#34;&gt;Yale Open course website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;HT: &lt;a href=&#34;http://mytangodiaries.blogspot.com/&#34;&gt;Mari&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;women-dancing-the-man-s-part&#34;&gt;Women Dancing The Man&amp;rsquo;s Part&lt;/h2&gt;
-
-&lt;p&gt;I have seen very few women dancing the man&amp;rsquo;s part where it does not look funny, this however is &lt;a href=&#34;http://enlamilonga.blogspot.com/2011/11/leccion-de-tango-de-dos-mujeres.html&#34;&gt;an impressive exception&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;HT: &lt;a href=&#34;http://tangopilgrim.com&#34;&gt;TP&lt;/a&gt;/Una Milonguera&lt;/p&gt;
-</description>
+      <description>by Smath.
+Not much time to write at the moment, here are some interesting posts that you might enjoy that I want to keep track of for later for my own sake:
+Interesting interview with Chicho Part 1, Part 2 and Part 3
+Quite an interesting read. I could relate very well to his comments on why teachers don&amp;rsquo;t necessarily dance all the time at festivals. Apparently many people in my local community have difficulties understanding this.</description>
     </item>
     
     <item>
@@ -237,18 +105,8 @@
       <pubDate>Sun, 18 Apr 2010 19:43:07 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2010/04/18/the-music-instinct/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2010/03/music-instinct.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2010/03/music-instinct.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;You know more about music than you think. You start picking up the rules from the day you are born, yes even before. And part of what makes music enjoyable is this knowledge of what to expect and the delight when your expectations are fulfilled, or some times bent a little before they find resolution.&lt;/p&gt;
-
-&lt;p&gt;This is part of the message of a fascinating book about music, &lt;a href=&#34;http://www.amazon.co.uk/Music-Instinct-Works-Cant-without/dp/1847920888/ref=sr_1_1?ie=UTF8&amp;amp;s=books&amp;amp;qid=1271619437&amp;amp;sr=8-1&#34;&gt;The Music Instinct&lt;/a&gt; by Philip Ball, (read reviews for instance in &lt;a href=&#34;http://www.economist.com/books/displaystory.cfm?story_id=15450498&#34;&gt;The Economist&lt;/a&gt;, or in &lt;a href=&#34;http://www.guardian.co.uk/books/2010/feb/21/the-music-instinct-philip-ball&#34;&gt;The Guardian&lt;/a&gt;) a book that I finally had time to finish reading this week-end.&lt;/p&gt;
-
-&lt;p&gt;Philip Ball has reviewed a lot of research on how our brains process music, and combines that knowledge with music theory and research in a very interesting blend. I enjoyed it a lot, and there is clearly material for quite a few posts here, but I haven&amp;rsquo;t had the time to process it all yet.&lt;/p&gt;
-
-&lt;p&gt;Already as small children we have figured out a lot of  the rules of music, but mainly about the music with which we are familiar. Ball investigates what is universal and what is based on cultural habit, how we interpret pitch, scales, melody, harmony,  rhythm, syntactic rules, semantics, the list goes on and on. In the final chapter he among other things discusses whether music can be interpreted incorrectly  &amp;ndash; fascinating topics and very relevant to tango as to all other music.&lt;/p&gt;
-
-&lt;p&gt;A recommended read, and I&amp;rsquo;ll certainly get back to this later. Did you know that even an amoeba can respond to rhythm? Seems unlikely tango beginners could lack that ability&amp;hellip;&lt;/p&gt;
-</description>
+      <description>You know more about music than you think. You start picking up the rules from the day you are born, yes even before. And part of what makes music enjoyable is this knowledge of what to expect and the delight when your expectations are fulfilled, or some times bent a little before they find resolution.
+This is part of the message of a fascinating book about music, The Music Instinct by Philip Ball, (read reviews for instance in The Economist, or in The Guardian) a book that I finally had time to finish reading this week-end.</description>
     </item>
     
     <item>
@@ -257,201 +115,8 @@
       <pubDate>Sun, 20 Dec 2009 01:29:27 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/12/20/what-to-listen-for-in-tango/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/danisarda/4043404303/&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/palette.jpg&#34; alt=&#34;Paleta de Colors // Colour Palette by ~Oryctes~, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/danisarda/&#34;&gt; ~Oryctes~&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Knowing what to listen for can greatly improve how much you appreciate music. I had the opportunity to attend a workshop with Ignacio Varchausky on listening to tango music. It was very interesting, and it turned out that it corresponded with a post I was planning to write as soon as I got back to my copy of Aaron Copland&amp;rsquo;s  &lt;a href=&#34;http://www.amazon.com/What-Listen-Music-Aaron-Copland/dp/0451528670/ref=pd_bbs_sr_4?ie=UTF8&amp;amp;s=books&amp;amp;qid=1222030415&amp;amp;sr=8-4&#34;&gt;What to listen for in music&lt;/a&gt;. Copland takes all his examples from classical music, while Ignacio used all tango examples.&lt;/p&gt;
-
-&lt;p&gt;Tango examples are of course much better when we are discussing tango music. For the most case I have come up with my own examples, as I don&amp;rsquo;t remember exactly what he played and don&amp;rsquo;t have all he played in my library.&lt;/p&gt;
-
-&lt;p&gt;The main topic was the four basic elements of music. These elements are:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Rhythm&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Melody&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Harmony&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Tone color/Timbre&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;rhythm&#34;&gt;Rhythm&lt;/h2&gt;
-
-&lt;p&gt;Whenever we break up a monotonous tone or sound with pauses, we get a &lt;a href=&#34;http://en.wikipedia.org/wiki/Rhythm&#34;&gt;rhythm&lt;/a&gt;. It can be simple or complex, and in a sense it is the most fundamental of the elements of music.&lt;/p&gt;
-
-&lt;p&gt;An interesting thing about tango, is that in contrast with other popular music, danceable music, like salsa, swing and others, the tango orchestra has no percussion instruments. No drums. It is peculiar for a form of rhytmical music to have no rhythm instruments, and the implication of this is that the other instruments have to make up for the lack of a rhythm section. This, in turn, influences the way the musicians have to play these instruments. In general, this role falls on the double bass and the piano.&lt;/p&gt;
-
-&lt;p&gt;Also, tango music uses several different rhythms (in contrast with other popular, danceable music, that generally keep the same beat through the entire tune. Sometimes the rhythm will change from bar to bar, sometimes there will be several rhythmical patterns at the same time. The main rhythms of tango are:&lt;/p&gt;
-
-&lt;p&gt;The Habanera, the marcato, various forms of syncopation and the 3-3-2.&lt;/p&gt;
-
-&lt;h3 id=&#34;the-habanera-http-en-wikipedia-org-wiki-habanera-music&#34;&gt;The &lt;a href=&#34;http://en.wikipedia.org/wiki/Habanera_(music)&#34;&gt;Habanera&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;The basic tango/milonga rhythm, familiar to opera lovers from Bizet&amp;rsquo;s opera Carmen. The habanera goes like this: Bamm-ba-ram-pam, or  in musical notation:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/habanera.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/habanera.png&#34; alt=&#34;habanera&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;In early tangos you will invariably hear this rhythm clearly in the background, often played by the guitar in orchestras preceding the establishment of the orchesta típica. Listen to this example by Juan Félix Maglio, and notice how the guitar plays the habanera rhythm in the background more or less all the time.&lt;/p&gt;
-
-&lt;p&gt;[wpaudio url=&amp;ldquo;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/Juan-Félix-Maglio-Un-copetín.mp3&amp;quot;&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2009/11/Juan-Félix-Maglio-Un-copetín.mp3&amp;quot;&lt;/a&gt; dl=&amp;ldquo;0&amp;rdquo;]&lt;/p&gt;
-
-&lt;h3 id=&#34;the-marcato-http-en-wikipedia-org-wiki-marcato&#34;&gt;The &lt;a href=&#34;http://en.wikipedia.org/wiki/Marcato&#34;&gt;Marcato&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;Around 1920, the marcato was introduced in tango, and has been an integrated part of most tangos ever since. It was first introduced by the Orquesta Típica Select, where important figures in tango &lt;a href=&#34;http://www.todotango.com/english/Creadores/fresedo.html&#34;&gt;Osvaldo Fresedo&lt;/a&gt;, &lt;a href=&#34;http://www.todotango.com/English/creadores/edelfino.asp&#34;&gt;Enrique Delfino&lt;/a&gt; and &lt;a href=&#34;http://www.todotango.com/English/creadores/troccatagliata.asp&#34;&gt;David &amp;lsquo;Tito&amp;rsquo; Roccatagliata&lt;/a&gt; were part.&lt;/p&gt;
-
-&lt;p&gt;The marcato means each of the four beats is played staccatto, either with each beat stressed, later developed into accentuating beats one and three. I use the time signature &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt; because tango is often known as El 2x4, even if many tangos are in fact written as &lt;sup&gt;4&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt;. In musical notation it would be something like this:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/marcato_1.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/marcato_1.png&#34; alt=&#34;marcato_1&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Accentuating beats one and three would look something like this:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/marcato_2.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/marcato_2.png&#34; alt=&#34;marcato_2&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Listen to this example by the Orquesta Típica Select:&lt;/p&gt;
-
-&lt;p&gt;[wpaudio url=&amp;ldquo;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/Orquesta-Típica-Select-Sábado-inglés.mp3&amp;quot;&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2009/11/Orquesta-Típica-Select-Sábado-inglés.mp3&amp;quot;&lt;/a&gt; dl=&amp;ldquo;0&amp;rdquo;]&lt;/p&gt;
-
-&lt;p&gt;This is very typical for basically all traditional tango music since then, listen for instance to an example by Enrique Rodríguez:&lt;/p&gt;
-
-&lt;p&gt;[wpaudio url=&amp;ldquo;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/Enrique-Rodríguez-Adiós-para-siempre-Armando-Moreno.mp3&amp;quot;&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2009/11/Enrique-Rodríguez-Adiós-para-siempre-Armando-Moreno.mp3&amp;quot;&lt;/a&gt; dl=&amp;ldquo;0&amp;rdquo;]&lt;/p&gt;
-
-&lt;p&gt;With Pugliese, it is often exaggerated with his signature onomatopoeia &lt;strong&gt;yumba&lt;/strong&gt; (yum-ba corresponds to one-two/three-four), here in the tango La yumba:&lt;/p&gt;
-
-&lt;p&gt;[wpaudio url=&amp;ldquo;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/Osvaldo-Pugliese-La-Yumba.mp3&amp;quot;&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2009/11/Osvaldo-Pugliese-La-Yumba.mp3&amp;quot;&lt;/a&gt; dl=&amp;ldquo;0&amp;rdquo;]&lt;/p&gt;
-
-&lt;h3 id=&#34;syncopation&#34;&gt;Syncopation&lt;/h3&gt;
-
-&lt;p&gt;In tango, you will find several &lt;a href=&#34;http://en.wikipedia.org/wiki/Syncopation&#34;&gt;syncopation&lt;/a&gt;s, where the accent is off the normal beat, playing on the listeners anticipation on the timing of the next beat. Maybe the most famous syncopation in tango, the arrastre, is when the accent is anticipating the first beat, playing it a bit too early (BaRhamm).&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/arrastre.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/arrastre.png&#34; alt=&#34;arrastre&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[wpaudio url=&amp;ldquo;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/Osvaldo-Pugliese-Mala-junta.mp3&amp;quot;&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2009/11/Osvaldo-Pugliese-Mala-junta.mp3&amp;quot;&lt;/a&gt; dl=&amp;ldquo;0&amp;rdquo;]&lt;/p&gt;
-
-&lt;p&gt;A variation of this syncopation is using only the anticipation and having a pause where the normal accented beat would be (Ba &amp;mdash;). This can be found a lot in Horacio Salgán&amp;rsquo;s works, listen to his version of Mala Junta:&lt;/p&gt;
-
-&lt;p&gt;[wpaudio url=&amp;ldquo;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/Horacio-Salgán-Mala-junta.mp3&amp;quot;&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2009/11/Horacio-Salgán-Mala-junta.mp3&amp;quot;&lt;/a&gt; dl=&amp;ldquo;0&amp;rdquo;]&lt;/p&gt;
-
-&lt;p&gt;Other dance music usually emphasize the second and fourth beat, while tango uses the first and third. Sometimes, the orchestra will skip the first or the third beat and emphasize the second or fourth, and this is also a syncopation. This is perhaps best known from the orchestra of Biagi, but wasn&amp;rsquo;t mentioned by Ignacio. Listen right at the end of the first melodic line. (fourth measure)&lt;/p&gt;
-
-&lt;p&gt;[wpaudio url=&amp;ldquo;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/Rodolfo-Biagi-Humillación-Jorge-Ortiz.mp3&amp;quot;&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2009/11/Rodolfo-Biagi-Humillación-Jorge-Ortiz.mp3&amp;quot;&lt;/a&gt; dl=&amp;ldquo;0&amp;rdquo;]&lt;/p&gt;
-
-&lt;p&gt;Ignacio, being a double bass player himself, also introduced the audience to a subtle difference in marking the rhythm with the bass. The four beats played very marcato, staccatto, short bursts was the traditional way. With the orchestra of Aníbal Troilo, a more legato bass line was introduced, which gives a more singing quality to  the bass line. Subtle, but distinct difference. According to Ignacio, this is drawing a line between the traditionalists (e.g. D&amp;rsquo;Arienzo, Rodriguez, De Angelis) and the evolutionists (Troilo, De Caro, Gobbi, Pugliese).&lt;/p&gt;
-
-&lt;p&gt;[wpaudio url=&amp;ldquo;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/Aníbal-Troilo-Garúa-Francisco-Fiorentino.mp3&amp;quot;&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2009/11/Aníbal-Troilo-Garúa-Francisco-Fiorentino.mp3&amp;quot;&lt;/a&gt; dl=&amp;ldquo;0&amp;rdquo;]&lt;/p&gt;
-
-&lt;p&gt;[wpaudio url=&amp;ldquo;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/Pedro-Laurenz-Garúa-Alberto-Podestá.mp3&amp;quot;&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2009/11/Pedro-Laurenz-Garúa-Alberto-Podestá.mp3&amp;quot;&lt;/a&gt; dl=&amp;ldquo;0&amp;rdquo;]&lt;/p&gt;
-
-&lt;h3 id=&#34;3-3-2&#34;&gt;3-3-2&lt;/h3&gt;
-
-&lt;p&gt;The 3-3-2 simply means that over one or two measures, instead of spreading the accents evenly like in the marcato, they are followed by three, then three, then two time units. For instance, if the timing is &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt;, we have eight sixteenth notes in one measure, we group them three (=3) then three (=6), then two (=8). Playing only three notes with these durations would look something like this:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/3-3-2_1.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/3-3-2_1.png&#34; alt=&#34;3-3-2_1&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;What matters is the accentuation of the notes, not the amount of notes, so with eight sixteenths in one bar, they may be grouped literally 3-3-2 like this:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/3-3-2_2.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/3-3-2_2.png&#34; alt=&#34;3-3-2_2&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The 3-3-2 rhythmic pattern is an ancient rhythmic pattern, but is often associated with Astor Piazzolla in tango music, as he often used it in his compositions. However, it was present in tango music before Piazzolla, but it is not generally applied that much in traditional tango music. It can be seen as a variation of the habanera rhythm, if you stick the two middle notes of the habanera together in one, you get the 3-3-2.&lt;/p&gt;
-
-&lt;p&gt;This rhythm creates a strong drive if played fast, as in for instance Piazzolla&amp;rsquo;s Libertango:&lt;/p&gt;
-
-&lt;p&gt;[wpaudio url=&amp;ldquo;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/Ástor-Piazzolla-Libertango.mp3&amp;quot;&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2009/11/Ástor-Piazzolla-Libertango.mp3&amp;quot;&lt;/a&gt; dl=&amp;ldquo;0&amp;rdquo;]&lt;/p&gt;
-
-&lt;p&gt;It is maybe even easier to hear in Hugo Diaz&amp;rsquo; rendition of Milonga triste&lt;/p&gt;
-
-&lt;p&gt;[wpaudio url=&amp;ldquo;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/Hugo-Díaz-Milonga-Triste.mp3&amp;quot;&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2009/11/Hugo-Díaz-Milonga-Triste.mp3&amp;quot;&lt;/a&gt; dl=&amp;ldquo;0&amp;rdquo;]&lt;/p&gt;
-
-&lt;p&gt;Another famous example of the 3-3-2 in tango is Negracha by the orchestra of Osvaldo Pugliese, together with Julio De Caro a great inspiration for Piazzolla:&lt;/p&gt;
-
-&lt;p&gt;[wpaudio url=&amp;ldquo;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/Osvaldo-Pugliese-Negracha.mp3&amp;quot;&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2009/11/Osvaldo-Pugliese-Negracha.mp3&amp;quot;&lt;/a&gt; dl=&amp;ldquo;0&amp;rdquo;]&lt;/p&gt;
-
-&lt;h2 id=&#34;melody&#34;&gt;Melody&lt;/h2&gt;
-
-&lt;p&gt;When you arrange different notes with various durations in a sequence, you get a melody. A melody often consists phrases or motifs that can be repeated  throughout the composition, hopefully in an interesting manner.&lt;/p&gt;
-
-&lt;p&gt;Some melodies are stronger than others,  some more elaborated than others, and in a way &amp;lsquo;more interesting&amp;rsquo;. The orchestra may also choose to emphasize or deemphasize the melody, thus giving their interpretation a stronger or weaker  &amp;rsquo;melodic&amp;rsquo; quality. In some arrangements, only hints of the original melody is left in between all the ornamentation and rhythmic play.&lt;/p&gt;
-
-&lt;p&gt;Some melodies have more repetition of shorter motifs, such as Don Juan, perhaps best known as played by the orchestra of Carlos Di Sarli, others go on and on without repeating, flowing along, taking ever new directions. The music can create very different feelings in the listener in these cases. As an example of a long melody, Ignacio suggested Recuerdos de bohemia, in the following example played by the orchestra of Osvaldo Fresedo.&lt;/p&gt;
-
-&lt;p&gt;[wpaudio url=&amp;ldquo;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/Carlos-Di-Sarli-Don-Juan.mp3&amp;quot;&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2009/11/Carlos-Di-Sarli-Don-Juan.mp3&amp;quot;&lt;/a&gt; dl=&amp;ldquo;0&amp;rdquo;]&lt;/p&gt;
-
-&lt;p&gt;[wpaudio url=&amp;ldquo;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/Osvaldo-Fresedo-Recuerdos-de-bohemia-Roberto-Ray.mp3&amp;quot;&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2009/11/Osvaldo-Fresedo-Recuerdos-de-bohemia-Roberto-Ray.mp3&amp;quot;&lt;/a&gt; dl=&amp;ldquo;0&amp;rdquo;]&lt;/p&gt;
-
-&lt;h2 id=&#34;harmony&#34;&gt;Harmony&lt;/h2&gt;
-
-&lt;p&gt;Harmony may seem a little abstract, maybe, but it is simply about how you put different tones together at the same time. Some natural harmonies are &amp;lsquo;easy&amp;rsquo; on the ear, other (dis)harmonies create tension, different scales associated with different musical traditions&lt;/p&gt;
-
-&lt;p&gt;Using different harmonies, the same melody, played in the same rhythm, can evoke very different emotions in the listener.&lt;/p&gt;
-
-&lt;p&gt;Ignacio used some (somewhat jazzy) piano solo versions of Milonguero Viejo to illustrate how different harmonies influence the musical experience. I will use a couple of recordings of the classic La cumparsita:&lt;/p&gt;
-
-&lt;p&gt;Listen first to the &amp;lsquo;standard&amp;rsquo; version by the orchestra of Juan D&amp;rsquo;Arienzo:&lt;/p&gt;
-
-&lt;p&gt;[wpaudio url=&amp;ldquo;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/Juan-DArienzo-La-cumparsita.mp3&amp;quot;&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2009/11/Juan-DArienzo-La-cumparsita.mp3&amp;quot;&lt;/a&gt; dl=&amp;ldquo;0&amp;rdquo;]&lt;/p&gt;
-
-&lt;p&gt;We use this as a reference. Now listen to the sadder version by Ciriaco Ortiz:&lt;/p&gt;
-
-&lt;p&gt;[wpaudio url=&amp;ldquo;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/Ciriaco-Ortiz-La-Cumparsita.mp3&amp;quot;&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2009/11/Ciriaco-Ortiz-La-Cumparsita.mp3&amp;quot;&lt;/a&gt; dl=&amp;ldquo;0&amp;rdquo;]&lt;/p&gt;
-
-&lt;p&gt;The version by Quique Lannoo has a more contemporary feel with its a bit more difficult harmonies.&lt;/p&gt;
-
-&lt;p&gt;[wpaudio url=&amp;ldquo;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/Quique-Lannoo-La-Cumparsita.mp3&amp;quot;&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2009/11/Quique-Lannoo-La-Cumparsita.mp3&amp;quot;&lt;/a&gt; dl=&amp;ldquo;0&amp;rdquo;]&lt;/p&gt;
-
-&lt;p&gt;Yet another example by Pedro Laurenz:&lt;/p&gt;
-
-&lt;p&gt;[wpaudio url=&amp;ldquo;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/Pedro-Laurenz-La-cumparsita.mp3&amp;quot;&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2009/11/Pedro-Laurenz-La-cumparsita.mp3&amp;quot;&lt;/a&gt; dl=&amp;ldquo;0&amp;rdquo;]&lt;/p&gt;
-
-&lt;p&gt;Just as the listener anticipates certain rhythmic and melodic developments, we often anticipate certain harmonic progressions. Always sticking with the most obvious development may feel boring to some, so when the composer/musician deviates from our expectations, it may make the music more interesting if done well. If not, it will just sound &amp;lsquo;strange&amp;rsquo; or not &amp;lsquo;logical&amp;rsquo;.&lt;/p&gt;
-
-&lt;h2 id=&#34;tone-color-timbre&#34;&gt;Tone color/Timbre&lt;/h2&gt;
-
-&lt;p&gt;This may seem even more abstract, but it is not complicated; when the exact same tones are played by different instruments, they will sound different. Ignacio compared it with different qualities of sound from human voices.  The arranger of a tango musical piece has to make lots of decisions, including which instrument(s) will play what at each moment in time, which can change how the music feels for the listener.&lt;/p&gt;
-
-&lt;p&gt;Just imagine how a single piece would sound if played by a Solo-&amp;gt;Duo-&amp;gt;Trio -&amp;gt;Quartet-&amp;gt;Quintet-&amp;gt;Sextet-&amp;gt;Típica-&amp;gt;Full orchestra. Of course, they make very different impressions on the listener. In practice not all instruments can play all tunes, but there is usually many options available for each part.&lt;/p&gt;
-
-&lt;p&gt;First, listen to La cumparsita played on the guitar:&lt;/p&gt;
-
-&lt;p&gt;[wpaudio url=&amp;ldquo;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/Juanjo-Domínguez-La-cumparsita.mp3&amp;quot;&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2009/11/Juanjo-Domínguez-La-cumparsita.mp3&amp;quot;&lt;/a&gt; dl=&amp;ldquo;0&amp;rdquo;]&lt;/p&gt;
-
-&lt;p&gt;Contrast this with another &amp;lsquo;standard&amp;rsquo; arrangement, this by Alfredo De Angelis:&lt;/p&gt;
-
-&lt;p&gt;[wpaudio url=&amp;ldquo;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/Alfredo-De-Angelis-La-Cumparsita1.mp3&amp;quot;&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2009/11/Alfredo-De-Angelis-La-Cumparsita1.mp3&amp;quot;&lt;/a&gt; dl=&amp;ldquo;0&amp;rdquo;]&lt;/p&gt;
-
-&lt;p&gt;The orchestra of Donato Racciatti puts the melody line strictly with the bandoneons:&lt;/p&gt;
-
-&lt;p&gt;[wpaudio url=&amp;ldquo;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/Donato-Racciatti-La-cumparsita.mp3&amp;quot;&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2009/11/Donato-Racciatti-La-cumparsita.mp3&amp;quot;&lt;/a&gt; dl=&amp;ldquo;0&amp;rdquo;]&lt;/p&gt;
-
-&lt;p&gt;Finally, what would tango sound like if it was not for the standard line-up of the típica, but rather the brass band of roughly the same time in North America:&lt;/p&gt;
-
-&lt;p&gt;[wpaudio url=&amp;ldquo;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/Various-Artists-La-cumparsita.mp3&amp;quot;&#34;&gt;http://simbatango.com/blog/wp-content/uploads/2009/11/Various-Artists-La-cumparsita.mp3&amp;quot;&lt;/a&gt; dl=&amp;ldquo;0&amp;rdquo;]&lt;/p&gt;
-
-&lt;h2 id=&#34;rounding-off&#34;&gt;Rounding off&lt;/h2&gt;
-
-&lt;p&gt;As the final part of his workshop, Ignacio did some listening exercises, where he broke down the different voices playing at the same time, playing all at once (the original) or versions with one or a couple of voices at the same time to make it easier to hear what was going on.&lt;/p&gt;
-
-&lt;p&gt;He said that in tango there is always at least two, generally three and sometimes four things going on at once.&lt;/p&gt;
-
-&lt;p&gt;If you have the opportunity to take this workshop, you should, it was brilliant, and this is in no way a proper substitute. Ignacio would sing, clap or hum along to make his point clear in the piece of music under discussion. A blast.&lt;/p&gt;
-
-&lt;p&gt;I believe, as do Ignacio Varchausky and Aaron Copland, that knowing a bit more about how music is put together can increase your appreciation of this art form. And as a consequence, your dancing may improve, too.&lt;/p&gt;
-
-&lt;p&gt;As always, comments, additions and corrections are most welcome. While this post is inspired by Ignacio Varchausky&amp;rsquo;s talk, all errors in the above are of course my responsibility.&lt;/p&gt;
-
-&lt;h2 id=&#34;further-reading&#34;&gt;Further reading&lt;/h2&gt;
-
-&lt;p&gt;In addition to &lt;a href=&#34;http://www.amazon.com/What-Listen-Music-Aaron-Copland/dp/0451528670/ref=pd_bbs_sr_4?ie=UTF8&amp;amp;s=books&amp;amp;qid=1222030415&amp;amp;sr=8-4&#34;&gt;Copland&amp;rsquo;s book&lt;/a&gt;, If you read Spanish, the following two pages are recommended reading:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.elmusicoenforma.com/teoria/2009/07/sobre-el-acompanamiento-en-el-tango-i/&#34;&gt;http://www.elmusicoenforma.com/teoria/2009/07/sobre-el-acompanamiento-en-el-tango-i/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.elmusicoenforma.com/teoria/2009/08/sobre-el-acompanamiento-en-el-tango-ii/&#34;&gt;http://www.elmusicoenforma.com/teoria/2009/08/sobre-el-acompanamiento-en-el-tango-ii/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you think the musical notation can be useful, the &lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/howto-listen.ly&#34;&gt;lilypond script&lt;/a&gt; as well as the &lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/howto-listen.pdf&#34;&gt;pdf output&lt;/a&gt; is available for download.&lt;/p&gt;
-</description>
+      <description>by ~Oryctes~
+Knowing what to listen for can greatly improve how much you appreciate music. I had the opportunity to attend a workshop with Ignacio Varchausky on listening to tango music. It was very interesting, and it turned out that it corresponded with a post I was planning to write as soon as I got back to my copy of Aaron Copland&amp;rsquo;s What to listen for in music.</description>
     </item>
     
     <item>
@@ -460,23 +125,9 @@
       <pubDate>Mon, 30 Nov 2009 01:10:24 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/11/30/not-so-easy/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/simba_tango/3330336869/&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3383/3330336869_4ddfb6d3f6.jpg&#34; alt=&#34;La Glorieta by Simba tango, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/simba_tango/&#34;&gt; Simba tango&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;A teacher and his former student, on his first trip to Buenos Aires, run into each other outside La Glorieta and starts to chat. Suddenly the student bursts out:&lt;/p&gt;
-
-&lt;blockquote&gt;**A:** (about the music) This is milonga, right?
-
-**S: **No, this is tango.&lt;/blockquote&gt;
-
-&lt;p&gt;The conversation is drawing to an end, as the teacher is heading home. They talk for another minute, until the next song of the tanda starts and the student is eager to dance more:&lt;/p&gt;
-
-&lt;blockquote&gt;**A: **Well, I think I have to go and dance a little milonga....
-
-**S: **(!)&lt;/blockquote&gt;
-
-&lt;p&gt;The teacher watches him walk back to the pavillion, turns around, picks up his young son, and dances into the darkness as Fiorentino sings the last words of &lt;em&gt;Toda mi vída&lt;/em&gt;&amp;hellip;&lt;/p&gt;
-</description>
+      <description>by Simba tango
+A teacher and his former student, on his first trip to Buenos Aires, run into each other outside La Glorieta and starts to chat. Suddenly the student bursts out:
+**A:** (about the music) This is milonga, right? **S: **No, this is tango. The conversation is drawing to an end, as the teacher is heading home. They talk for another minute, until the next song of the tanda starts and the student is eager to dance more:</description>
     </item>
     
     <item>
@@ -485,20 +136,8 @@
       <pubDate>Mon, 16 Nov 2009 13:52:37 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/11/16/performance-insights/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/dispari-hot-spots.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/11/dispari-hot-spots.png&#34; alt=&#34;dispari-hot-spots&#34; /&gt;&lt;/a&gt;As I was uploading a couple of &lt;a href=&#34;http://www.youtube.com/watch?v=7VT5x1Ncaf8&#34;&gt;new&lt;/a&gt; &lt;a href=&#34;http://www.youtube.com/watch?v=V1VsJhCfKS8&#34;&gt;videos&lt;/a&gt; at youtube, I noticed the &amp;lsquo;Attention&amp;rsquo; ranking of my videos in the &amp;lsquo;Insights&amp;rsquo; section. The video with most attention (showed by a red bar like in the illustration top centre) is a video showing Jorge Dispari and María &amp;lsquo;La Turca&amp;rsquo; del Carmen at Confitería Ideal. At the time of writing, this video has been viewed 11 852 times.&lt;/p&gt;
-
-&lt;p&gt;Youtube describes the calculation of the video &amp;lsquo;hot spots&amp;rsquo; like this:  &amp;rdquo;The ups-and-downs of viewership at each moment in your video, compared to videos of similar length. The higher the graph, the hotter your video: fewer viewers are leaving your video and they may also be rewinding to watch that point in the video again. Audience attention is an overall measure of your video&amp;rsquo;s ability to retain its audience.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;I found this very interesting, as this graph shows a very nice development through the piece, like you would tell a good story. An interesting opening to catch your listener&amp;rsquo;s attention, then taking a long breath before you add details to build up towards the climax. Rounding off while it is still interesting. It correponds well with the structure of the music, Dispari saves his most elaborate tricks for the final variation.&lt;/p&gt;
-
-&lt;p&gt;I couldn&amp;rsquo;t find a way to share the nice setup pictured above where you can move the red line to change the part of the video to see what is happening at that moment in time, but you can watch the video here:&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/EXuGqzS4zYk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-</description>
+      <description>As I was uploading a couple of new videos at youtube, I noticed the &amp;lsquo;Attention&amp;rsquo; ranking of my videos in the &amp;lsquo;Insights&amp;rsquo; section. The video with most attention (showed by a red bar like in the illustration top centre) is a video showing Jorge Dispari and María &amp;lsquo;La Turca&amp;rsquo; del Carmen at Confitería Ideal. At the time of writing, this video has been viewed 11 852 times.
+Youtube describes the calculation of the video &amp;lsquo;hot spots&amp;rsquo; like this: &amp;rdquo;The ups-and-downs of viewership at each moment in your video, compared to videos of similar length.</description>
     </item>
     
     <item>
@@ -507,31 +146,9 @@
       <pubDate>Fri, 28 Aug 2009 01:46:21 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/08/28/the-structure-of-a-tango-choreography-and-how-it-might-improve-your-dancing/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/aperte/489430756/&#34;&gt;&lt;img src=&#34;http://farm1.static.flickr.com/230/489430756_1e20e6391a.jpg&#34; alt=&#34;Meditation Labyrinth by aperte, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/aperte/&#34;&gt; aperte&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If you prefer your naïve, pure emotional interpretation of the tango, you might not want to read this. If, on the other hand you think that knowing a little about how tango music is organized might increase the breadth or depth of your musical appreciation, then this could be for you.&lt;/p&gt;
-
-&lt;p&gt;Like &lt;a href=&#34;http://tangocommuter1.blogspot.com/2009/08/three-minute-question.html&#34;&gt;Tangocommuter writes&lt;/a&gt; in the discussion of how a tango became approximately three minutes long, a prototypical tango has the structure ABA:&lt;/p&gt;
-
-&lt;blockquote&gt;Most tangos, and most songs generally, are A-B-A in structure. It&#39;s a structure people seem to like, it works well musically and in a song. 16-bar blues follow much the same pattern. In practice, we get three segments of around 16 bars each. 16 bars to a minute, mas o menos, 48 bars start to finish. 48 bars of four beats each, that&#39;s 192 beats in three minutes, which is... 64 beats a minute. A familiar number. 192 heart beats to a tango.&lt;/blockquote&gt;
-
-&lt;p&gt;The best example to look for in my knowledge is the orchestra of Carlos Di Sarli, which adhered fairly strictly to a regular scheme for all his tangos.  A musician I met in Buenos Aires told me that Di Sarli was known as the master of something I think he called the quadratic form or something similar. The 16 bars (or measures as they are often called) can again be divided into four phrases of 4 bars of two strong and two weak beats each.&lt;/p&gt;
-
-&lt;p&gt;Now, what is more interesting than this little arithmetic is that these 4 sections of 4 bars form a structure of theme and variations inside the main structure of the tango. Gustavo Naveira called this &amp;lsquo;call&amp;rsquo; and &amp;lsquo;response&amp;rsquo; or &amp;lsquo;question&amp;rsquo; and &amp;lsquo;answer&amp;rsquo;, I don&amp;rsquo;t recall exactly. My musician friend objected to this and called them variations.  Whatever you want to call it, it is there, and you can hear it and use it in your dancing if you like. With the second being a response to the first and the fourth being a response to the third, there is also some sort of nested structure of dialogue between the first two phrases and the two last. Very neat.&lt;/p&gt;
-
-&lt;p&gt;Now, creating a choreography is an art in itself, and sadly there are very few that master this art &amp;lsquo;a full&amp;rsquo;, as they would say in Buenos Aires. Taking this structural knowledge into the choreography would be a good framework to build a choreography around, one would imagine. In my own attempts to do semi choreography dances, matching the main turning points of the music was always a major concern, and that is why I find it so surprising (and disappointing) that so many performances seem to pay no attention at all to the general structure of the song they are performing to. Not even the main structure of main theme (A or AA), the contrasting theme (B) and the final variation (A again). I mean, not even reflecting the development from beginning to end. Just unmotivated throwing out of crowd pleasing steps in all directions from the start. I don&amp;rsquo;t get it. It is soooo boring.&lt;/p&gt;
-
-&lt;p&gt;And this seems to be a disease which is prominent with the followers of the maestro that first taught me about this in a dance context. I find it somewhat ironic that the dancers most concerned with the &amp;lsquo;structure of tango&amp;rsquo; (the dance) seem to overlook completely the structure of tango (the music). Maybe it will come later in the &lt;a href=&#34;http://simbatango.com/2009/01/16/reinvention/&#34;&gt;reinvention&lt;/a&gt; project?&lt;/p&gt;
-
-&lt;p&gt;But we are not doing choreography, you may protest. True, but still you have to listen to the music, and knowing just a little about what to listen for, might improve your listening (and thus dancing) experience. One gringo that was also taking the same seminar with Naveira found that part of the class utterly uninteresting  &amp;ndash; clearly you can already hear this, he said. Which is sort of true for many dancers, on the other hand, watching many people dance, one has to wonder&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;Now, I do not suggest that you start counting over and over again while you are out at the milongas dancing with your friends and strangers in the night, far from it. However, it can be useful to listen carefully for the specific developments of the music during one tango and try dancing to it. It should come as no surprise that a large number of step combinations taught are actually matching exactly one phrase in tango (8 strong beats or four measures/bars). Try it with the normal basic step if you still remember it&amp;hellip; Also it can be useful to try combining walking exercises (which you still do regularly, no?) with phrasing exercises. For example doing one kind of adornos for one full phrase. No less and no longer. Exactly one phrase. I suggest you try with Di Sarli, pick any song basically, as he conforms fairly closely to this scheme. We have good experience with walking our student through these exercises, even without much explanation, as moving with the phrases gives an intuitive understanding of the music, which you will eventually bring to the dance floor.&lt;/p&gt;
-
-&lt;p&gt;When Jorge Dispari talked about how people &lt;a href=&#34;http://simbatango.com/2009/05/10/on-circulation/&#34;&gt;used to interpret the music in a more similar fashion&lt;/a&gt; in the golden age of tango, I suspect this might be part of what he was talking about (the A(A)BA structure). I everyone is saving their giros and extra stuff for the final variation, then everybody stops progressing at the same time, and nobody gets hurt.. Unfortunately I never had the opportunity to take his music seminar, so this remains my theory or speculations if you prefer.&lt;/p&gt;
-
-&lt;p&gt;As always, comments and corrections from more knowledgeable readers are most welcome&amp;hellip;&lt;/p&gt;
-</description>
+      <description>by aperte
+If you prefer your naïve, pure emotional interpretation of the tango, you might not want to read this. If, on the other hand you think that knowing a little about how tango music is organized might increase the breadth or depth of your musical appreciation, then this could be for you.
+Like Tangocommuter writes in the discussion of how a tango became approximately three minutes long, a prototypical tango has the structure ABA:</description>
     </item>
     
     <item>
@@ -540,39 +157,32 @@
       <pubDate>Mon, 11 May 2009 00:57:56 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/05/11/on-circulation/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/pdcawley/2220859/&#34;&gt;&lt;img src=&#34;http://farm1.static.flickr.com/1/2220859_55540cbb1f.jpg&#34; alt=&#34;Mallory Bugatti by pdcawley, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/pdcawley/&#34;&gt; pdcawley&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Ms Hedgehog is researching the dynamics of flow in the ronda, comparing with traffic and pondering about the &lt;a href=&#34;http://mshedgehog.blogspot.com/2009/05/floorcraft-and-length-of-tangos.html&#34;&gt;importance of song length&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;While song length can probably have some influence, I believe other factors are much more significant. And it is kind of hard to perform real experiments, even though she deserves credit for the attempt.&lt;/p&gt;
-
-&lt;p&gt;According to Jorge Dispari, the flow on the dance floors of Buenos Aires used to be much better than today. At Canning, for instance, during the peak hours, the circulation almost stops completely. While it is still possible to dance, it is not as enjoyable as when there is good circulation. And if he is to be believed, there was more people on the floor at that time as well, so floors being more crowded is not the reason.&lt;/p&gt;
-
-&lt;p&gt;He explained it by two factors:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Dancers today don&amp;rsquo;t have the necessary skills&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Dancers interpreted the music more in the same fashion earlier&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;While it is impossible for me to compare earlier times in Buenos Aires today, my experience from milongas all over the world largely supports the main idea that navigation skills and interpreting the music in a similar fashion improves the flow on the dancefloor.&lt;/p&gt;
-
-&lt;p&gt;Here is why: I know from teaching and observations on practicas and milongas support that &amp;lsquo;too few&amp;rsquo; have the ability to dance a) in a straight line b) on the spot c) change between  these when necessary. Dancers also observe the need to keep moving and not moving counter to the line of dance. Which I attribute to a lack of skill. If they know how, but choose not to, I attribute it more to musical interpretation. If dancers cannot keep within their own space, they are likely to cause a congestion or at least interrupt the other dancers.&lt;/p&gt;
-
-&lt;p&gt;If dancers are generally in agreement that they need to move at  certain speed around the dance floor, congestion is less likely. Anyone stopping while the others keep moving easily clogs the entire floor in less than a minute,  which is easy to show by experiment (yes I have done this on several occations). When dancers are generally in agreement of which parts in the music are for moving around/walking, and which are for more stationary repertoire like giros (the final variation for instance), the flow improves.&lt;/p&gt;
-
-&lt;p&gt;Hmm &amp;ndash; a little more work, and we might have the proof here :-). Assume we have enough dancers to achieve a crowded dance floor. (Too much space, and everybody can move wherever they like, and no significant interaction occurs.) Lack of skills imply congestion. Heterogenous musical interpretation implies congestion. Skills and homogenous musical interpretation are necessary, but not sufficient conditions for good flow of the ronda.&lt;/p&gt;
-
-&lt;p&gt;Of course,  you could show experimentally that the three minute theory is true, at best you could show that it is a necessary condition given sufficiently crowded floor. I do believe it occurs, but I believe it mainly covers the corner case where both conditions above are satisfied, but the floor is extremely crowded and good dance music with songs significantly longer than three minutes being played.&lt;/p&gt;
-
-&lt;p&gt;Say we have all three confirmed by experiment, how do we establish their relative importance? One could do a large survey of milongas, estimating the skills of dancers etc and do a regression, I suppose. For me, it is enough to know that the tree minute song limit is pretty much satisfied for all golden age tango music, so it is hard to imagine when it would be significant. I.e actually affecting the flow of the ronda. (If you play other music with longer songs, I belive other factors than song length destroys the ronda flow.)&lt;/p&gt;
-
-&lt;p&gt;As to how to improve the skills and musical interpretation, I don&amp;rsquo;t have the answer. Not allowing unskilled dancers is not exactly how to achieve a milonga with good attendance these days, I&amp;rsquo;m afraid.&lt;/p&gt;
-
-&lt;p&gt;If only it were possible to create a milonga ouside Bs As where you could feel that the entire dance floor was dancing and breathing together, making the old adage true: You have three dance partners in tango: 1) Your partner 2) The music 3) The dance floor.&lt;/p&gt;
-</description>
+      <description>by pdcawley
+Ms Hedgehog is researching the dynamics of flow in the ronda, comparing with traffic and pondering about the importance of song length.
+While song length can probably have some influence, I believe other factors are much more significant. And it is kind of hard to perform real experiments, even though she deserves credit for the attempt.
+According to Jorge Dispari, the flow on the dance floors of Buenos Aires used to be much better than today.</description>
+    </item>
+    
+    <item>
+      <title>Waiting for the right moment</title>
+      <link>http://simbatango.com/2008/11/18/waiting-for-the-right-moment/</link>
+      <pubDate>Tue, 18 Nov 2008 17:57:58 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>http://simbatango.com/2008/11/18/waiting-for-the-right-moment/</guid>
+      <description>by just.Luc
+   -I see a lot of men are not dancing. They can&#39;t manage to dance when the floor is so full of people.     -It may not be because of lack of ability. It may be because they enjoy the dance more when the floor is not packed and they can more around the floor in their dance. Maybe they are waiting for their favorite music.</description>
+    </item>
+    
+    <item>
+      <title>Shut up and listen! (II)</title>
+      <link>http://simbatango.com/2008/11/16/shut-up-and-listen-ii/</link>
+      <pubDate>Sun, 16 Nov 2008 12:25:31 +0000</pubDate>
+      <author>simbatango@gmail.com (Simba)</author>
+      <guid>http://simbatango.com/2008/11/16/shut-up-and-listen-ii/</guid>
+      <description>by Carol Esther
+My previous post got me going on the habit that some dancers have of talking while dancing.
+Just stop it, ok?
+How can you possibly be listening to the music when you are talking at the same time? The conversation is going on in the dance, remember? And even if you somehow manage to do both at the same time, you are disturbing the others on the floor.</description>
     </item>
     
   </channel>

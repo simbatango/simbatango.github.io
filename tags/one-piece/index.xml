@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>One Piece on Simba Tango</title>
-    <link>http://simbatango.com/tags/one-piece/index.xml</link>
+    <link>http://simbatango.com/tags/one-piece/</link>
     <description>Recent content in One Piece on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/one-piece/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Jul 2010 22:25:20 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/one-piece/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Nightmare</title>
@@ -16,21 +19,9 @@
       <pubDate>Sun, 04 Jul 2010 22:25:20 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2010/07/04/nightmare/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2010/07/one-piece.jpg&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2010/07/one-piece.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;The latest in tango fashion. Tell me it isn&amp;rsquo;t so&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;From the &lt;a href=&#34;http://www.onepiece.co.uk&#34;&gt;product pages&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-
-&gt; 
-&gt; Either it’s after work, while studying or on a hung-over Sunday morning, this is a garment with a real statement:
-- Who cares!
-&gt; 
-&gt; 
-&lt;/blockquote&gt;
-
-&lt;p&gt;This has got to be the ultimate subversive fashion.&lt;/p&gt;
-</description>
+      <description>The latest in tango fashion. Tell me it isn&amp;rsquo;t so&amp;hellip;
+From the product pages:
+   Either it’s after work, while studying or on a hung-over Sunday morning, this is a garment with a real statement: - Who cares!    This has got to be the ultimate subversive fashion.</description>
     </item>
     
   </channel>

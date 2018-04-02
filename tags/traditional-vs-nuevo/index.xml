@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Traditional Vs Nuevo on Simba Tango</title>
-    <link>http://simbatango.com/tags/traditional-vs-nuevo/index.xml</link>
-    <description>Recent content in Traditional Vs Nuevo on Simba Tango</description>
+    <title>Traditional vs Nuevo on Simba Tango</title>
+    <link>http://simbatango.com/tags/traditional-vs-nuevo/</link>
+    <description>Recent content in Traditional vs Nuevo on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/traditional-vs-nuevo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Feb 2009 21:32:14 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/traditional-vs-nuevo/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Color -- like no other</title>
@@ -16,20 +19,9 @@
       <pubDate>Thu, 26 Feb 2009 21:32:14 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/02/26/color-like-no-other/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/eqi2vK_i3IE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;The world is not black and white, there are grays in between&amp;hellip; it is often said when some take a clear position in a debate. And they do have a point of course. But they also sometimes miss the point entirely.&lt;/p&gt;
-
-&lt;p&gt;Tango is not gray, it is full of colour! You just have to open your eyes and take them in.&lt;/p&gt;
-
-&lt;p&gt;I am thinking of the &amp;ldquo;nuevo&amp;rdquo; versus &amp;ldquo;traditional&amp;rdquo; debate, of course. I sometimes wonder if it is not rather a distinction between seeing tango as culture or tango as movement that distinguishes the &amp;ldquo;purists/traditionalists&amp;rdquo; from the &amp;ldquo;nuevo&amp;rdquo; crowd.&lt;/p&gt;
-
-&lt;p&gt;Open your eyes to the richness of tango culture, and you will see it is not a matter of black or white, but of lots of colors. Some brilliand and stark, others soft and subtle. Some murkey and others ugly and dim. And yes &amp;ndash; I do prefer some colours and combinations to others.&lt;/p&gt;
-</description>
+      <description>The world is not black and white, there are grays in between&amp;hellip; it is often said when some take a clear position in a debate. And they do have a point of course. But they also sometimes miss the point entirely.
+Tango is not gray, it is full of colour! You just have to open your eyes and take them in.
+I am thinking of the &amp;ldquo;nuevo&amp;rdquo; versus &amp;ldquo;traditional&amp;rdquo; debate, of course.</description>
     </item>
     
   </channel>

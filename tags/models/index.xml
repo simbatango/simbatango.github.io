@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Models on Simba Tango</title>
-    <link>http://simbatango.com/tags/models/index.xml</link>
+    <link>http://simbatango.com/tags/models/</link>
     <description>Recent content in Models on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/models/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Nov 2008 21:07:46 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/models/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Nuevo tools, nuevo problems</title>
@@ -16,40 +19,8 @@
       <pubDate>Sun, 09 Nov 2008 21:07:46 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2008/11/09/nuevo-tools-nuevo-problems/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;http://simbatango.com/wp-content/uploads/2008/11/hammer.jpg&#34;&gt;&lt;img src=&#34;http://simbatango.com/wp-content/uploads/2008/11/hammer.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;Models can be very useful. By making a simplified version of the world that we are able to grasp, we may learn something about the world outside the model as well. This approach has proven very successful in a lot of areas, and is also applied to tango.&lt;/p&gt;
-
-&lt;p&gt;There is a danger associated with model building, as everyone working with them should know, and that is to mistake the model for reality. To forget that you had to do some simplifications to make comprehendable model out of the apparenly chaotic world.&lt;/p&gt;
-
-&lt;p&gt;It also tends to shape the way we think about the world we modeled. Which can be fine, as that is part of the purpose. However, it assumes we got all important aspects covered by the model.&lt;/p&gt;
-
-&lt;p&gt;Two sayings that illustrate the danger of using a hammer as your model:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;If your only tool is a hammer, everything looks like a nail.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;If you can&amp;rsquo;t solve it with force, use a larger hammer.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;the-nuevo-theory&#34;&gt;The nuevo theory&lt;/h2&gt;
-
-&lt;p&gt;The tango nuevo methodology, or rather theory, was developed be Naveira and Salas, and is quite influenced by the Dinzels, of which Naveira I think was a student. It is quite interesting, as it breaks everything down to small pieces, and explain very complex sequences as sequences of these basic building blocks.&lt;/p&gt;
-
-&lt;p&gt;This can be very useful when you want to explain a sequence, but I always wonder when a teacher says something like &amp;ldquo;There only exist six steps in tango&amp;hellip;&amp;rdquo; If they really mean it, or just use it as a simplification.  What would be more precise would be something convoluted like &amp;ldquo;According to the Naveira-Salas model (or tango nuevo), all (or rather a large number of) steps can be broken down to six basic movements&amp;hellip;&amp;rdquo; So I understand why people do not say that teaching. But I am afraid many people actually believe that you can get to the bottom of tango by understanding these principles.&lt;/p&gt;
-
-&lt;p&gt;I think not.&lt;/p&gt;
-
-&lt;p&gt;You can use it to analyze and describe an astonishingly large number of tango sequences, but you also miss some.  Mistaking the model for reality, you never realize what your model does not cover. When you look the model inventors dancing, and the same with their students, there are some obvious omissions in their vocabulary, which I leave as an exercise for the reader ;-) I don&amp;rsquo;t assume that the guys that figuered out this neat theory to believe it to be a theory of everything, but I am afraid quite a few of their students do.&lt;/p&gt;
-
-&lt;p&gt;Ironically, since this theory is so concerned with breaking up old steps/patterns, and exploring &amp;lsquo;new&amp;rsquo; ones, the users of the theory all seem to be very occupied with &amp;ndash; steps. And there is a lot more to tango than steps.&lt;/p&gt;
-
-&lt;p&gt;Another problem withe the dance created by using this model, is that everything is equally good, it seems. Since it is all about exploring &amp;lsquo;new&amp;rsquo; possibilities, these possibilities should not be ruled out. But in the evolution of the dance, quite a lot of possible steps and sequences have already been tried out and thrown in the garbage, either because was not nice, or if it didn&amp;rsquo;t feel good. Remaining is an enormous set of steps/sequences that allow for a uniquely complex dance. The tango student should learn not only which are the possibilities, but also which work well and which don&amp;rsquo;t.&lt;/p&gt;
-
-&lt;p&gt;To sum up, the nuevo theory can be very helpful in learning sequences, but it is dangerous if you don&amp;rsquo;t know its limitations. As with all powerful tools: handle with care.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://flickr.com/photos/ppdigital/2054989998/&#34;&gt;Photo&lt;/a&gt; : &lt;a href=&#34;http://flickr.com/photos/ppdigital/&#34;&gt;Darren Hester&lt;/a&gt;@flickr, &lt;a href=&#34;http://creativecommons.org/licenses/by-nc/2.0/deed.en&#34;&gt;CC-licensed&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Models can be very useful. By making a simplified version of the world that we are able to grasp, we may learn something about the world outside the model as well. This approach has proven very successful in a lot of areas, and is also applied to tango.
+There is a danger associated with model building, as everyone working with them should know, and that is to mistake the model for reality.</description>
     </item>
     
   </channel>

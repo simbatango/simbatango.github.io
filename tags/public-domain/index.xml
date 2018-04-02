@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Public Domain on Simba Tango</title>
-    <link>http://simbatango.com/tags/public-domain/index.xml</link>
+    <link>http://simbatango.com/tags/public-domain/</link>
     <description>Recent content in Public Domain on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/public-domain/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Jan 2010 01:37:40 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/public-domain/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Why is it not in the public domain?</title>
@@ -16,15 +19,8 @@
       <pubDate>Sat, 02 Jan 2010 01:37:40 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2010/01/02/why-is-it-not-in-the-public-domain/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/biwook/145765624/&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2010/01/copyright.jpg&#34; alt=&#34;A copyright will protect you from PIRATE by Ioan Sameli, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/biwook/&#34;&gt; Ioan Sameli&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Entering a new year, it can be wise to give thought to how things could have been. Most of the world follows the USA when it comes to copyright laws, and they keep extending the copyright terms again and again. Which makes very little sense from a society stand point. Extending the copyright on the 1930s recordings of Juan D&amp;rsquo;Arienzo isn&amp;rsquo;t exactly making him pour out new hit records every month&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;If the US copyright law valid until 1978 were still in effect (and equivalent law in the rest of the world), &lt;a href=&#34;http://www.law.duke.edu/cspd/publicdomainday/pre1976&#34;&gt;recordings made up to 1953 would today enter the public domain&lt;/a&gt;. Since it is not, we have to resort to quasi (ill)legal means to get copies of some of the very gems of the golden age tango recordings.&lt;/p&gt;
-
-&lt;p&gt;Tangocommuter &lt;a href=&#34;http://tangocommuter1.blogspot.com/2010/01/something-worrying.html&#34;&gt;is feeling the pain&lt;/a&gt;. I say it&amp;rsquo;s time to do something about these ridiculous laws.&lt;/p&gt;
-</description>
+      <description>by Ioan Sameli
+Entering a new year, it can be wise to give thought to how things could have been. Most of the world follows the USA when it comes to copyright laws, and they keep extending the copyright terms again and again. Which makes very little sense from a society stand point. Extending the copyright on the 1930s recordings of Juan D&amp;rsquo;Arienzo isn&amp;rsquo;t exactly making him pour out new hit records every month&amp;hellip;</description>
     </item>
     
   </channel>

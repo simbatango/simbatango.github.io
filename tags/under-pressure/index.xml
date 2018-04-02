@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Under Pressure on Simba Tango</title>
-    <link>http://simbatango.com/tags/under-pressure/index.xml</link>
+    <link>http://simbatango.com/tags/under-pressure/</link>
     <description>Recent content in Under Pressure on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/under-pressure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Dec 2008 19:30:37 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/under-pressure/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Under pressure</title>
@@ -16,19 +19,10 @@
       <pubDate>Sat, 06 Dec 2008 19:30:37 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2008/12/06/under-pressure/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/notinponce/1845809/&#34;&gt;&lt;img src=&#34;http://farm1.static.flickr.com/2/1845809_017008af6b.jpg&#34; alt=&#34;hombre al agua! by notinponce, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nd/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nd/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-No Derivative Works 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/notinponce/&#34;&gt; notinponce&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Comparing tango with other dances, salsa for instance, some find the other dances so much fuller of life. Sparkling. Bubbling over of life and joy.&lt;/p&gt;
-
-&lt;p&gt;Tango is rarely bubbling over. It is more self contained. Directing the energy inwards. More like boiling under pressure.  More intensity and energy, but perhaps less visible.&lt;/p&gt;
-
-&lt;p&gt;I remember so well one of my first times to a festival. As usual, people were going crazy on the dance floor, using brownian motion as the guiding principle. Except one couple.  Calm and strong,  they were wading through the chaos with confidence. Making space. Taking their time. It made a strong impression. Strong indeed.&lt;/p&gt;
-
-&lt;p&gt;Later the same night, they were giving a performance, of course. Ignorant me did not know about Roberto Herrera and Natacha Poberaj. A fabulous performance, sparkling and energetic, so good that few in the world would be able to match it.&lt;/p&gt;
-
-&lt;p&gt;But the dancing in the crowd left a much stronger impression.&lt;/p&gt;
-</description>
+      <description>by notinponce
+Comparing tango with other dances, salsa for instance, some find the other dances so much fuller of life. Sparkling. Bubbling over of life and joy.
+Tango is rarely bubbling over. It is more self contained. Directing the energy inwards. More like boiling under pressure. More intensity and energy, but perhaps less visible.
+I remember so well one of my first times to a festival. As usual, people were going crazy on the dance floor, using brownian motion as the guiding principle.</description>
     </item>
     
   </channel>

@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2009 on Simba Tango</title>
-    <link>http://simbatango.com/tags/2009/index.xml</link>
+    <link>http://simbatango.com/tags/2009/</link>
     <description>Recent content in 2009 on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/2009/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jan 2009 13:47:15 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/2009/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Happy New Year!</title>
@@ -16,21 +19,12 @@
       <pubDate>Thu, 01 Jan 2009 13:47:15 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/01/01/happy-new-year/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/basibanget/3153089995/&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3112/3153089995_1cfcb04f04.jpg&#34; alt=&#34;happy new year 2009 by basibanget, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/basibanget/&#34;&gt; basibanget&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Ready for a new year of tango? Remember that if you want to improve, there is &lt;a href=&#34;http://simbatango.com/2008/11/11/the-secret-dont-tell-anyone/&#34;&gt;no secret&lt;/a&gt;, all you have to do is to follow three simple steps:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Learn from the best&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Practice (&lt;a href=&#34;http://tango.yyquest.net/learning-process/2009/10000-hour-rule/&#34;&gt;a lot&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Listen to lots of music&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Nobody ever said it was gonna be easy ;-)&lt;/p&gt;
-</description>
+      <description>by basibanget
+Ready for a new year of tango? Remember that if you want to improve, there is no secret, all you have to do is to follow three simple steps:
+ Learn from the best
+ Practice (a lot)
+ Listen to lots of music
+  Nobody ever said it was gonna be easy ;-)</description>
     </item>
     
   </channel>

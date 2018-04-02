@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tango Cynic on Simba Tango</title>
-    <link>http://simbatango.com/tags/tango-cynic/index.xml</link>
+    <link>http://simbatango.com/tags/tango-cynic/</link>
     <description>Recent content in Tango Cynic on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/tango-cynic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Oct 2010 20:24:57 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/tango-cynic/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The Tango Cynic -- So You Want to Learn Tango?</title>
@@ -16,16 +19,8 @@
       <pubDate>Sun, 31 Oct 2010 20:24:57 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2010/10/31/the-tango-cynic-so-you-want-to-learn-tango/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/JQ2u-xLu-QI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;I want to be consumed by the passion and the drama, LOL! This is so funny. Complete with appropriately utterly and completely messed up American computerized pronounciaction of everything Spanish.&lt;/p&gt;
-
-&lt;p&gt;HT: Laura&lt;/p&gt;
-</description>
+      <description>I want to be consumed by the passion and the drama, LOL! This is so funny. Complete with appropriately utterly and completely messed up American computerized pronounciaction of everything Spanish.
+HT: Laura</description>
     </item>
     
   </channel>

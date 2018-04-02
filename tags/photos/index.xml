@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photos on Simba Tango</title>
-    <link>http://simbatango.com/tags/photos/index.xml</link>
+    <link>http://simbatango.com/tags/photos/</link>
     <description>Recent content in Photos on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/photos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Nov 2008 16:30:26 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/photos/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Gingerbread milonga</title>
@@ -16,18 +19,12 @@
       <pubDate>Mon, 10 Nov 2008 16:30:26 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2008/11/10/gingerbread-milonga/</guid>
-      <description>&lt;p&gt;Some friends (also tango maniacs, of course) made this just before Christmas a couple of years ago. A really tasty milonga it was! Welcome to Club Grizelle!&lt;/p&gt;
+      <description>Some friends (also tango maniacs, of course) made this just before Christmas a couple of years ago. A really tasty milonga it was! Welcome to Club Grizelle!
 
-&lt;p&gt;&lt;a href=&#34;http://simbatango.com/wp-content/uploads/2008/11/gingerbread-milonga-1.jpg&#34;&gt;&lt;img src=&#34;http://simbatango.com/wp-content/uploads/2008/11/gingerbread-milonga-1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://simbatango.com/wp-content/uploads/2008/11/gingerbread-milonga-2.jpg&#34;&gt;&lt;img src=&#34;http://simbatango.com/wp-content/uploads/2008/11/gingerbread-milonga-2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://simbatango.com/wp-content/uploads/2008/11/gingerbread-milonga-3.jpg&#34;&gt;&lt;img src=&#34;http://simbatango.com/wp-content/uploads/2008/11/gingerbread-milonga-3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I released &lt;a href=&#34;http://www.flickr.com/photos/32279241@N02/sets/72157608812618605/&#34;&gt;the photos&lt;/a&gt; under a &lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/3.0/&#34;&gt;Creative Commons license&lt;/a&gt;, so feel free to use them for whatever non-commercial purpose you like :-) I appreciate a link and a comment if you find use for it.&lt;/p&gt;
-
-&lt;p&gt;Maybe they can be useful for invitations to your Christmas milonga?&lt;/p&gt;
-</description>
+I released the photos under a Creative Commons license, so feel free to use them for whatever non-commercial purpose you like :-) I appreciate a link and a comment if you find use for it.
+Maybe they can be useful for invitations to your Christmas milonga?</description>
     </item>
     
   </channel>

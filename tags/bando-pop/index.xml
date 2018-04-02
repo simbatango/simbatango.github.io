@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bando Pop on Simba Tango</title>
-    <link>http://simbatango.com/tags/bando-pop/index.xml</link>
+    <link>http://simbatango.com/tags/bando-pop/</link>
     <description>Recent content in Bando Pop on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/bando-pop/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Mar 2009 21:40:46 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/bando-pop/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Death of the Prodigy dancer</title>
@@ -16,17 +19,9 @@
       <pubDate>Mon, 16 Mar 2009 21:40:46 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/03/16/death-of-the-prodigy-dancer/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/mickal/78653689/&#34;&gt;&lt;img src=&#34;http://farm1.static.flickr.com/42/78653689_6318c0c586.jpg&#34; alt=&#34;Prodigy Concert by Mickal, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-nd/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/mickal/&#34;&gt; Mickal&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Tango is full of nostalgia, even sentimentality. We long for the times that were. Even sentimentality was better in the 40s. How can it be for the real milongueros, who were young in that time?&lt;/p&gt;
-
-&lt;p&gt;Not to say it is the same, but the thought struck me the other day. I just bought &lt;a href=&#34;http://www.emusic.com/album/The-Prodigy-Invaders-Must-Die-MP3-Download/11373684.html&#34;&gt;the new Prodigy album&lt;/a&gt;, playing it loud and dancing around the kitchen. (I do this a lot, usually to tango music these days) This was the music of my youth, when we went out to party, that was the best. And when we couldn&amp;rsquo;t go out because we were not old enough or didn&amp;rsquo;t have money, we listened to it at home. Longing for the long nights of dancing in a crowd of equal minded. And meeting girls, of course.&lt;/p&gt;
-
-&lt;p&gt;Just like the milongueros had tango. And not much else. It was the music of that time. What you did when you went out and wanted to meet girls.&lt;/p&gt;
-
-&lt;p&gt;Thunder! It triggered me to dance! Not tango, though. &lt;strong&gt;This&lt;/strong&gt; is how electronic dance music sounds today (or rather 10-15 years ago already). Not like that anemic you-know-what.&lt;/p&gt;
-</description>
+      <description>by Mickal
+Tango is full of nostalgia, even sentimentality. We long for the times that were. Even sentimentality was better in the 40s. How can it be for the real milongueros, who were young in that time?
+Not to say it is the same, but the thought struck me the other day. I just bought the new Prodigy album, playing it loud and dancing around the kitchen. (I do this a lot, usually to tango music these days) This was the music of my youth, when we went out to party, that was the best.</description>
     </item>
     
   </channel>

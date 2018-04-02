@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dj on Simba Tango</title>
-    <link>http://simbatango.com/tags/dj/index.xml</link>
+    <link>http://simbatango.com/tags/dj/</link>
     <description>Recent content in Dj on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/dj/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Feb 2010 21:22:59 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/dj/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Audio Myths</title>
@@ -16,30 +19,8 @@
       <pubDate>Tue, 09 Feb 2010 21:22:59 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2010/02/09/audio-myths/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/BYTlN6wjcvQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Now, this may be only remotely relevant to tango, but tango music and hence its reproduction is important for dancers and djs in particular, so here it goes. I think the lessons from this video are most relevant when it comes to making decisions about equipment such as sound cards for djing, lossless versus lossy encoding of music and quality of transfers and restorations.&lt;/p&gt;
-
-&lt;p&gt;If you hang out at &lt;a href=&#34;http://www.hydrogenaudio.org/forums/&#34;&gt;hydrogenaudio&lt;/a&gt;, this will all be familiar, but I have to say actually performing an abx was a humbling experience with regards to what I can and can&amp;rsquo;t hear. I really lost all confidence in the audio equipment pushers when I returned a radio with a really annoying high frequency noise and the guys in the store found nothing wrong with it, then gave me another one with the exact same problem&amp;hellip; And I don&amp;rsquo;t claim to have golden ears.&lt;/p&gt;
-
-&lt;p&gt;People around the web and other places frequently make completely nonsensical statements about mp3 files and vinyl versus cd sound, which makes me somewhat skeptical to reviews of the quality of various transfers and restorations. Do they really know what they are talking about? Especially when you realize that just a small increase in volume will make the music &amp;lsquo;sound better&amp;rsquo;. More on that in a later post.&lt;/p&gt;
-
-&lt;p&gt;Some maybe surprising results when taking a scientific approach to sound quality:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Q: Is digital sound really better than vinyl?&lt;/strong&gt;: **A: Yes. ** Yes, really. We are talking orders of magnitude less distortion.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Q: Is playing from cds better than playing from a pc?&lt;/strong&gt; **A: No. **If there is a difference, it is most likely in favor of the pc, which is both more practical and more reliable.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Q: Do I need to buy an expensive sound card to dj?&lt;/strong&gt;: &lt;strong&gt;A:N&lt;/strong&gt;**o. **Even the cheap on board ones are usually very good these days. If you want to prelisten, you can get a usb headset.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Q: Do I have to use lossless files for djing?&lt;/strong&gt;:  &lt;strong&gt;A: No&lt;/strong&gt;. At reasonable bitrates, most people will never notice. Do an &lt;a href=&#34;http://wiki.hydrogenaudio.org/index.php?title=ABX&#34;&gt;ABX test&lt;/a&gt; if you believe otherwise. If you are doing &lt;a href=&#34;http://en.wikipedia.org/wiki/Digital_signal_processing&#34;&gt;dsp&lt;/a&gt;, having the original is much better, and there are practical reasons for archiving using &lt;a href=&#34;http://wiki.hydrogenaudio.org/index.php?title=Lossless&#34;&gt;lossless audio&lt;/a&gt;)&lt;/p&gt;
-
-&lt;p&gt;Of course the trouble with tango is that we get the worst of all worlds, first shellac/78 distortions, then transferred to LP adding additional distortion, then possibly converting to mp3, then your music is subject to the lousy acoustics of the milonga/practica. Of which the least significant degradation is the mp3 conversion unless you choose ridiculously low bitrates. (mp3 gives&lt;a href=&#34;http://www.hydrogenaudio.org/forums/index.php?showtopic=67529&amp;amp;st=0&#34;&gt; good results around 128kbps&lt;/a&gt; and is found to be generally &lt;a href=&#34;http://wiki.hydrogenaudio.org/index.php?title=Transparent&#34;&gt;transparent&lt;/a&gt; around 192kbps,  somewhat lower for golden age tango music which is mono with low fidelity).&lt;/p&gt;
-</description>
+      <description>Now, this may be only remotely relevant to tango, but tango music and hence its reproduction is important for dancers and djs in particular, so here it goes. I think the lessons from this video are most relevant when it comes to making decisions about equipment such as sound cards for djing, lossless versus lossy encoding of music and quality of transfers and restorations.
+If you hang out at hydrogenaudio, this will all be familiar, but I have to say actually performing an abx was a humbling experience with regards to what I can and can&amp;rsquo;t hear.</description>
     </item>
     
     <item>
@@ -48,13 +29,9 @@
       <pubDate>Thu, 29 Jan 2009 21:45:30 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/01/29/lastfm-cleaning-up/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/aldask/2313594798/&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3039/2313594798_8cbd507273.jpg&#34; alt=&#34;Last.fm spy records on my mp3 tastes (1 by aldask, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-nd/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/aldask/&#34;&gt; aldask&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://last.fm&#34;&gt;Last.fm&lt;/a&gt; are finally &lt;a href=&#34;http://blog.last.fm/2009/01/29/closing-in-on-clean-metadata-artist-and-track-spelling-auto-correction-is-here&#34;&gt;cleaning up their metadata&lt;/a&gt;, or at least they have started. If you are on last.fm, why don&amp;rsquo;t you help out by voting for &lt;a href=&#34;http://www.last.fm/music/Rodolpho+Biagi&#34;&gt;Rodolpho Biagi&lt;/a&gt; to redirect to &lt;a href=&#34;http://www.last.fm/music/Rodolfo+Biagi&#34;&gt;Rodolfo Biagi&lt;/a&gt;? (follow the link to faulty spelling, vote at the bottom right). And while you are at it, if you are also a tango dj, why don&amp;rsquo;t join the group &lt;a href=&#34;http://www.last.fm/group/TangoDJ&#34;&gt;tangodj&lt;/a&gt;?&lt;/p&gt;
-
-&lt;p&gt;Information on tango music has gotten better lately, and a sample from top &lt;a href=&#34;http://www.last.fm/music/Osvaldo+Pugliese&#34;&gt;Pugliese&lt;/a&gt; tracks seems reasonable:&lt;/p&gt;
-</description>
+      <description>by aldask
+Last.fm are finally cleaning up their metadata, or at least they have started. If you are on last.fm, why don&amp;rsquo;t you help out by voting for Rodolpho Biagi to redirect to Rodolfo Biagi? (follow the link to faulty spelling, vote at the bottom right). And while you are at it, if you are also a tango dj, why don&amp;rsquo;t join the group tangodj?
+Information on tango music has gotten better lately, and a sample from top Pugliese tracks seems reasonable:</description>
     </item>
     
     <item>
@@ -63,17 +40,8 @@
       <pubDate>Sun, 11 Jan 2009 11:36:36 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/01/11/top-40/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://flickr.com/photos/ger-audrey/2304471758/&#34;&gt;&lt;img src=&#34;http://simbatango.com/wp-content/uploads/2008/12/top40.jpg&#34; alt=&#34;Top 40&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/ger-audrey/&#34;&gt; Ger Audrey&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I loved the &lt;em&gt;think top 40&lt;/em&gt; part of &lt;a href=&#34;http://alextangofuego.blogspot.com/2008/11/i-couldnt-bear-to-watch-check-your.html&#34;&gt;Alex&amp;rsquo; rant&lt;/a&gt; after attending a festival. The dj should think hits, hits and more hits to please the dancers. And maybe throw in a little surprise. Not all the time, but we need a little variation. But in general, play the good stuff. People are not interested in you digging up some weird music that you think &lt;em&gt;maybe&lt;/em&gt; will work for tango. We know what works for tango. It&amp;rsquo;s not that hard.&lt;/p&gt;
-
-&lt;p&gt;Tango works for tango.&lt;/p&gt;
-
-&lt;p&gt;Of course, we need some variation, but it should all be good, danceable &lt;strong&gt;tango music&lt;/strong&gt;. And another connotation of top 40 is that the tango was broadly speaking at the top in the forties. So it is excellent advice for the tango dj.&lt;/p&gt;
-
-&lt;p&gt;Some people seem to think they should select music among the top 40 charts of today, but that music is not made for dancing tango to, and  - well it just doesn&amp;rsquo;t work. It seems to have been established as some kind of rule that &amp;ldquo;alternative&amp;rdquo; music may be played at the end of the night? Why would that be, to make me go home early? Tango music seems to be something of an aquired taste, and generally many beginners like the &amp;ldquo;alternative tango music&amp;rdquo; which should rather be labeled non-tango music. Which is ok of course, in a non-milonga environment. Beginners come early and leave early. Why play the trash in the end of the night?&lt;/p&gt;
-</description>
+      <description>by Ger Audrey
+I loved the think top 40 part of Alex&amp;rsquo; rant after attending a festival. The dj should think hits, hits and more hits to please the dancers. And maybe throw in a little surprise. Not all the time, but we need a little variation. But in general, play the good stuff. People are not interested in you digging up some weird music that you think maybe will work for tango.</description>
     </item>
     
     <item>
@@ -82,35 +50,9 @@
       <pubDate>Fri, 09 Jan 2009 20:16:43 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/01/09/humbleness/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/herval/51039207/&#34;&gt;&lt;img src=&#34;http://farm1.static.flickr.com/25/51039207_eb853788fd.jpg&#34; alt=&#34;The Wall Street Bull by herval, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/herval/&#34;&gt; herval&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I just heard this story, and found it hilarious, about a dancer complaining to the dj. The conversation went something like this:&lt;/p&gt;
-
-&lt;blockquote&gt;-Ur music sux, man!
-
--Allriiiight... which song would you like me to play?
-
--!
-
--Just name one song you would like me to play...
-
--!!
-
--Sooo... you don&#39;t actually know any songs, do you...&lt;/blockquote&gt;
-
-&lt;p&gt;Needless to say; before complaing, you ought to know what you are talking about.. This is valid the other way around also, naturally. There was a discussion on the tangodj mailing list about most weird request. Quite funny reading. And also quite revealing. Maybe (we) djs don&amp;rsquo;t really know everything always&amp;hellip; This conversation possibly went something like this (dramatized by yours truly):&lt;/p&gt;
-
-&lt;blockquote&gt;-Hey, I just love La Tupungatina, can you play it, pleeeease!
-
--Uh, Tunga Pinta? (...) (mumbling... wtf?)
-
--Yeah, you know, with Pugliese..?
-
--Uuuhhm, I don&#39;t have it with ANY orchestra... (mumbling again... Hellooo?)
-
--Nevermind&lt;/blockquote&gt;
-</description>
+      <description>by herval
+I just heard this story, and found it hilarious, about a dancer complaining to the dj. The conversation went something like this:
+-Ur music sux, man! -Allriiiight... which song would you like me to play? -! -Just name one song you would like me to play... -!! -Sooo... you don&#39;t actually know any songs, do you... Needless to say; before complaing, you ought to know what you are talking about.</description>
     </item>
     
     <item>
@@ -119,12 +61,7 @@
       <pubDate>Wed, 07 Jan 2009 13:55:36 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/01/07/volume-adjustments-for-tango-music/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/wp-content/uploads/2009/01/histogram-rg-track.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/wp-content/uploads/2009/01/histogram-rg-track.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;There was some discussion on the tangodj mailing list about the use of &lt;a href=&#34;http://wiki.hydrogenaudio.org/index.php?title=Replaygain&#34;&gt;Replay Gain&lt;/a&gt; for tango music. I have used it for several years, and found it to be immensely useful. As you can see from the histogram above, the loudness of cd releases varies a lot, and Replay Gain makes automatic adjustments to make the loundess more or less the same. It does a lot better than I do, that&amp;rsquo;s for sure, and frees up time for the more interesting parts of the djing.&lt;/p&gt;
-
-&lt;p&gt;Now, the reason to create this histogram was to show what range of adjustment Replay Gain will lead to in general. This is based on more than 5000 tracks, old and new, from my collection of tango music, all in &lt;a href=&#34;http://flac.sourceforge.net/&#34;&gt;flac&lt;/a&gt; format. As you can see, almost all tracks are attenuated. The ones that are not, are generally very silent tracks like tracks with someone talking etc. So there is little reason to be afraid of introducing clipping due to the use of Replay Gain for the tango dj.&lt;/p&gt;
-</description>
+      <description>There was some discussion on the tangodj mailing list about the use of Replay Gain for tango music. I have used it for several years, and found it to be immensely useful. As you can see from the histogram above, the loudness of cd releases varies a lot, and Replay Gain makes automatic adjustments to make the loundess more or less the same. It does a lot better than I do, that&amp;rsquo;s for sure, and frees up time for the more interesting parts of the djing.</description>
     </item>
     
     <item>
@@ -133,15 +70,9 @@
       <pubDate>Mon, 05 Jan 2009 22:22:10 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/01/05/keine-komische-musik/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/emurray/2983723719/&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3149/2983723719_a737e31179.jpg&#34; alt=&#34;That String Sure is Silly. by emurray, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/emurray/&#34;&gt; emurray&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I was warned once in a milonga in Central Europe: We have to dance **now, **this is milonga, he won&amp;rsquo;t play much of it. Later there will only be _komische Musik _(comical music).&lt;/p&gt;
-
-&lt;p&gt;This is the best excuse I have ever heard for asking someone (me) to dance! And she was right. The dj had no clue whatsoever and played a lot of &amp;ndash; well, komische Musik. Including cha cha cha, don&amp;rsquo;t ask me what I was supposed to do when that suddenly came on.  The dancers were good though, which was why I came, I met them the night before.  So I made the best out of it.&lt;/p&gt;
-
-&lt;p&gt;And adopted it as my slogan as a dj. Keine komische Musik.&lt;/p&gt;
-</description>
+      <description>by emurray
+I was warned once in a milonga in Central Europe: We have to dance **now, **this is milonga, he won&amp;rsquo;t play much of it. Later there will only be _komische Musik _(comical music).
+This is the best excuse I have ever heard for asking someone (me) to dance! And she was right. The dj had no clue whatsoever and played a lot of &amp;ndash; well, komische Musik.</description>
     </item>
     
   </channel>

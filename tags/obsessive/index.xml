@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Obsessive on Simba Tango</title>
-    <link>http://simbatango.com/tags/obsessive/index.xml</link>
+    <link>http://simbatango.com/tags/obsessive/</link>
     <description>Recent content in Obsessive on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/obsessive/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Sep 2009 02:52:24 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/obsessive/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Obsessive?</title>
@@ -16,10 +19,7 @@
       <pubDate>Tue, 22 Sep 2009 02:52:24 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/09/22/you-say-it-like-its-a-bad-thing/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/2009/09/21/you-say-it-like-its-a-bad-thing/obsessive/&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/09/obsessive.jpg&#34; alt=&#34;obsessive&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m not in the market for a new car, but somehow the heading of this ad struck a nerve&amp;hellip;&lt;/p&gt;
-</description>
+      <description>I&amp;rsquo;m not in the market for a new car, but somehow the heading of this ad struck a nerve&amp;hellip;</description>
     </item>
     
   </channel>

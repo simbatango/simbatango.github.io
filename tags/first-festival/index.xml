@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>First Festival on Simba Tango</title>
-    <link>http://simbatango.com/tags/first-festival/index.xml</link>
+    <link>http://simbatango.com/tags/first-festival/</link>
     <description>Recent content in First Festival on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/first-festival/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 May 2010 18:39:45 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/first-festival/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The Tango Hustle</title>
@@ -16,14 +19,8 @@
       <pubDate>Fri, 14 May 2010 18:39:45 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2010/05/14/the-tango-hustle/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2010/04/tango-hustle.jpg&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2010/04/tango-hustle.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;ndash;So&amp;hellip; what are &lt;strong&gt;these guys up to?&lt;/strong&gt; There I was, attending my very first tango festival. I did not know very much about tango, but I did know enough to notice this couple. They were dancing, but they were doing something quite different&amp;hellip; Different indeed. Yet there was something tangoish over it. Not quite ballroom tango, not quite Argentine tango, still a hint of tango.&lt;/p&gt;
-
-&lt;p&gt;Only watching Saturday Night Fever probably years later, did I realize: What they had been doing was the &lt;strong&gt;tango hustle&lt;/strong&gt;. According to the &lt;a href=&#34;http://en.wikipedia.org/wiki/Hustle_(dance)&#34;&gt;Wikipedia Hustle entry&lt;/a&gt;, the tango hustle was in fact invented by the crew for this scene. You can watch a &lt;a href=&#34;http://www.tcm.com/mediaroom/index.jsp?cid=294904&#34;&gt;clip from Saturday Night Fever with the tango hustle&lt;/a&gt; here.&lt;/p&gt;
-
-&lt;p&gt;Of course, the opening walk of John Travolta in the very same movie is a must see if you need an illustration of how much can be in &amp;ldquo;just walking&amp;rdquo;. But you don&amp;rsquo;t need that, do you?&lt;/p&gt;
-</description>
+      <description>&amp;ndash;So&amp;hellip; what are these guys up to? There I was, attending my very first tango festival. I did not know very much about tango, but I did know enough to notice this couple. They were dancing, but they were doing something quite different&amp;hellip; Different indeed. Yet there was something tangoish over it. Not quite ballroom tango, not quite Argentine tango, still a hint of tango.
+Only watching Saturday Night Fever probably years later, did I realize: What they had been doing was the tango hustle.</description>
     </item>
     
   </channel>

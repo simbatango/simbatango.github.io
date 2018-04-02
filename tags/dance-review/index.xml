@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dance Review on Simba Tango</title>
-    <link>http://simbatango.com/tags/dance-review/index.xml</link>
+    <link>http://simbatango.com/tags/dance-review/</link>
     <description>Recent content in Dance Review on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/dance-review/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Sep 2009 01:58:55 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/dance-review/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Old fashioned dance report</title>
@@ -16,25 +19,9 @@
       <pubDate>Fri, 25 Sep 2009 01:58:55 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/09/25/old-fashioned-dance-report/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/wallyg/2259318046/&#34;&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2217/2259318046_41fd9b73bb.jpg&#34; alt=&#34;NYC: New York Times Building by wallyg, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-nd/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/wallyg/&#34;&gt; wallyg&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;We are so used to watching youtube videos from dancers&amp;rsquo; exhibition all over the world, and I thought I would share an enthusiastic review using words to describe the impact seeing one of the talented young tango couples can have on a spectator without a background in tango (I think).&lt;/p&gt;
-
-&lt;blockquote&gt;She and he combine gorgeously. No acrobatic lifts (no lifts at all, if I remember rightly), no high kicks; just two bodies scarcely sundered while dancing in unbroken streams of changing ideas to the music. To watch Ms. Hills twisting rapidly in Mr. Missé’s arms or slowly extending a leg to slide it down the outside of his leg is to feel, again and again, the sensuous and sensual delight of the tango at its truest.
-
-&gt; 
-&gt; Alastair Macauley, [New York Times](http://www.nytimes.com/2009/08/11/arts/dance/11evenings.html?_r=3&amp;scp=1&amp;sq=gabriel%20misse&amp;st=cse)
-&gt; 
-&gt; 
-&lt;/blockquote&gt;
-
-&lt;p&gt;How much as I love having all those small videos on the pc screen, it can&amp;rsquo;t compare with being there, and reading a well written account isn&amp;rsquo;t bad either.&lt;/p&gt;
-
-&lt;p&gt;Read the &lt;a href=&#34;http://www.nytimes.com/2009/08/11/arts/dance/11evenings.html?_r=3&amp;amp;scp=1&amp;amp;sq=gabriel%20misse&amp;amp;st=cse&#34;&gt;entire article here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;HT: Mariana&lt;/p&gt;
-</description>
+      <description>by wallyg
+We are so used to watching youtube videos from dancers&amp;rsquo; exhibition all over the world, and I thought I would share an enthusiastic review using words to describe the impact seeing one of the talented young tango couples can have on a spectator without a background in tango (I think).
+She and he combine gorgeously. No acrobatic lifts (no lifts at all, if I remember rightly), no high kicks; just two bodies scarcely sundered while dancing in unbroken streams of changing ideas to the music.</description>
     </item>
     
   </channel>

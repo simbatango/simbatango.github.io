@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Varchausky on Simba Tango</title>
-    <link>http://simbatango.com/tags/varchausky/index.xml</link>
+    <link>http://simbatango.com/tags/varchausky/</link>
     <description>Recent content in Varchausky on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/varchausky/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Aug 2009 03:13:30 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/varchausky/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Tango Vía in El Tangauta</title>
@@ -16,23 +19,8 @@
       <pubDate>Tue, 11 Aug 2009 03:13:30 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/08/11/tango-via-in-el-tangauta/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/lwr/2765822419/&#34;&gt;&lt;img src=&#34;http://farm4.static.flickr.com/3139/2765822419_2a991f0280.jpg&#34; alt=&#34;RINGS OUT LOUD AND CLEAR by Leo Reynolds, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/lwr/&#34;&gt; Leo Reynolds&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If you&lt;a href=&#34;http://simbatango.com/2009/07/31/a-labour-of-love-that-needs-more-lovers/&#34;&gt; found the Tango Vía project interesting&lt;/a&gt;, there is a full article in the current edition of &lt;a href=&#34;http://www.eltangauta.com/&#34;&gt;El Tangauta&lt;/a&gt; (No 178). You can get the entire magazine as pdf if you register at their website. All quotes are from English version of the interview in that edition. In addition, there is a lot of interesting reading on the Tango Vía project&amp;rsquo;s web site (in Spanish) about &lt;a href=&#34;http://www.tangovia.org/archivo_audio.htm&#34;&gt;how they do the digital copies&lt;/a&gt;. Looks like they put a lot of energy into doing it the right way.&lt;/p&gt;
-
-&lt;p&gt;There is some interesting information in the interview, both about what they have done already, how they are moving forward, and how you may help:&lt;/p&gt;
-
-&lt;blockquote&gt;**What material, unobtainable today, are we    going to be able to get because of the Tango    Digital Archive?** To begin with, almost every complete discography will    be at hand. It is estimated that in the whole analogical    period, from 1902 to 1995, there have been around    100.000 tango songs recorded. From that total, barely 14-20 percent has been reedited in CD. Up to now we    have digitalized the complete discographies of Ástor    Piazzolla, Alfredo Gobbi, Horacio Salgán, Aníbal    Troilo, Carlos Di Sarli, Ignacio Corsini, we are finishing Ricardo Tanturi’s and Libertad Lamarque’s... We    estimate that we have already digitalized between 6    and 8 percent of the total. Now, in order to finish this    job, we mostly need money.&lt;/blockquote&gt;
-
-&lt;p&gt;And this is how to help:&lt;/p&gt;
-
-&lt;blockquote&gt;**How can the readers collaborate with the files?** There are many ways. First of all, whoever wants to share material is welcome. If the material is something we don’t have, we promise to take it as a loan and once we digitalize it, we return the original, as well as a digital copy (as a reimbursement) We also welcome anyone who can help us by donating money, no matter how small the sum, everything counts. Anyone who can provide us equipment we might need, or simply offering to work as volunteers. We are a group of tango lovers who need more tango lovers. We ask all of you to write to us at: info@tangovia.org.&lt;/blockquote&gt;
-
-&lt;p&gt;They are also planning on expanding into other kinds of material, like footage of dancing:&lt;/p&gt;
-
-&lt;blockquote&gt;**Is there going to be dancing?** That’s the idea. We want the file to cover all tango expressions. The main goal is attaining the musical recordings but all the complementary material, such as pictures, scores, magazines and videos with dancing will be available. I have already spoken with Eduardo Arquimbau, who has a lot of material and who knows people who also have material. We plan to include all the complementary material in a later stage.&lt;/blockquote&gt;
-</description>
+      <description>by Leo Reynolds
+If youfound the Tango Vía project interesting, there is a full article in the current edition of El Tangauta (No 178). You can get the entire magazine as pdf if you register at their website. All quotes are from English version of the interview in that edition. In addition, there is a lot of interesting reading on the Tango Vía project&amp;rsquo;s web site (in Spanish) about how they do the digital copies.</description>
     </item>
     
   </channel>

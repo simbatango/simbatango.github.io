@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Papa Francisco on Simba Tango</title>
-    <link>http://simbatango.com/tags/papa-francisco/index.xml</link>
+    <link>http://simbatango.com/tags/papa-francisco/</link>
     <description>Recent content in Papa Francisco on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/papa-francisco/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Mar 2013 07:20:21 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/papa-francisco/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>El Papa Francisco</title>
@@ -16,18 +19,9 @@
       <pubDate>Sun, 31 Mar 2013 07:20:21 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2013/03/31/el-papa-francisco/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/kjnHJmQ2XoE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Apparently the new pope is a tango lover, and now he got his own tango. Composition and &lt;a href=&#34;http://www.buenosairesyeltango.com.ar/web/un-tango-titulado-el-papa-francisco-califica-al-santo-padre-como-el-jorge-de-flores/&#34;&gt;lyrics&lt;/a&gt; by Daniel Ursini. Courtesy of  &lt;a href=&#34;http://www.cancionesparagrabar.com.ar/&#34;&gt;Canciones para grabar&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Happy Easter, Papa Fracisco!&lt;/p&gt;
-
-&lt;p&gt;HT &lt;a href=&#34;https://twitter.com/milongaroom/status/317660532524068865&#34;&gt;@milongaroom&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Apparently the new pope is a tango lover, and now he got his own tango. Composition and lyrics by Daniel Ursini. Courtesy of Canciones para grabar.
+Happy Easter, Papa Fracisco!
+HT @milongaroom</description>
     </item>
     
   </channel>

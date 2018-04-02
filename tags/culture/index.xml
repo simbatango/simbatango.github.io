@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Culture on Simba Tango</title>
-    <link>http://simbatango.com/tags/culture/index.xml</link>
+    <link>http://simbatango.com/tags/culture/</link>
     <description>Recent content in Culture on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/culture/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 May 2009 13:02:59 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/culture/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Sport and Culture</title>
@@ -16,13 +19,9 @@
       <pubDate>Fri, 15 May 2009 13:02:59 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/05/15/sport-and-culture/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/wigwam/2255847374/&#34;&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2304/2255847374_3ac4e43ccf.jpg&#34; alt=&#34;8th Annual University of Michigan Ballro by Wigwam Jones, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-nd/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/wigwam/&#34;&gt; Wigwam Jones&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;People often think of ballroom dancing when they hear I dance tango. Assuming I participate in competitions. And we would not want anybody to think that, would we?&lt;/p&gt;
-
-&lt;p&gt;It appears absurd to me, but it occurred to me the other day that they assume dancing is about sports. Which it is obviously not. It is all about culture.&lt;/p&gt;
-</description>
+      <description>by Wigwam Jones
+People often think of ballroom dancing when they hear I dance tango. Assuming I participate in competitions. And we would not want anybody to think that, would we?
+It appears absurd to me, but it occurred to me the other day that they assume dancing is about sports. Which it is obviously not. It is all about culture.</description>
     </item>
     
   </channel>

@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Buzzwords on Simba Tango</title>
-    <link>http://simbatango.com/tags/buzzwords/index.xml</link>
+    <link>http://simbatango.com/tags/buzzwords/</link>
     <description>Recent content in Buzzwords on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/buzzwords/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jul 2010 12:13:43 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/buzzwords/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Advanced Body Mechanics and Other Buzzwords</title>
@@ -16,20 +19,8 @@
       <pubDate>Mon, 19 Jul 2010 12:13:43 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2010/07/19/advanced-body-mechanics-and-other-buzzwords/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/eb3rA-2Rlf8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Clearly, they got something out of all these body mechanics workshops&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;There is something about the fluffy prose of the tango advertising that is either funny or tragic. Maybe both. Why is it that the ones teaching &amp;lsquo;quality of movement&amp;rsquo; have nothing of the sort? What exactly is &amp;lsquo;organic tango&amp;rsquo;? (&lt;a href=&#34;http://tangovoice.wordpress.com/2010/07/18/organic-tango/&#34;&gt;Tango Voice does a great job in dissecting that term&lt;/a&gt;). What about &amp;lsquo;body mechanics&amp;rsquo;? Apparently these are often &lt;a href=&#34;http://www.google.no/search?q=&#39;body+mechanics&#39;+&#39;organic+tango&#39;&amp;amp;aq=f&amp;amp;aqi=&amp;amp;aql=&amp;amp;oq=&amp;amp;gs_rfai=&#34;&gt;used together&lt;/a&gt;. Now which one is it, organic or mechanic? I am confused.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s probably just me, but my interest in taking workshops seems to be inversely related to the content of this kind of nonsense in advertising. Give me tango pure and simple, and give us teachers that dance well. Thank you for your patience.&lt;/p&gt;
-
-&lt;p&gt;HT: Jorge&lt;/p&gt;
-</description>
+      <description>Clearly, they got something out of all these body mechanics workshops&amp;hellip;
+There is something about the fluffy prose of the tango advertising that is either funny or tragic. Maybe both. Why is it that the ones teaching &amp;lsquo;quality of movement&amp;rsquo; have nothing of the sort? What exactly is &amp;lsquo;organic tango&amp;rsquo;? (Tango Voice does a great job in dissecting that term). What about &amp;lsquo;body mechanics&amp;rsquo;? Apparently these are often used together.</description>
     </item>
     
   </channel>

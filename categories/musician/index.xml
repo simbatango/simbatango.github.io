@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Musician on Simba Tango</title>
-    <link>http://simbatango.com/categories/musician/index.xml</link>
+    <link>http://simbatango.com/categories/musician/</link>
     <description>Recent content in Musician on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/categories/musician/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Oct 2016 17:54:48 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/categories/musician/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Los Estilos Fundamentales de Tango 2 | Miguel Caló</title>
@@ -16,14 +19,7 @@
       <pubDate>Sat, 01 Oct 2016 17:54:48 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2016/10/01/los-estilos-fundamentales-de-tango-2-miguel-calo/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/2iongJr9jw8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;The latest video from the Los Estilos Fundamentales del Tango is up. This time featuring Miguel Caló. Enjoy!&lt;/p&gt;
-</description>
+      <description>The latest video from the Los Estilos Fundamentales del Tango is up. This time featuring Miguel Caló. Enjoy!</description>
     </item>
     
     <item>
@@ -32,14 +28,7 @@
       <pubDate>Sun, 19 Jun 2016 20:23:26 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2016/06/19/los-estilos-fundamentales-del-tango-2-julio-de-caro/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/vQHWuU8Q2DY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;The video from the seminar last week on Julio De Caro is up. Enjoy!&lt;/p&gt;
-</description>
+      <description>The video from the seminar last week on Julio De Caro is up. Enjoy!</description>
     </item>
     
     <item>
@@ -48,14 +37,7 @@
       <pubDate>Mon, 26 Oct 2015 19:43:01 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2015/10/26/los-estilos-fundamentales-del-tango-por-ignacio-varchausky-alfredo-gobbi/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/hS_Q2dzBHLo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;The Gobbi seminar video is up!&lt;/p&gt;
-</description>
+      <description>The Gobbi seminar video is up!</description>
     </item>
     
     <item>
@@ -64,16 +46,8 @@
       <pubDate>Wed, 07 Oct 2015 13:28:13 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2015/10/07/podesta-godoy-cantores-documentary/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/-2K_RQ-SRpM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;A new documentary on tango singers Alberto Podestá and Juan Carlos Godoy by Daniel Tonelli and Marcelo Turrisi looks interesting. Hope it gets released on dvd or video on demand.&lt;/p&gt;
-
-&lt;p&gt;HT: Janis&lt;/p&gt;
-</description>
+      <description>A new documentary on tango singers Alberto Podestá and Juan Carlos Godoy by Daniel Tonelli and Marcelo Turrisi looks interesting. Hope it gets released on dvd or video on demand.
+HT: Janis</description>
     </item>
     
     <item>
@@ -82,14 +56,7 @@
       <pubDate>Sat, 19 Sep 2015 15:40:12 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2015/09/19/los-estilos-fundamentales-del-tango-por-ignacio-varchausky-horacio-salgan/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/aFjt2oCdXGA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;This time with video. Enjoy!&lt;/p&gt;
-</description>
+      <description>This time with video. Enjoy!</description>
     </item>
     
     <item>
@@ -98,12 +65,7 @@
       <pubDate>Sat, 30 Mar 2013 08:54:00 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2013/03/30/carlos-di-sarli-documentary/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2013/03/DiSarli.jpg&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2013/03/DiSarli.jpg&#34; alt=&#34;DiSarli&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;According to Realidad Bonaerense, there is a new &lt;a href=&#34;http://realidadbonaerense.blogspot.no/2013/03/se-estrena-el-film-carlos-di-sarli-el.html&#34;&gt;documentary about Carlos di Sarli&lt;/a&gt; coming out, directed by Alberto Freinquel. No information about dvd or download edition, but there will be several public viewings in Buenos Aires and in Bahía Blanca, I think. The article mentions several dramatized sequences, which makes me a bit sceptical, but I guess you have to do something if there is little historical material available.&lt;/p&gt;
-
-&lt;p&gt;EDIT: &lt;a href=&#34;http://www.enterateantes.com.ar/merecida-reparacion-historica-a-carlos-di-sarli/&#34;&gt;A bit more information here&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>According to Realidad Bonaerense, there is a new documentary about Carlos di Sarli coming out, directed by Alberto Freinquel. No information about dvd or download edition, but there will be several public viewings in Buenos Aires and in Bahía Blanca, I think. The article mentions several dramatized sequences, which makes me a bit sceptical, but I guess you have to do something if there is little historical material available.</description>
     </item>
     
     <item>
@@ -112,24 +74,8 @@
       <pubDate>Wed, 14 Jul 2010 20:24:28 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2010/07/14/the-inventor-of-jazz-plays-the-tango/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2010/07/Jelly_Roll_Morton.jpg&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2010/07/Jelly_Roll_Morton.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&amp;ndash;There is this guy&amp;hellip;. and he plays the tango, too. I was at a Christmas party, sharing table with a guy that was writing his thesis on &lt;a href=&#34;http://en.wikipedia.org/wiki/Stride_(music)&#34;&gt;stride&lt;/a&gt; piano or pianists. Somehow the topic of tango had come up (strange, isn&amp;rsquo;t it?), and he was delighted to enlighten me about this early tango reference in American music. He promised to make me a copy, but that never materialized.&lt;/p&gt;
-
-&lt;p&gt;Nevertheless, I managed to track down the recordings myself. I didn&amp;rsquo;t remember the name of the pianist, but a little investigation revealed that it must have been &lt;a href=&#34;http://en.wikipedia.org/wiki/Jelly_Roll_Morton&#34;&gt;Jelly Roll Morton&lt;/a&gt; in his Library of Congress recordings with musicologist &lt;a href=&#34;http://en.wikipedia.org/wiki/Alan_Lomax&#34;&gt;Alan Lomax&lt;/a&gt;. In the recording sessions with Lomax, he tells his life&amp;rsquo;s story and illustrates by playing the piano. The sound quality isn&amp;rsquo;t great, of course, as this is really documentation of jazz history, old, and not really a recording meant for publication.&lt;/p&gt;
-
-&lt;p&gt;Fortunately, these recordings were published on cd a few years ago, and most of the &amp;ldquo;tango&amp;rdquo; songs (e.g. &amp;ldquo;New Orleans Blues&amp;rdquo;, &amp;ldquo;The Crave&amp;rdquo; and &amp;ldquo;Creepy Feeling&amp;rdquo;), you will find on &lt;a href=&#34;http://www.amazon.com/Winin-Blues-Jelly-Roll-Morton/dp/B0000002T3/&#34;&gt;Volume 4: Winin&amp;rsquo; Boy Blues&lt;/a&gt;. Brilliant.  Morton himself calls what these tracks have the &lt;a href=&#34;http://en.wikipedia.org/wiki/Spanish_tinge&#34;&gt;Spanish Tinge&lt;/a&gt;, which is really the habanera rhythm, so Spanish does not really refer to Spain, but rather to Afro-Caribbean influence.&lt;/p&gt;
-
-&lt;p&gt;I have often thought of the similarities between jazz and tango (more about that later), and in that context it is interesting to note that the self proclaimed inventor of jazz found the habanera so imporant to make jazz swing:&lt;/p&gt;
-
-&lt;blockquote&gt;Now in one of my earliest tunes, &#34;New Orleans Blues&#34;, you can notice the Spanish tinge. In fact, if you can&#39;t manage to put tinges of Spanish in your tunes, you will never be able to get the right seasoning, I call it, for jazz.
-
-&gt; 
-&gt; _--Jelly Roll Morton_
-&gt; 
-&gt; 
-&lt;/blockquote&gt;
-</description>
+      <description>&amp;ndash;There is this guy&amp;hellip;. and he plays the tango, too. I was at a Christmas party, sharing table with a guy that was writing his thesis on stride piano or pianists. Somehow the topic of tango had come up (strange, isn&amp;rsquo;t it?), and he was delighted to enlighten me about this early tango reference in American music. He promised to make me a copy, but that never materialized.
+Nevertheless, I managed to track down the recordings myself.</description>
     </item>
     
     <item>
@@ -138,37 +84,8 @@
       <pubDate>Fri, 19 Jun 2009 02:50:33 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/06/19/el-otro-camino/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/iangallagher/2078325269/&#34;&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2239/2078325269_1de1aef438.jpg&#34; alt=&#34;bandoneon by i_gallagher, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-sa/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-sa/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-Share Alike 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/iangallagher/&#34;&gt; i_gallagher&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;Una vez, tocando con una pequeña orquesta  en la escuela  de música popular -- eran estudiantes; yo me sentí, tocando con ellos, me sentí cómodo. Pero físicamente cómodo, como cuando  uno se siente con la ropa de entrecasa. Y dije: &#34;¿Que me pasa? Y de pronto, la orquesta estaba tocando, esa orquesta de la escuela en un concierto y salen a bailar algunas personas. Y yo ví eso y dije: &#34;esto es maravilloso&#34;. &#34;Esta gente baila y baila conmigo&#34;. Está  reinterpretando, lo mismo que yo. Yo estoy tocando ese melodía y ellos la están tocando con los pies. Y cuando comprendí que esos bailarines estaban más cerca de mí, que esa gente que me aplaude  por los acordes raros que uno puede hacer.  Dije: &#34;Hay que recuperar el baile&#34;.
-
-&gt; 
-&gt; _Rodolfo Mederos_
-&gt; 
-&gt; 
-&lt;/blockquote&gt;
-
-&lt;p&gt;I finally got around to watching the documentary &lt;em&gt;El otro camino&lt;/em&gt; with Rodolfo Mederos. I got tipped by a &lt;a href=&#34;http://tangocommuter1.blogspot.com/2009/04/bandoneons-for-sale.html&#34;&gt;comment over at tangocommuter&lt;/a&gt;, and ordered it &lt;a href=&#34;http://www.amazon.com/El-Otro-Camino-Rodolfo-Mederos/dp/B001BP150W/&#34;&gt;from Amazon&lt;/a&gt; right away.&lt;/p&gt;
-
-&lt;p&gt;I don&amp;rsquo;t think I am exagerrating when I say that Mederos is one of the major bandoneon players of our time, and I really enjoyed watching &lt;em&gt;El otro camino&lt;/em&gt;. Rather short and simple, it has lots of musical numbers, and Mederos talking about the instrument, playing it and about tango in general in between. It is a good format. If you like tango music, and chances are that you do, as you are reading this, I think you will enjoy this little film.&lt;/p&gt;
-
-&lt;p&gt;The music is excellent, only the mixing is a little odd for some numbers. It could be that we watched it on a pc, but with Mederos playing with a trio, it was next to impossible to hear the other instruments. Aside from that, everything was good, and a pleasure to listen to the wisdom of one of the top bandoneon players in Buenos Aires.&lt;/p&gt;
-
-&lt;p&gt;I love how the porteños use this colorful language, which is especially evident when he talks about how it is necessary to bring tango back to life after the dark times that have passed. Interestingly, he also talks a bit about dancing, and what he has to say makes a lot of sense. I do hope that more musicians would come to the same conclusion as Mederos. Here is an attempt to translate the above quote to English:&lt;/p&gt;
-
-&lt;blockquote&gt;One day, while I was playing with a small orchestra in the school of popular music -- they were students; I found myself, playing with them, feeling very comfortable. Physically comfortable, like when you put on gym clothes. And I said: What is happening to me? And suddenly, as the orquestra was playing, this school orchestra, giving a concert, some people started dancing. And I saw this and said: This is marvellous, These people are dancing with me. They are interpreting, just like me. I am playing this melody, and they are playing with their feet. And then I understood that these dancers were closer to me than the people that applauded me for the strange chords that one can make. I said: The dance must recovered.
-
-One day, I was playing with a little student orchestra in the college of popular music — I was playing with them, and I felt very comfortable. I mean, physically comfortable, like wearing pyjamas. And I said to myself, What is this? And then suddenly, the orchestra was playing, this college orchestra giving a concert, and some people got up and danced. And I saw this and I went, “this is brilliant”. “These people are dancing with me”. They were interpreting the music, just like me. I am playing the music, and they’re playing it with their feet. And I realised that these dancers were more with me than an audience who applaud me for the intricate harmonies I can play. I said: “We need to revive the dance”.
-
-&gt; 
-&gt; _Rodolfo Mederos_
-&gt; 
-&gt; 
-&lt;/blockquote&gt;
-
-&lt;p&gt;_Suggestions for improvements of my translation are welcome. Edit: New translation heavily influenced by suggestions from &lt;a href=&#34;http://mshedgehog.blogspot.com/&#34;&gt;Ms Hedgehog&lt;/a&gt;_&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
-</description>
+      <description>by i_gallagher
+Una vez, tocando con una pequeña orquesta en la escuela de música popular -- eran estudiantes; yo me sentí, tocando con ellos, me sentí cómodo. Pero físicamente cómodo, como cuando uno se siente con la ropa de entrecasa. Y dije: &#34;¿Que me pasa? Y de pronto, la orquesta estaba tocando, esa orquesta de la escuela en un concierto y salen a bailar algunas personas. Y yo ví eso y dije: &#34;</description>
     </item>
     
     <item>
@@ -177,21 +94,8 @@ One day, I was playing with a little student orchestra in the college of popular
       <pubDate>Thu, 27 Nov 2008 21:42:58 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2008/11/27/technique-vs-feeling/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/abhijit/1399642105/&#34;&gt;&lt;img src=&#34;http://farm2.static.flickr.com/1009/1399642105_b924d9730b.jpg&#34; alt=&#34;Violinist from MC Rai - 2 BW by my hovercraft is full of eels, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-nd/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/abhijit/&#34;&gt; my hovercraft is full of eels&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Which one is most important? Technique or dancing with feeling? I sometimes get the impression that tango dancers are divided in two camps, the technique camp and the feelings camp. The first emphasizes the technical matters of the dance, the latter paying solely attention to the feeling. As long as we can hug each other, all is well ;-) Both seemingly ignoring the other point of view completely. As a matter of fact, I used to get a little annoyed by people who dismissed technique and just wanted to be in the embrace, feeeeeling.&lt;/p&gt;
-
-&lt;p&gt;By what interests me nowadays, I can easily be mistaken for belonging in the feelings camp. I find the technical extravaganzas of many performances quite boring at times, as they convey no emotional content whatsoever (to me, that is). So have I moved to the other camp?&lt;/p&gt;
-
-&lt;p&gt;Not really, I would rather say I belong in the both are necessary camp. I just  heard an interview on the radio with a conductor visiting one of the major symphony orchestras here, and he made the following statement about the two leading violinists in the orchestra (quoted as I remember it):&lt;/p&gt;
-
-&lt;blockquote&gt;They have very good technique, which allows them to express their musicality.&lt;/blockquote&gt;
-
-&lt;p&gt;And this is at the heart of the matter. You need good technique. You need it to express your musicality through your dance. You should work hard to improve it, but technique alone will not do. It is a necessary condition, but hardly sufficient.&lt;/p&gt;
-
-&lt;p&gt;And just as the music critics rather discuss the interpretation of an orchestra or musician, I think the artistic interpretation is more interesting to discuss than the technical points. Technique is simple, really: all you need is good teachers and a lot of practice&amp;hellip;&lt;/p&gt;
-</description>
+      <description>by my hovercraft is full of eels
+Which one is most important? Technique or dancing with feeling? I sometimes get the impression that tango dancers are divided in two camps, the technique camp and the feelings camp. The first emphasizes the technical matters of the dance, the latter paying solely attention to the feeling. As long as we can hug each other, all is well ;-) Both seemingly ignoring the other point of view completely.</description>
     </item>
     
     <item>
@@ -200,24 +104,7 @@ One day, I was playing with a little student orchestra in the college of popular
       <pubDate>Wed, 19 Nov 2008 17:06:49 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2008/11/19/12-tangos-adios-buenos-aires/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/wp-content/uploads/2008/11/12-tangos.jpg&#34;&gt;&lt;img src=&#34;http://simbatango.com/wp-content/uploads/2008/11/12-tangos.jpg&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The documentary &lt;a href=&#34;http://12tangos.com&#34;&gt;12 tangos&lt;/a&gt; was just released in international version on DVD. It is a documentary, and the Adios Buenos Aires part of the title is somehow more accurate with regards to the content of the film. If you are looking for the Buena Vista Social Club of tango, you will be disappointed. There are no interviews with musicians, and only a few of the oldtimers participate in the orchestra. So Café de los maestros should be a better bet.&lt;/p&gt;
-
-&lt;p&gt;12 tangos is mainly a film about the hard times in Argentina after the &lt;a href=&#34;http://en.wikipedia.org/wiki/Argentine_economic_crisis_(1999-2002)&#34;&gt;crisis in &lt;sup&gt;2001&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2002&lt;/sub&gt;&lt;/a&gt; when many lost everything they had, and quite a lot of people were forced to move to Europe to get work. That is, in the opposite direction of their anscestors, who went from Europe to Argentine for the same purpose. The film tells the stories of a young dancer (Marcela Maiola) going to Paris, her partner, the retired professional dancer (&lt;a href=&#34;http://uk.youtube.com/watch?v=ji6R1K_oAUo&#34;&gt;Roberto Tonet&lt;/a&gt;) who is afraid of losing his apartment in order to survive and  a mother (Yolanda Zubieta) leaving her children to go to Spain (she has no apparent connection with tango).&lt;/p&gt;
-
-&lt;p&gt;Mixed in between these are musical numbers from a concert at La Catedral, a milonga in Buenos Aires. This is where the 12 tangos come in, and they are supposed to work like a framwork for the storytelling, and are marked as chapters on the dvd.&lt;/p&gt;
-
-&lt;p&gt;Though it did not take me with storm, I quite enjoyed the film. The photography was excellent at times. I particularly enjoyed the scene that is shown on the cover, where some partly hidden dancers are part of the live show at La Catedral. It works much better in motion than on the cover. The dancing was ok, not stunning, but nice. I did not like the slow motion sequence, though, as the connection with the music is completely lost, but maybe it works better for non-dancers. I admit my preferences in this respect have changed considerably after taking up dancing.&lt;/p&gt;
-
-&lt;p&gt;Las muñecas dressed as vampires were hilarious, even if they were even better in _&lt;a href=&#34;http://www.imdb.com/title/tt0380741/&#34;&gt;Tango, un giro extraño&lt;/a&gt;__. _And Roberto was quite a character :-) But I also found something amiss, like it did not all fit together that well. Maybe the relation between the 12 tangos and the rest of the film was not clear enough.  There were also some peculiarities, like having school-children explain the economic crisis that I found a bit strange. Some glitches in the text, where the English text was suddenly in German.&lt;/p&gt;
-
-&lt;p&gt;Some more about the musicians would have been nice, and the presence of José Libertella was perhaps a bit oversold, as he is only featured in one of the last musical numbers.&lt;/p&gt;
-
-&lt;p&gt;Overall a nice film. And on a completely subjective note, it is so good to see footage from mi Buenos Aires querido, el colectivo, hearing people chit chat, people walking in the streets, the skyline&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;Both the film and the soundtrack are available from the &lt;a href=&#34;http://12tangos.com/&#34;&gt;film&amp;rsquo;s website&lt;/a&gt;. It took about a week from I order until I had the discs in my hand. For immediate listening, I just discovered that &lt;a href=&#34;http://www.emusic.com/album/Luis-Borda-12-Tangos-Adios-Buenos-Aires-MP3-Download/11320075.html&#34;&gt;the sountrack is available on emusic&lt;/a&gt; as well.&lt;/p&gt;
-</description>
+      <description>The documentary 12 tangos was just released in international version on DVD. It is a documentary, and the Adios Buenos Aires part of the title is somehow more accurate with regards to the content of the film. If you are looking for the Buena Vista Social Club of tango, you will be disappointed. There are no interviews with musicians, and only a few of the oldtimers participate in the orchestra.</description>
     </item>
     
     <item>
@@ -226,12 +113,9 @@ One day, I was playing with a little student orchestra in the college of popular
       <pubDate>Sat, 01 Nov 2008 11:24:21 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2008/11/01/12-tangos/</guid>
-      <description>&lt;p&gt;Just &lt;a href=&#34;http://12tangos.com/&#34;&gt;ordered the new documentary 12 tangos&lt;/a&gt;. Will be very interesting to see, it also claims to be a Buena Vista Tango Club, so a shootout between 12 tangos and Cafe de los maestros. 12 tangos has a great advantage in being actually available.&lt;/p&gt;
-
-&lt;p&gt;I will get back to it later, in the meantime, the trailer:&lt;/p&gt;
-
-&lt;p&gt;[youtube]&lt;a href=&#34;http://uk.youtube.com/watch?v=mrFklWP6dQY&amp;amp;feature=related[/youtube&#34;&gt;http://uk.youtube.com/watch?v=mrFklWP6dQY&amp;amp;feature=related[/youtube&lt;/a&gt;]&lt;/p&gt;
-</description>
+      <description>Just ordered the new documentary 12 tangos. Will be very interesting to see, it also claims to be a Buena Vista Tango Club, so a shootout between 12 tangos and Cafe de los maestros. 12 tangos has a great advantage in being actually available.
+I will get back to it later, in the meantime, the trailer:
+[youtube]http://uk.youtube.com/watch?v=mrFklWP6dQY&amp;amp;feature=related[/youtube]</description>
     </item>
     
     <item>
@@ -240,38 +124,17 @@ One day, I was playing with a little student orchestra in the college of popular
       <pubDate>Tue, 28 Oct 2008 22:13:51 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2008/10/28/lagrima-rios-candombe/</guid>
-      <description>&lt;p&gt;I just &lt;em&gt;love&lt;/em&gt; the name! Lágrima Ríos is a wonderful artistic name, Rivers of tears..  Re tango, no?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.emusic.com/music/images/album/288/111/746/11174699/300x300.jpg&#34; alt=&#34;La Perla Negra del Tango&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;My attention was brought to some of her recordings by &lt;a href=&#34;http://www.milonga.co.uk/blog/?p=130&#34;&gt;Michael&amp;rsquo;s music&lt;/a&gt; blog, discussing some available recordings of hers. Luckily, I was able to find them &lt;a href=&#34;http://www.emusic.com/artist/Lágrima-Ríos-MP3-Download/11952621.html&#34;&gt;both at emusic&lt;/a&gt; for instant satisfaction :-) She is featured in the film Café de los maestros, which I have not yet been able to get hold of (but will eventually!), but there was something familiar, I thought. And yes there was:&lt;/p&gt;
-
-&lt;p&gt;She is also featured in the documentary &lt;a href=&#34;http://www.imdb.com/title/tt0375637/&#34;&gt;Candombe&lt;/a&gt;. If Café de maestros is the Buena Vista Social Club of tango, then this must be the one for the Candombe. As you will know if you have been in San Telmo on a Sunday evening, the candombe culture is alive in Buenos Aires today. You hear the drums far away, and in the winter darkness it can be a bit scary for the newcomer.&lt;/p&gt;
-
-&lt;p&gt;The film is based on the candombe culture of Montevideo in Uruguay, and we meet people from different parts of the culture, drum makers, singers, drummers etc. It is very charming, and even if I have never been to Montevideo, it all felt very familiar, giving away the close relationship between the two cities. I got it on DVD at Zival&amp;rsquo;s I believe, and it comes with a CD! Recommended to fill in on the black origins/parts of tango culture.&lt;/p&gt;
-</description>
+      <description>I just love the name! Lágrima Ríos is a wonderful artistic name, Rivers of tears.. Re tango, no?
+My attention was brought to some of her recordings by Michael&amp;rsquo;s music blog, discussing some available recordings of hers. Luckily, I was able to find them both at emusic for instant satisfaction :-) She is featured in the film Café de los maestros, which I have not yet been able to get hold of (but will eventually!</description>
     </item>
     
     <item>
       <title>¡Ahora, pollo!</title>
-      <link>http://simbatango.com/2008/10/26/%C2%A1ahora-pollo/</link>
+      <link>http://simbatango.com/2008/10/26/ahora-pollo/</link>
       <pubDate>Sun, 26 Oct 2008 21:55:40 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
-      <guid>http://simbatango.com/2008/10/26/%C2%A1ahora-pollo/</guid>
-      <description>&lt;p&gt;Returning again to Buenos Aires, a lot more experienced and familiar with music and culture than the &lt;a href=&#34;http://simbatango.com/index.php/2008/10/09/old-tango-hero/&#34;&gt;first time&lt;/a&gt; I had read that another Alberto was still live and kicking, &lt;em&gt;Alberto Podestá&lt;/em&gt; that would be. We had some tango musicians from our city coming down, and thought it would be an excellent thing to do with them. Podestá is singing at the place La Cumparsita in San Telmo, but for some reason or another we never made it while our musicians were in town.&lt;/p&gt;
-
-&lt;p&gt;Fortunately, a bit later, Podestá was singing at &lt;em&gt;Porteño y Bailarín&lt;/em&gt;, a milonga in the centre. And this was an opportunity not to be missed. It is always hard, being a hard core dancer, to sacrifice an entire night at the milongas for a concert. So much the better when you can have &lt;em&gt;both.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Lots of people were there to hear _Podestá. _ We were relatively early, coming directly from our class, and got a nice table close to the main dance floor, where we assumed the action would be. On the table right next to us was the table of _Miguel Angel Zotto, _who also plays a part in this story, as you will soon see.&lt;/p&gt;
-
-&lt;p&gt;Podestá came and gave his performance, and this time it was easier for us to participate in the experience, as we already knew his signature pieces. Considering how young he was when he made his seminal recordings, the performance was very strong, and indeed very touching. Seeing and hearing one of the heros live. Not so many of themleft, so better suck in as much as possible.&lt;/p&gt;
-
-&lt;p&gt;httpvh://uk.youtube.com/watch?v=EB1Ft-zDYjQ&lt;/p&gt;
-
-&lt;p&gt;Alberto Podestá made a note on the presence of the distinguished Miguel Angel Zotto, and in return the famous dancer stood up and gave a short speak in appreciation of his great works: _All of the world is dancing to your voice! _ I forget the exact sequence of the events, but as I remember it, Podestá announced that the great M.A. Zotto would perform a dance as a return gesture.&lt;/p&gt;
-
-&lt;p&gt;The great Zotto was sitting at his table, having a good laugh and made no sign of standing up to dance. There was an ambience of expectation in the room though, and suddenly out of the crowd we hear: _ ¡Ahora, pollo!_ (Now, chicken!) The guy screaming was &lt;em&gt;Eduardo Capussi&lt;/em&gt;, a funny guy and quite a famous dancer himself. So dance he did. An unforgettable night!&lt;/p&gt;
-</description>
+      <guid>http://simbatango.com/2008/10/26/ahora-pollo/</guid>
+      <description>Returning again to Buenos Aires, a lot more experienced and familiar with music and culture than the first time I had read that another Alberto was still live and kicking, Alberto Podestá that would be. We had some tango musicians from our city coming down, and thought it would be an excellent thing to do with them. Podestá is singing at the place La Cumparsita in San Telmo, but for some reason or another we never made it while our musicians were in town.</description>
     </item>
     
     <item>
@@ -280,14 +143,8 @@ One day, I was playing with a little student orchestra in the college of popular
       <pubDate>Mon, 13 Oct 2008 13:33:33 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2008/10/13/cafe-de-los-maestros/</guid>
-      <description>&lt;p&gt;Always looking out for new films about tango, both dance and music, I must say I am really looking forward to this one: &lt;em&gt;&lt;a href=&#34;http://www.imdb.com/title/tt1185589/&#34;&gt;Café de los maestros&lt;/a&gt;&lt;/em&gt;. It has been described as the tango equivalent to the _&lt;a href=&#34;http://www.imdb.com/title/tt0186508/&#34;&gt;Buena Vista Social Club&lt;/a&gt;. &lt;em&gt;I already got the soundtrack, so I know the music is excellent. Can&amp;rsquo;t wait to see it.&lt;/em&gt; _&lt;/p&gt;
-
-&lt;p&gt;When oh when will it become available on DVD? It will never be shown on the silver screen where I live I&amp;rsquo;m afraid.&lt;/p&gt;
-
-&lt;p&gt;In the meantime, here is the trailer:&lt;/p&gt;
-
-&lt;p&gt;httpvh://uk.youtube.com/watch?v=bi8C7m8TVxU&lt;/p&gt;
-</description>
+      <description>Always looking out for new films about tango, both dance and music, I must say I am really looking forward to this one: Café de los maestros. It has been described as the tango equivalent to the _Buena Vista Social Club. I already got the soundtrack, so I know the music is excellent. Can&amp;rsquo;t wait to see it. _
+When oh when will it become available on DVD? It will never be shown on the silver screen where I live I&amp;rsquo;m afraid.</description>
     </item>
     
     <item>
@@ -296,22 +153,8 @@ One day, I was playing with a little student orchestra in the college of popular
       <pubDate>Thu, 09 Oct 2008 20:53:53 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2008/10/09/old-tango-hero/</guid>
-      <description>&lt;p&gt;On our first visit to Buenos Aires, we rented a room in San Telmo. Right in the neighborhood is the Centro Cultural Torquato Tasso. For some reason we never came around to go there, even if it was by far the closest milonga.&lt;/p&gt;
-
-&lt;p&gt;Until one evening, we finally found space in our schedule to visit El Tasso. There was to be live music, and we were quite excited. The place was packed with people, and all of a sudden an old man was announced, and with support from a couple of guys he entered the stage. He was obviously going to sing with the orchestra.&lt;/p&gt;
-
-&lt;p&gt;As he started to sing, it was clear to us that he had once had a great voice, but we thought that was long ago. After the first song, however, his voice seemed to be warmed up, and we could hear with our own ears that this had been one of the great heros of tango music. And if we could not hear it, we could see it from the people in the room, cheering him from the back of the venue, singing along with all his famous tunes. (Of which we were shamefully ignorant). On the dance floor, I could hardly move at all. The pista felt so packed that if I would lift my feet, I would be carried with the flow. Quite frustrated, I could see that the more experienced dancers were doing all kind of stuff, giros and everything, all without taking any space. Amazing and very frustrating.&lt;/p&gt;
-
-&lt;p&gt;Everybody was there, including some very famous dancers, and all the people we saw regularly in the milongas.  So one great experience richer, we wrote about the evening in our travel diary and went on with our schedule. Before returning home, we got some tips from our tango teachers for music to buy at Zival&amp;rsquo;s. The names Di Sarli, Troilo and D&amp;rsquo;Arienzo did not mean much at the time, and I remember being amazed by my teachers&amp;rsquo; spotting of Puglieses &lt;em&gt;Gallo ciego&lt;/em&gt; one evening at the &lt;em&gt;Niño Bien&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Some years later, I was listening to a tango cd. And it struck me how similar this was to the old man in El Tasso. Could it be&amp;hellip;?&lt;/p&gt;
-
-&lt;p&gt;I found the old travel diary, to check the details. I wondered if it could be &lt;em&gt;Alberto Castillo&lt;/em&gt;, a name I had grown to appreciate over the years. And in the diary it said black on white, that indeed, Alberto Castillo it was. One of the very great, and appreciated enthusiastically, however ignorantly.&lt;/p&gt;
-
-&lt;p&gt;httpvh://uk.youtube.com/watch?v=sxELJ3Lccx8&amp;amp;NR=1&lt;/p&gt;
-
-&lt;p&gt;Alberto Castillo died not much after, and I believe this was one of his last performances. which I am greatful to have experienced.&lt;/p&gt;
-</description>
+      <description>On our first visit to Buenos Aires, we rented a room in San Telmo. Right in the neighborhood is the Centro Cultural Torquato Tasso. For some reason we never came around to go there, even if it was by far the closest milonga.
+Until one evening, we finally found space in our schedule to visit El Tasso. There was to be live music, and we were quite excited. The place was packed with people, and all of a sudden an old man was announced, and with support from a couple of guys he entered the stage.</description>
     </item>
     
   </channel>

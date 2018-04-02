@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tango Skills on Simba Tango</title>
-    <link>http://simbatango.com/tags/tango-skills/index.xml</link>
+    <link>http://simbatango.com/tags/tango-skills/</link>
     <description>Recent content in Tango Skills on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/tango-skills/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Sep 2008 20:17:51 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/tango-skills/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Passing judgement</title>
@@ -16,16 +19,8 @@
       <pubDate>Fri, 05 Sep 2008 20:17:51 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2008/09/05/passing-judgement/</guid>
-      <description>&lt;p&gt;It seems to be a popular activity among tango enthusasts, dissing all the dancers you don&amp;rsquo;t really like, especially teachers of course, and explain what everybody else does wrong. (Of course, we all do everything right ourselves ;-)&lt;/p&gt;
-
-&lt;p&gt;Sometimes it gets a bit out of hand, and can spread some negative energy, in particular when there is disagreement of who is in and who is out on a table at the milonga or in a small community. A friend who recognized this tendency to be negative, suggested to try and be a bit more constructive about it. Which I must say sounds like a really good idea.&lt;/p&gt;
-
-&lt;p&gt;However, at the root of this issue, I won&amp;rsquo;t go as far as call it a problem, there may be something that is a part of basic tango skills. Determining which are the good dancers. Often merely by observing them on the dance floor. Passing judgement is a part of the normal milonga activity to some degree.&lt;/p&gt;
-
-&lt;p&gt;Of course, in a community where everybody knows everybody else, it is less important, but in a greater community, it is nice to be able to predict who will be the better match for you. Which could be what we really mean when we find someone to be a great dancer.&lt;/p&gt;
-
-&lt;p&gt;But as all other skills in tango, you have to work on it. Know what to look for. And exercise your eyes, not only your technique&amp;hellip;&lt;/p&gt;
-</description>
+      <description>It seems to be a popular activity among tango enthusasts, dissing all the dancers you don&amp;rsquo;t really like, especially teachers of course, and explain what everybody else does wrong. (Of course, we all do everything right ourselves ;-)
+Sometimes it gets a bit out of hand, and can spread some negative energy, in particular when there is disagreement of who is in and who is out on a table at the milonga or in a small community.</description>
     </item>
     
   </channel>

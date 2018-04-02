@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistics on Simba Tango</title>
-    <link>http://simbatango.com/tags/statistics/index.xml</link>
+    <link>http://simbatango.com/tags/statistics/</link>
     <description>Recent content in Statistics on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Mar 2010 09:14:50 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Letras de tango</title>
@@ -16,216 +19,7 @@
       <pubDate>Mon, 29 Mar 2010 09:14:50 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2010/03/29/letras-de-tango/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2010/03/letras-de-tango.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2010/03/letras-de-tango.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;We all know that tango is about lost love, broken hearts, right? Well &amp;ndash; now we can check it out.  Hans at &lt;a href=&#34;http://www.amsterdamclubdetango.nl/&#34;&gt;Amsterdam tango club &lt;/a&gt;put all the &lt;a href=&#34;http://www.amsterdamclubdetango.nl/single.html&#34;&gt;13,000 lyrics they got in their online database in a single html file&lt;/a&gt;, which made it rather easy to do some statistics. I wrote a small script, counting the occurrences of each word, and the figure above is a representation of the results, but leaving the very shortest words like y, o, el, lo etc out. The illustration is made with the &lt;a href=&#34;http://www.wordle.net&#34;&gt;wordle&lt;/a&gt; tool that was popular among bloggers a while back. If you really like it, &lt;a href=&#34;http://www.zazzle.com/letras_de_tango_tshirt-235150358548760830&#34;&gt;get the t-shirt&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;It is not perfect, there are some peculiarities in the formatting, misspellings etc, but we get the idea. I removed the most obvious error sources, but there is still room for improvement. If you want to improve the analysis, you can &lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2010/03/freq.zip&#34;&gt;download it&lt;/a&gt; and improve it yourself :-) If you do, please publish your results, your modifications and link back here. The python script and the raw results from the analysis can be found in &lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2010/03/freq.zip&#34;&gt;the zip file&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The top 100 words were (with counts):&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;amor : 13000&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;como : 11511&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;para : 9413&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;tango : 8942&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;vida : 8018&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;cuando : 7199&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;más : 6601&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;corazón : 6554&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;porque : 5534&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;pero : 5264&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;quiero : 4987&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;todo : 4857&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;esta : 4689&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;noche : 4411&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;alma : 4286&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;siempre : 4014&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;este : 3666&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;solo : 3461&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;donde : 3347&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;nunca : 3307&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;ojos : 3052&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;dolor : 3043&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;entre : 3038&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;hasta : 2735&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;bien : 2496&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;así : 2449&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;tengo : 2436&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;tiempo : 2411&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;triste : 2408&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;día : 2382&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;nada : 2318&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;mujer : 2293&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;qué : 2235&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;ella : 2202&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;tanto : 2194&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;viejo : 2163&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;aquel : 2132&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;cielo : 2130&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;está : 2122&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;canta : 2068&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;ayer : 2048&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;quien : 2037&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;tiene : 2012&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;canción : 2005&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;milonga : 2000&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;dios : 1997&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;buenos : 1980&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;desde : 1952&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;mundo : 1948&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;flor : 1919&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;aires : 1910&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;estoy : 1879&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;pena : 1864&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;querer : 1836&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;otra : 1831&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;pobre : 1828&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;hace : 1818&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;vivir : 1752&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;recuerdo : 1747&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;vals : 1701&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;también : 1695&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;aunque : 1685&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;luna : 1628&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;canto : 1618&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;todos : 1611&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;cada : 1602&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;sobre : 1547&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;barrio : 1543&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;puedo : 1521&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;sueño : 1516&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;otro : 1501&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;gardel : 1470&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;llorar : 1461&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;nadie : 1447&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;cariño : 1441&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;ilusión : 1405&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;gran : 1401&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;lado : 1387&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;boca : 1370&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;tierra : 1368&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;hombre : 1365&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;ahora : 1364&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;cosas : 1357&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;tarde : 1353&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;camino : 1350&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;años : 1337&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;cantar : 1321&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;noches : 1312&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;eres : 1312&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;siento : 1311&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;dulce : 1300&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;madre : 1297&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;mismo : 1295&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;después : 1289&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;toda : 1284&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;sólo : 1277&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;nuestro : 1265&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;beso : 1263&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;viento : 1255&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;aquí : 1244&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>We all know that tango is about lost love, broken hearts, right? Well &amp;ndash; now we can check it out. Hans at Amsterdam tango club put all the 13,000 lyrics they got in their online database in a single html file, which made it rather easy to do some statistics. I wrote a small script, counting the occurrences of each word, and the figure above is a representation of the results, but leaving the very shortest words like y, o, el, lo etc out.</description>
     </item>
     
   </channel>

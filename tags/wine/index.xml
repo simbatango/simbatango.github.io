@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wine on Simba Tango</title>
-    <link>http://simbatango.com/tags/wine/index.xml</link>
+    <link>http://simbatango.com/tags/wine/</link>
     <description>Recent content in Wine on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/wine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Sep 2009 02:30:32 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/wine/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Quality and snobs</title>
@@ -16,17 +19,9 @@
       <pubDate>Sat, 05 Sep 2009 02:30:32 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/09/05/quality-and-snobs/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/96dpi/1139662917/&#34;&gt;&lt;img src=&#34;http://farm2.static.flickr.com/1213/1139662917_7b4b1bab22.jpg&#34; alt=&#34;Swing by 96dpi, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/96dpi/&#34;&gt; 96dpi&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://tangocommuter1.blogspot.com/2009/08/tango-al-fresco-was-its-usual-amiable.html&#34;&gt;Food&lt;/a&gt; (and &lt;a href=&#34;http://simbatango.com/2009/04/26/stuff-without-the-stuff/&#34;&gt;drinks&lt;/a&gt;) &lt;a href=&#34;http://mshedgehog.blogspot.com/2009/08/egg-and-chips-pugliese.html&#34;&gt;metaphor&lt;/a&gt;s for &lt;a href=&#34;http://www.limericktango.com/2009/08/nigell-lawson-on-henry-james/&#34;&gt;tango&lt;/a&gt; seem to be popular lately, so here in another one: My brother and I have two very distinct wine quality stories that I find very amusing when seen together. Each involves a young woman, at the age where going to parties and flirting with alcohol is at its most exciting, somewhere just before or just after going to university.&lt;/p&gt;
-
-&lt;p&gt;#1: A rather simple red wine was served with the main dish at a dinner party with the entire class of that year. She tasted it, called for the waiter and asked for another bottle. &amp;ndash;This I cannot drink. Only thing was, there was nothing wrong with the wine. Except that is was cheap. And the new bottle of the same, cheap wine was no better, of course.&lt;/p&gt;
-
-&lt;p&gt;#2: At a party in the place of a friend&amp;rsquo;s parents, she opened the bottle, poured into a glass and tasted. Then she walked right over to the sink and &amp;ndash; to the astonished looks from her friends &amp;ndash; emptied the entire bottle into the sink.  &amp;ndash;This I cannot drink.&lt;/p&gt;
-
-&lt;p&gt;How this applies to tango is left as an exercise to the reader&amp;hellip;&lt;/p&gt;
-</description>
+      <description>by 96dpi
+Food (and drinks) metaphors for tango seem to be popular lately, so here in another one: My brother and I have two very distinct wine quality stories that I find very amusing when seen together. Each involves a young woman, at the age where going to parties and flirting with alcohol is at its most exciting, somewhere just before or just after going to university.
+#1: A rather simple red wine was served with the main dish at a dinner party with the entire class of that year.</description>
     </item>
     
   </channel>

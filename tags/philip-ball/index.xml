@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philip Ball on Simba Tango</title>
-    <link>http://simbatango.com/tags/philip-ball/index.xml</link>
+    <link>http://simbatango.com/tags/philip-ball/</link>
     <description>Recent content in Philip Ball on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/philip-ball/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Apr 2010 19:43:07 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/philip-ball/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The Music Instinct</title>
@@ -16,18 +19,8 @@
       <pubDate>Sun, 18 Apr 2010 19:43:07 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2010/04/18/the-music-instinct/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/blog/wp-content/uploads/2010/03/music-instinct.png&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2010/03/music-instinct.png&#34; alt=&#34;&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;You know more about music than you think. You start picking up the rules from the day you are born, yes even before. And part of what makes music enjoyable is this knowledge of what to expect and the delight when your expectations are fulfilled, or some times bent a little before they find resolution.&lt;/p&gt;
-
-&lt;p&gt;This is part of the message of a fascinating book about music, &lt;a href=&#34;http://www.amazon.co.uk/Music-Instinct-Works-Cant-without/dp/1847920888/ref=sr_1_1?ie=UTF8&amp;amp;s=books&amp;amp;qid=1271619437&amp;amp;sr=8-1&#34;&gt;The Music Instinct&lt;/a&gt; by Philip Ball, (read reviews for instance in &lt;a href=&#34;http://www.economist.com/books/displaystory.cfm?story_id=15450498&#34;&gt;The Economist&lt;/a&gt;, or in &lt;a href=&#34;http://www.guardian.co.uk/books/2010/feb/21/the-music-instinct-philip-ball&#34;&gt;The Guardian&lt;/a&gt;) a book that I finally had time to finish reading this week-end.&lt;/p&gt;
-
-&lt;p&gt;Philip Ball has reviewed a lot of research on how our brains process music, and combines that knowledge with music theory and research in a very interesting blend. I enjoyed it a lot, and there is clearly material for quite a few posts here, but I haven&amp;rsquo;t had the time to process it all yet.&lt;/p&gt;
-
-&lt;p&gt;Already as small children we have figured out a lot of  the rules of music, but mainly about the music with which we are familiar. Ball investigates what is universal and what is based on cultural habit, how we interpret pitch, scales, melody, harmony,  rhythm, syntactic rules, semantics, the list goes on and on. In the final chapter he among other things discusses whether music can be interpreted incorrectly  &amp;ndash; fascinating topics and very relevant to tango as to all other music.&lt;/p&gt;
-
-&lt;p&gt;A recommended read, and I&amp;rsquo;ll certainly get back to this later. Did you know that even an amoeba can respond to rhythm? Seems unlikely tango beginners could lack that ability&amp;hellip;&lt;/p&gt;
-</description>
+      <description>You know more about music than you think. You start picking up the rules from the day you are born, yes even before. And part of what makes music enjoyable is this knowledge of what to expect and the delight when your expectations are fulfilled, or some times bent a little before they find resolution.
+This is part of the message of a fascinating book about music, The Music Instinct by Philip Ball, (read reviews for instance in The Economist, or in The Guardian) a book that I finally had time to finish reading this week-end.</description>
     </item>
     
   </channel>

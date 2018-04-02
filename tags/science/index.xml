@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Science on Simba Tango</title>
-    <link>http://simbatango.com/tags/science/index.xml</link>
+    <link>http://simbatango.com/tags/science/</link>
     <description>Recent content in Science on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Feb 2015 19:22:52 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/science/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The Perfect Embrace</title>
@@ -16,17 +19,9 @@
       <pubDate>Sat, 14 Feb 2015 19:22:52 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2015/02/14/the-perfect-embrace/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/virgoh/8413961643/&#34;&gt;&lt;img src=&#34;https://farm9.static.flickr.com/8364/8413961643_62e7a83368.jpg&#34; alt=&#34;the dark side of the embrace by virgoh, on Flickr&#34; /&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc/2.0/80x15.png&#34; alt=&#34;Creative Commons Creative Commons Attribution-Noncommercial 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;https://www.flickr.com/people/virgoh/&#34;&gt; &lt;/a&gt;&lt;a href=&#34;https://www.flickr.com/people/virgoh/&#34;&gt;virgoh&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Of course, this is nothing new to tango dancers, but understanding the mechanisms is interesting:&lt;/p&gt;
-
-&lt;blockquote&gt;A caress feels best when it is delivered with a small amount of force and a speed of about 1 inch per second. Stroke slower, and it feels like an unwelcome crawling bug; faster, and it feels perfunctory rather than loving. &lt;/blockquote&gt;
-
-&lt;blockquote&gt;Perform your caress not on the glabrous skin of the palm or sole, but on the hairy skin of the limbs where the caress sensing fibers are found. Move your hand at about 1 inch per second, exert moderate force, don’t clutch a cold drink immediately beforehand, and you will optimally activate your partner’s caress-sensing fibers and then strongly excite the posterior insular region of your sweetheart’s brain. And for a moment, all will be right with the world.&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.slate.com/articles/health_and_science/science/2015/02/touch_research_how_to_perform_the_ideal_caress_for_valentine_s_day.single.html&#34;&gt;Read the full article @ Slate.&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>by virgoh
+Of course, this is nothing new to tango dancers, but understanding the mechanisms is interesting:
+A caress feels best when it is delivered with a small amount of force and a speed of about 1 inch per second. Stroke slower, and it feels like an unwelcome crawling bug; faster, and it feels perfunctory rather than loving.  Perform your caress not on the glabrous skin of the palm or sole, but on the hairy skin of the limbs where the caress sensing fibers are found.</description>
     </item>
     
   </channel>

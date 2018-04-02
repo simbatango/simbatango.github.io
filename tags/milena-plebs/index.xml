@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Milena Plebs on Simba Tango</title>
-    <link>http://simbatango.com/tags/milena-plebs/index.xml</link>
+    <link>http://simbatango.com/tags/milena-plebs/</link>
     <description>Recent content in Milena Plebs on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/milena-plebs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jan 2009 10:19:55 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/milena-plebs/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Classic Couples: Miguel Angel Zotto &amp; Milena Plebs</title>
@@ -16,14 +19,10 @@
       <pubDate>Thu, 15 Jan 2009 10:19:55 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/01/15/classic-couples-miguel-angel-zotto-milena-plebs/</guid>
-      <description>&lt;p&gt;httpvh://uk.youtube.com/watch?v=jSFkVrTJ_Ig&lt;/p&gt;
-
-&lt;p&gt;httpvh://uk.youtube.com/watch?v=pL9r4NURca0&lt;/p&gt;
-
-&lt;p&gt;httpvh://uk.youtube.com/watch?v=hgcRo0m1Yn8&lt;/p&gt;
-
-&lt;p&gt;[](&lt;a href=&#34;http://uk.youtube.com/watch?v=hgcRo0m1Yn8&#34;&gt;http://uk.youtube.com/watch?v=hgcRo0m1Yn8&lt;/a&gt;)&lt;/p&gt;
-</description>
+      <description>httpvh://uk.youtube.com/watch?v=jSFkVrTJ_Ig
+httpvh://uk.youtube.com/watch?v=pL9r4NURca0
+httpvh://uk.youtube.com/watch?v=hgcRo0m1Yn8
+[](http://uk.youtube.com/watch?v=hgcRo0m1Yn8)</description>
     </item>
     
   </channel>

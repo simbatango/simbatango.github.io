@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cristhian Sosa on Simba Tango</title>
-    <link>http://simbatango.com/tags/cristhian-sosa/index.xml</link>
+    <link>http://simbatango.com/tags/cristhian-sosa/</link>
     <description>Recent content in Cristhian Sosa on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/cristhian-sosa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Jun 2009 01:48:52 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/cristhian-sosa/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Cristhian Sosa &amp; Lida Montovani</title>
@@ -16,24 +19,10 @@
       <pubDate>Thu, 04 Jun 2009 01:48:52 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/06/04/cristhian-sosa-lida-montovani/</guid>
-      <description>&lt;p&gt;Wow! First place both in milonga and vals! I am impressed, but not surprised. They were  in a different class entirely as far as I could judge from the videos posted over at &lt;a href=&#34;http://www.2xtango.com/?p=1327&#34;&gt;2xtango&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Felicitaciones!&lt;/p&gt;
-
-&lt;p&gt;Here they are performing at La Viruta. A milonga and a vals, of course.&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/GJ7tuVUyeig&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/Ezr5WxZaCiQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-</description>
+      <description>Wow! First place both in milonga and vals! I am impressed, but not surprised. They were in a different class entirely as far as I could judge from the videos posted over at 2xtango.
+Felicitaciones!
+Here they are performing at La Viruta. A milonga and a vals, of course.
+    </description>
     </item>
     
     <item>
@@ -42,14 +31,10 @@
       <pubDate>Tue, 30 Dec 2008 12:11:24 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2008/12/30/cristhian-sosa-samantha-dispari/</guid>
-      <description>&lt;p&gt;At last at youtube: Cristhian Sosa &amp;amp; Samantha Dispari:&lt;/p&gt;
-
-&lt;p&gt;httpvh://uk.youtube.com/watch?v=FDda9gi_jmk&amp;amp;feature=related&lt;/p&gt;
-
-&lt;p&gt;httpvh://uk.youtube.com/watch?v=_iXqfsmicXs&amp;amp;feature=related&lt;/p&gt;
-
-&lt;p&gt;httpvh://uk.youtube.com/watch?v=_rQqPGDH1II&amp;amp;feature=related&lt;/p&gt;
-</description>
+      <description>At last at youtube: Cristhian Sosa &amp;amp; Samantha Dispari:
+httpvh://uk.youtube.com/watch?v=FDda9gi_jmk&amp;amp;feature=related
+httpvh://uk.youtube.com/watch?v=_iXqfsmicXs&amp;amp;feature=related
+httpvh://uk.youtube.com/watch?v=_rQqPGDH1II&amp;amp;feature=related</description>
     </item>
     
   </channel>

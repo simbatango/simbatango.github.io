@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Showing Off on Simba Tango</title>
-    <link>http://simbatango.com/tags/showing-off/index.xml</link>
+    <link>http://simbatango.com/tags/showing-off/</link>
     <description>Recent content in Showing Off on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/showing-off/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Dec 2008 22:12:44 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/showing-off/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Showing off</title>
@@ -16,25 +19,13 @@
       <pubDate>Wed, 10 Dec 2008 22:12:44 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2008/12/10/showing-off/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/ku_non/105677936/&#34;&gt;&lt;img src=&#34;http://farm1.static.flickr.com/52/105677936_943d6756f8.jpg&#34; alt=&#34;Peacock by *- mika -*, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-nd/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/ku_non/&#34;&gt; &lt;em&gt;- mika -&lt;/em&gt;&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Who hasn&amp;rsquo;t been tempted&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&amp;hellip; to do some flashy moves when someone sitting next to the dance floor watches.&lt;/p&gt;
-
-&lt;p&gt;&amp;hellip; to show all the tricks of the trade when getting to dance with a really good dancer&lt;/p&gt;
-
-&lt;p&gt;&amp;hellip; to play some obscure gem from the record collection when djing&lt;/p&gt;
-
-&lt;p&gt;&amp;hellip; to  play some &lt;insert non-tango genre here&gt; music to be innovative&lt;/p&gt;
-
-&lt;p&gt;The problem is, it does not impress anyone. Least of all the ones you try to impress.&lt;/p&gt;
-
-&lt;p&gt;It is just annoying. I am not impressed when you do a jump on the floor of a milonga, I have to make an effort not to start laughing (yes &amp;ndash; this happened). I am not impressed when you play Madonna (this too), just irritated that I have to wait 15 more minutes until there is a slight chance of getting some danceable music.&lt;/p&gt;
-
-&lt;p&gt;A dj that plays great dance music all night long without directing attention to himself. A performance of pure excellent movement in harmony with the music, both letting the other shine. Now &lt;strong&gt;that&lt;/strong&gt; is impressive.&lt;/p&gt;
-</description>
+      <description>by - mika -
+Who hasn&amp;rsquo;t been tempted&amp;hellip;
+&amp;hellip; to do some flashy moves when someone sitting next to the dance floor watches.
+&amp;hellip; to show all the tricks of the trade when getting to dance with a really good dancer
+&amp;hellip; to play some obscure gem from the record collection when djing
+&amp;hellip; to play some music to be innovative
+The problem is, it does not impress anyone.</description>
     </item>
     
   </channel>

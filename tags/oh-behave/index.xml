@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oh Behave on Simba Tango</title>
-    <link>http://simbatango.com/tags/oh-behave/index.xml</link>
+    <link>http://simbatango.com/tags/oh-behave/</link>
     <description>Recent content in Oh Behave on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/oh-behave/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jan 2009 10:56:49 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/oh-behave/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The code</title>
@@ -16,17 +19,9 @@
       <pubDate>Sun, 25 Jan 2009 10:56:49 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/01/25/the-code/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/anthonygrimley/116867237/&#34;&gt;&lt;img src=&#34;http://farm1.static.flickr.com/51/116867237_9a18590294.jpg&#34; alt=&#34;Red no entry sign by anthonygrimley, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-nd/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/anthonygrimley/&#34;&gt; anthonygrimley&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;It can be difficult to learn tango. In addition to learning to know the music, leading and following and the basic vocabulary, there are the rules. So many rules to remember. Or codigos, as some prefer to call them. Codigos de la milonga.&lt;/p&gt;
-
-&lt;p&gt;And there are some that think way too much attention devoted to these &amp;ldquo;rules&amp;rdquo;. Ancient rules from Buenos Aires, we can manage very well without them, thankyouverymuch. In our country, we do it our way.&lt;/p&gt;
-
-&lt;p&gt;What these people fail to understand is that what they see as rigid rules from a distant time is only &lt;em&gt;common sense&lt;/em&gt; or &lt;em&gt;simple courtesy&lt;/em&gt;. I know courtesy is out of fashion these days, but here is your wake-up call: so is couple dancing! And they go together, the two.&lt;/p&gt;
-
-&lt;p&gt;It is astonishing that one has to teach grown up individuals, tell them explicitly that one should not kick the others on the dance floor, respect a no for a no and in general behave like  grown ups. And even more startling: after being taught these things, people still do it.&lt;/p&gt;
-</description>
+      <description>by anthonygrimley
+It can be difficult to learn tango. In addition to learning to know the music, leading and following and the basic vocabulary, there are the rules. So many rules to remember. Or codigos, as some prefer to call them. Codigos de la milonga.
+And there are some that think way too much attention devoted to these &amp;ldquo;rules&amp;rdquo;. Ancient rules from Buenos Aires, we can manage very well without them, thankyouverymuch.</description>
     </item>
     
   </channel>

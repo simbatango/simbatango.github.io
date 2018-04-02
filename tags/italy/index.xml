@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Italy on Simba Tango</title>
-    <link>http://simbatango.com/tags/italy/index.xml</link>
+    <link>http://simbatango.com/tags/italy/</link>
     <description>Recent content in Italy on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/italy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Aug 2009 02:18:38 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/italy/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>In search for the authentic</title>
@@ -16,17 +19,9 @@
       <pubDate>Fri, 07 Aug 2009 02:18:38 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/08/07/in-search-for-the-authentic/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/mr38/143786705/&#34;&gt;&lt;img src=&#34;http://farm1.static.flickr.com/52/143786705_0c712c0e95.jpg&#34; alt=&#34;AUTHENTIC REPRODUCTIONS by MR38, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-nd/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/mr38/&#34;&gt; MR38&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;We love our &lt;strong&gt;Argentine Tango&lt;/strong&gt; (or maybe &lt;strong&gt;Tango Argentino&lt;/strong&gt;) to be sure. Do not bastardize it, please. We want the real thing!&lt;/p&gt;
-
-&lt;p&gt;On the other hand, there is no one tango. Tango is a living expression of the people who play, sing, listen to and dance it. My tango is different from yours, or I sure hope so. Not too different, but a little different. That&amp;rsquo;s what makes it interesting.&lt;/p&gt;
-
-&lt;p&gt;Since I do love Italy and Italian food (no wonder I love Buenos Aires?), I thought I would share this interesting &lt;a href=&#34;http://blindtaste.com/2009/07/24/the-problem-with-fetishizing-pork-jowl/&#34;&gt;article discussing authenticity in the Italian kitchen&lt;/a&gt;. Serves well (pun intended) as an apropos to the very same discussion on tango.&lt;/p&gt;
-
-&lt;p&gt;Buon appetito!&lt;/p&gt;
-</description>
+      <description>by MR38
+We love our Argentine Tango (or maybe Tango Argentino) to be sure. Do not bastardize it, please. We want the real thing!
+On the other hand, there is no one tango. Tango is a living expression of the people who play, sing, listen to and dance it. My tango is different from yours, or I sure hope so. Not too different, but a little different. That&amp;rsquo;s what makes it interesting.</description>
     </item>
     
   </channel>

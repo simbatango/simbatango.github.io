@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Download on Simba Tango</title>
-    <link>http://simbatango.com/tags/download/index.xml</link>
+    <link>http://simbatango.com/tags/download/</link>
     <description>Recent content in Download on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/download/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jul 2009 02:48:22 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/download/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>&#39;New&#39; tango music on eMusic</title>
@@ -16,15 +19,8 @@
       <pubDate>Tue, 21 Jul 2009 02:48:22 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/07/21/new-tango-music-on-emusic/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/emilybean/1216468104/&#34;&gt;&lt;img src=&#34;http://farm2.static.flickr.com/1340/1216468104_31114825d3.jpg&#34; alt=&#34;Ipodular Monkey by emilybean, on Flickr&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-nd/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc-nd/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial-No Derivative Works 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/emilybean/&#34;&gt; emilybean&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Just as I was seriously considering quitting eMusic for good &amp;ndash;  they deleted my plan, essentially making it more expensive, after I forgot using my credits in time, they just added a load of tango albums, making it somewhat tempting to stay a while longer anyways. Several of the &amp;lsquo;Grandes del Tango&amp;rsquo; albums published by Lantower were recently added and also some others. They also changed it so you can buy an entire album for 12 credits, which works out well for tango albums often with 20+ songs.&lt;/p&gt;
-
-&lt;p&gt;The problem is, I already have more music than I have time to listen to. Oh well.&lt;/p&gt;
-
-&lt;p&gt;Check out this &lt;a href=&#34;http://www.emusic.com/lists/showlist.html?lid=798617&amp;amp;p=1&#34;&gt;list of tango music at eMusic&lt;/a&gt;, a good start for a beginner. Probably the fastest and cheapest way to get up to speed music wise. Legal, yours for ever, no DRM. I don&amp;rsquo;t like how they delete credits you don&amp;rsquo;t have time to use, but otherwise it is fine. You get free songs to keep when you sign up for a trial.&lt;/p&gt;
-</description>
+      <description>by emilybean
+Just as I was seriously considering quitting eMusic for good &amp;ndash; they deleted my plan, essentially making it more expensive, after I forgot using my credits in time, they just added a load of tango albums, making it somewhat tempting to stay a while longer anyways. Several of the &amp;lsquo;Grandes del Tango&amp;rsquo; albums published by Lantower were recently added and also some others. They also changed it so you can buy an entire album for 12 credits, which works out well for tango albums often with 20+ songs.</description>
     </item>
     
   </channel>

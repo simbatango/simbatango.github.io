@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Castillo on Simba Tango</title>
-    <link>http://simbatango.com/tags/castillo/index.xml</link>
+    <link>http://simbatango.com/tags/castillo/</link>
     <description>Recent content in Castillo on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/castillo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Oct 2008 20:53:53 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/castillo/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Old tango hero</title>
@@ -16,22 +19,8 @@
       <pubDate>Thu, 09 Oct 2008 20:53:53 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2008/10/09/old-tango-hero/</guid>
-      <description>&lt;p&gt;On our first visit to Buenos Aires, we rented a room in San Telmo. Right in the neighborhood is the Centro Cultural Torquato Tasso. For some reason we never came around to go there, even if it was by far the closest milonga.&lt;/p&gt;
-
-&lt;p&gt;Until one evening, we finally found space in our schedule to visit El Tasso. There was to be live music, and we were quite excited. The place was packed with people, and all of a sudden an old man was announced, and with support from a couple of guys he entered the stage. He was obviously going to sing with the orchestra.&lt;/p&gt;
-
-&lt;p&gt;As he started to sing, it was clear to us that he had once had a great voice, but we thought that was long ago. After the first song, however, his voice seemed to be warmed up, and we could hear with our own ears that this had been one of the great heros of tango music. And if we could not hear it, we could see it from the people in the room, cheering him from the back of the venue, singing along with all his famous tunes. (Of which we were shamefully ignorant). On the dance floor, I could hardly move at all. The pista felt so packed that if I would lift my feet, I would be carried with the flow. Quite frustrated, I could see that the more experienced dancers were doing all kind of stuff, giros and everything, all without taking any space. Amazing and very frustrating.&lt;/p&gt;
-
-&lt;p&gt;Everybody was there, including some very famous dancers, and all the people we saw regularly in the milongas.  So one great experience richer, we wrote about the evening in our travel diary and went on with our schedule. Before returning home, we got some tips from our tango teachers for music to buy at Zival&amp;rsquo;s. The names Di Sarli, Troilo and D&amp;rsquo;Arienzo did not mean much at the time, and I remember being amazed by my teachers&amp;rsquo; spotting of Puglieses &lt;em&gt;Gallo ciego&lt;/em&gt; one evening at the &lt;em&gt;Niño Bien&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Some years later, I was listening to a tango cd. And it struck me how similar this was to the old man in El Tasso. Could it be&amp;hellip;?&lt;/p&gt;
-
-&lt;p&gt;I found the old travel diary, to check the details. I wondered if it could be &lt;em&gt;Alberto Castillo&lt;/em&gt;, a name I had grown to appreciate over the years. And in the diary it said black on white, that indeed, Alberto Castillo it was. One of the very great, and appreciated enthusiastically, however ignorantly.&lt;/p&gt;
-
-&lt;p&gt;httpvh://uk.youtube.com/watch?v=sxELJ3Lccx8&amp;amp;NR=1&lt;/p&gt;
-
-&lt;p&gt;Alberto Castillo died not much after, and I believe this was one of his last performances. which I am greatful to have experienced.&lt;/p&gt;
-</description>
+      <description>On our first visit to Buenos Aires, we rented a room in San Telmo. Right in the neighborhood is the Centro Cultural Torquato Tasso. For some reason we never came around to go there, even if it was by far the closest milonga.
+Until one evening, we finally found space in our schedule to visit El Tasso. There was to be live music, and we were quite excited. The place was packed with people, and all of a sudden an old man was announced, and with support from a couple of guys he entered the stage.</description>
     </item>
     
   </channel>

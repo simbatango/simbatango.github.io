@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nick Names on Simba Tango</title>
-    <link>http://simbatango.com/tags/nick-names/index.xml</link>
+    <link>http://simbatango.com/tags/nick-names/</link>
     <description>Recent content in Nick Names on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/nick-names/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Nov 2009 02:32:40 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/nick-names/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Hola Papa Noel...</title>
@@ -16,14 +19,7 @@
       <pubDate>Wed, 25 Nov 2009 02:32:40 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/11/25/hola-papa-noel/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/eBTfj_T3zkM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;Did you check your list twice? This is old, but I saved it for Christmas time. Not really related to tango, except we were introduced to it by tango people. In spring. My wife&amp;rsquo;s pregnancy was just becoming official, and the unborn baby instantly earned his first nickname: Jorgito. &amp;ndash;But don&amp;rsquo;t name him Jorgito, that&amp;rsquo;s &lt;strong&gt;not&lt;/strong&gt; nice.&lt;/p&gt;
-</description>
+      <description>Did you check your list twice? This is old, but I saved it for Christmas time. Not really related to tango, except we were introduced to it by tango people. In spring. My wife&amp;rsquo;s pregnancy was just becoming official, and the unborn baby instantly earned his first nickname: Jorgito. &amp;ndash;But don&amp;rsquo;t name him Jorgito, that&amp;rsquo;s not nice.</description>
     </item>
     
   </channel>

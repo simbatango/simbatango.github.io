@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Los Hermanos Macana on Simba Tango</title>
-    <link>http://simbatango.com/tags/los-hermanos-macana/index.xml</link>
+    <link>http://simbatango.com/tags/los-hermanos-macana/</link>
     <description>Recent content in Los Hermanos Macana on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/los-hermanos-macana/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Aug 2009 02:31:25 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/los-hermanos-macana/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Tango @ Times Square</title>
@@ -16,18 +19,10 @@
       <pubDate>Sun, 23 Aug 2009 02:31:25 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/08/23/tango-times-square/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://simbatango.com/2009/08/22/tango-times-square/simba-times-square/&#34;&gt;&lt;img src=&#34;http://simbatango.com/blog/wp-content/uploads/2009/08/simba-times-square.jpg&#34; alt=&#34;simba-times-square&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Above: Simba @ Times Square&lt;/p&gt;
-
-&lt;p&gt;Below: Los Hermanos Macana @ Times Square&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/8TNzCiy8iaY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-</description>
+      <description>
+Above: Simba @ Times Square
+Below: Los Hermanos Macana @ Times Square
+  </description>
     </item>
     
     <item>
@@ -36,18 +31,12 @@
       <pubDate>Fri, 28 Nov 2008 11:20:36 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2008/11/28/it-can-be-fun-too/</guid>
-      <description>&lt;p&gt;Just because tango can be deep and &lt;a href=&#34;http://simbatango.com/2008/10/17/why-so-serious/&#34;&gt;serious&lt;/a&gt;, doesn&amp;rsquo;t mean it can&amp;rsquo;t be a lot of fun, too.&lt;/p&gt;
-
-&lt;p&gt;I remember learning very early about the three musical genres: milonga was fun, tango serious and vals about love&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&amp;hellip;so no coincidence that two out of three are milongas:&lt;/p&gt;
-
-&lt;p&gt;httpv://uk.youtube.com/watch?v=98CmUhcJWbwhttpv://uk.youtube.com/watch?v=98CmUhcJWbw&lt;/p&gt;
-
-&lt;p&gt;httpvh://uk.youtube.com/watch?v=97B2vGyZ6j0&lt;/p&gt;
-
-&lt;p&gt;httpvh://uk.youtube.com/watch?v=S-mkR-KoPts&lt;/p&gt;
-</description>
+      <description>Just because tango can be deep and serious, doesn&amp;rsquo;t mean it can&amp;rsquo;t be a lot of fun, too.
+I remember learning very early about the three musical genres: milonga was fun, tango serious and vals about love&amp;hellip;
+&amp;hellip;so no coincidence that two out of three are milongas:
+httpv://uk.youtube.com/watch?v=98CmUhcJWbwhttpv://uk.youtube.com/watch?v=98CmUhcJWbw
+httpvh://uk.youtube.com/watch?v=97B2vGyZ6j0
+httpvh://uk.youtube.com/watch?v=S-mkR-KoPts</description>
     </item>
     
   </channel>

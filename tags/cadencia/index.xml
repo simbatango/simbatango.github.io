@@ -2,13 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cadencia on Simba Tango</title>
-    <link>http://simbatango.com/tags/cadencia/index.xml</link>
+    <link>http://simbatango.com/tags/cadencia/</link>
     <description>Recent content in Cadencia on Simba Tango</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>simbatango@gmail.com (Simba)</managingEditor>
     <webMaster>simbatango@gmail.com (Simba)</webMaster>
-    <atom:link href="http://simbatango.com/tags/cadencia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jul 2009 01:01:40 +0000</lastBuildDate>
+    
+	<atom:link href="http://simbatango.com/tags/cadencia/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Cadencia</title>
@@ -16,35 +19,8 @@
       <pubDate>Thu, 23 Jul 2009 01:01:40 +0000</pubDate>
       <author>simbatango@gmail.com (Simba)</author>
       <guid>http://simbatango.com/2009/07/23/cadencia/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.flickr.com/photos/kanaka/1638622089/&#34;&gt;&lt;img src=&#34;http://farm3.static.flickr.com/2020/1638622089_f4a29968d4.jpg&#34; alt=&#34; by Kanaka&#34; /&gt;&lt;/a&gt;
-&lt;a href=&#34;http://creativecommons.org/licenses/by-nc/2.0/&#34;&gt;&lt;img src=&#34;http://i.creativecommons.org/l/by-nc/2.0/80x15.png&#34; alt=&#34;Creative Commons Attribution-Noncommercial 2.0 Generic License&#34; /&gt;&lt;/a&gt; by &lt;a href=&#34;http://www.flickr.com/people/kanaka/&#34;&gt; Kanaka&amp;rsquo;s Paradise Life in Hawaii&lt;/a&gt;&lt;a href=&#34;http://www.imagecodr.org/&#34;&gt; &lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;If you have to ask, you will never know.
-
-&gt; 
-&gt; _Luis Armstrong when asked &#39;what is jazz?&#39;_
-&gt; 
-&gt; 
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;em&gt;&amp;ndash;You see, that is not the way to make it &amp;lsquo;swing&amp;rsquo; in tango.&lt;/em&gt; I was looking out onto the group of people standing around us with question marks painted all over their faces. &amp;ndash;&lt;em&gt;Well, I don&amp;rsquo;t know the right word, but the corresponding to swing in tango.&lt;/em&gt; They were bouncing up and down for each step, like in many other dances; swing and folk dance were probably what they had been somewhat exposed to before.&lt;/p&gt;
-
-&lt;p&gt;_&amp;ndash;You make it swing by changing the weight, but staying in the same level. _I explained and demonstrated, knowing it was really a crude simplification. It was not the time to start talking of phrasing and movements of upper body, but I think they got the idea. The caricature of what they were doing made them smile&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;So what would be a good word for it? Cadencia? Canyengue? Tango? &lt;em&gt;&amp;ndash;You see, to make it &lt;strong&gt;tango&lt;/strong&gt;&amp;hellip;&lt;/em&gt; Nah..&lt;/p&gt;
-
-&lt;p&gt;It has been said about tango that your feet dance the rhythm, while your body dances the melody. Which is well put, I think. It is fascinating this constrast between the hastily moving, intertwining legs, playing games while the upper bodies are calm in a loving embrace. This contrast is essential to the dance&amp;rsquo;s almost hypnotical attraction on the spectators.&lt;/p&gt;
-
-&lt;p&gt;Seeing the dancers flowing around the dance floor, the music arriving in waves. And the dancers surfing on these waves. Breathing with the phrases Doing their thing. Not rushing it. Not controlled by it, but somehow following it nevertheless. While the feet go ric-tic-tic-tic-tic.&lt;/p&gt;
-
-&lt;p&gt;And that is the essence of the cadencia, I think. This flowing motion of the bodies. Waves, pendulums. Rising and falling. Apparently cadencia comes from Latin and means fall, so I could be on to something here.&lt;/p&gt;
-
-&lt;p&gt;With many foreign dancers (like myself), the dance will appear and feel a little stiff (duro) or flat (chato). A perfomance can be very good in the sense that it is well coordinated, dancers always in balance, synchonized and moving to the right place in every step. Flawless. Still there will be something missing. And what is missing, I believe often to be the cadencia.&lt;/p&gt;
-
-&lt;p&gt;I once did a variant of a simple backstep that I learned from a milonguero with a friend at a practica. She looked at me, horrified, and said: &lt;em&gt;&amp;ndash;It felt almost like we were falling.&lt;/em&gt; Well, that was the point&amp;hellip; Falling safely in my embrace. Feeling the cadencia.&lt;/p&gt;
-
-&lt;p&gt;In fact one of the best compliments you could possibly get is to be told that you have cadencia by someone who knows what it&amp;rsquo;s about. Not that I suggest that I really know. Well, at least I am trying. And I write this despite the fact that it may be the proof that I will never get it, I have this sneaky feeling that it is with tango as it is with jazz. If you have to ask&amp;hellip;&lt;/p&gt;
-</description>
+      <description>by Kanaka&amp;rsquo;s Paradise Life in Hawaii
+If you have to ask, you will never know.   _Luis Armstrong when asked &#39;what is jazz?&#39;_    &amp;ndash;You see, that is not the way to make it &amp;lsquo;swing&amp;rsquo; in tango. I was looking out onto the group of people standing around us with question marks painted all over their faces. &amp;ndash;Well, I don&amp;rsquo;t know the right word, but the corresponding to swing in tango.</description>
     </item>
     
   </channel>
